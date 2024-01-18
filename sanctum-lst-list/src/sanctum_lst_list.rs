@@ -11,18 +11,18 @@ pub struct SanctumLstList {
 }
 
 impl SanctumLstList {
-    pub fn from_file<P: AsRef<Path>>(path: P) -> std::io::Result<Self> {
+    pub fn load_from_file<P: AsRef<Path>>(path: P) -> std::io::Result<Self> {
         let s = fs::read_to_string(path)?;
-        Self::from_str(&s)
+        Self::load_from_str(&s)
     }
 
-    pub fn from_str(s: &str) -> std::io::Result<Self> {
-        toml::from_str(&s).map_err(|e| std::io::Error::new(std::io::ErrorKind::Other, e))
+    pub fn load_from_str(s: &str) -> std::io::Result<Self> {
+        toml::from_str(s).map_err(|e| std::io::Error::new(std::io::ErrorKind::Other, e))
     }
 
     pub fn load() -> Self {
         // TODO: this include_str might break rust-analyzer or compile-times when sanctum-lst-list.toml gets huge, idk
         let s = include_str!("../sanctum-lst-list.toml");
-        Self::from_str(s).unwrap()
+        Self::load_from_str(s).unwrap()
     }
 }

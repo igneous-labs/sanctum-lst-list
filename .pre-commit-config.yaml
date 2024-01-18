@@ -1,10 +1,12 @@
 default_stages: [commit]
 repos:
-  - repo: https://github.com/doublify/pre-commit-rust
-    rev: v1.0
+  - repo: local
     hooks:
       - id: fmt
-        files: sanctum-lst-list/
+        name: fmt
+        language: system
+        entry: sh -c "cd sanctum-lst-list && cargo fmt"
       - id: clippy
-        files: sanctum-lst-list/
-        args: ["--tests", "--", "-Dwarnings"]
+        name: clippy
+        language: system
+        entry: sh -c "cd sanctum-lst-list && cargo clippy --tests -- -Dwarnings"

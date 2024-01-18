@@ -1,0 +1,10 @@
+default_stages: [commit]
+repos:
+  - repo: https://github.com/doublify/pre-commit-rust
+    rev: v1.0
+    hooks:
+      - id: fmt
+        files: sanctum-lst-list/
+      - id: clippy
+        files: sanctum-lst-list/
+        args: ["--tests", "--", "-Dwarnings"]

@@ -16,6 +16,12 @@ pub enum PoolProgram {
     SanctumSpl,
 }
 
+impl Display for PoolProgram {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(f, "{self:?}")
+    }
+}
+
 #[derive(Clone, Copy, Debug, PartialEq, Eq, PartialOrd, Ord, Hash)]
 pub struct UnsupportedPoolProgramErr;
 

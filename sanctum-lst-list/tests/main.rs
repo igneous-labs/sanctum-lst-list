@@ -9,11 +9,13 @@ fn load() {
 
     // validate unique mints
     let mut dedup = HashSet::new();
-    for SanctumLst { mint, .. } in sanctum_lst_list {
+    for SanctumLst { mint, .. } in &sanctum_lst_list {
         if !dedup.insert(mint) {
             panic!("Duplicate mint {mint} found");
         }
     }
+    println!("{sanctum_lst_list:?}");
+
     // TODO: sample 1 from each enum variant to check the fields values
     // to make sure everything is deserialized as expected
 }

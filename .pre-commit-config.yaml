@@ -1,0 +1,12 @@
+default_stages: [commit]
+repos:
+  - repo: local
+    hooks:
+      - id: fmt
+        name: fmt
+        language: system
+        entry: sh -c "cd sanctum-lst-list && cargo fmt"
+      - id: clippy
+        name: clippy
+        language: system
+        entry: sh -c "cd sanctum-lst-list && cargo clippy --tests -- -Dwarnings"

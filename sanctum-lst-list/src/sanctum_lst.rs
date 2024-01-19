@@ -10,9 +10,9 @@ pub enum PoolInfo {
     Lido,
     Marinade,
     ReservePool,
+    SanctumSpl(SplPoolAccounts),
     Socean(SplPoolAccounts),
     Spl(SplPoolAccounts),
-    SanctumSpl(SplPoolAccounts),
 }
 
 #[derive(Serialize, Deserialize, Clone, Copy, Debug, PartialEq, Eq, PartialOrd, Ord, Hash)]

@@ -11,9 +11,9 @@ pub enum PoolProgram {
     Lido,
     Marinade,
     ReservePool,
+    SanctumSpl,
     Socean,
     Spl,
-    SanctumSpl,
 }
 
 impl Display for PoolProgram {
@@ -41,9 +41,9 @@ impl TryFrom<Pubkey> for PoolProgram {
             lido_program::ID => Self::Lido,
             marinade_program::ID => Self::Marinade,
             sanctum_reserve_pool_program::ID => Self::ReservePool,
+            sanctum_spl_stake_pool_program::ID => Self::SanctumSpl,
             socean_program::ID => Self::Socean,
             spl_stake_pool_program::ID => Self::Spl,
-            sanctum_spl_stake_pool_program::ID => Self::SanctumSpl,
             _ => Err(UnsupportedPoolProgramErr)?,
         })
     }
@@ -55,9 +55,9 @@ impl From<PoolProgram> for Pubkey {
             PoolProgram::Lido => lido_program::ID,
             PoolProgram::Marinade => marinade_program::ID,
             PoolProgram::ReservePool => sanctum_reserve_pool_program::ID,
+            PoolProgram::SanctumSpl => sanctum_spl_stake_pool_program::ID,
             PoolProgram::Socean => socean_program::ID,
             PoolProgram::Spl => spl_stake_pool_program::ID,
-            PoolProgram::SanctumSpl => sanctum_spl_stake_pool_program::ID,
         }
     }
 }

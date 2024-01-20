@@ -1,0 +1,13 @@
+[package]
+name = "sanctum-lst-list"
+version = "0.1.0"
+edition = "2021"
+
+include = ["README.md", "sanctum-lst-list.toml", "src/"]
+
+[dependencies]
+serde = { workspace = true }
+serde_with = { workspace = true }
+solana-program = { workspace = true }
+sanctum-macros = { workspace = true }
+toml = { workspace = true }

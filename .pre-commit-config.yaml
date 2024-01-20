@@ -5,8 +5,8 @@ repos:
       - id: fmt
         name: fmt
         language: system
-        entry: sh -c "cd sanctum-lst-list && cargo fmt"
+        entry: sh -c "cd rust && cargo fmt"
       - id: clippy
         name: clippy
         language: system
-        entry: sh -c "cd sanctum-lst-list && cargo clippy --tests -- -Dwarnings"
+        entry: sh -c "cd rust && cargo clippy --tests -- -Dwarnings"

@@ -1,2 +1,3 @@
-# sanctum-lst-list
-Definitive list of Liquid Staking Token integrated under sanctum
+# Sanctum LST List
+
+Definitive list of Liquid Staking Tokens integrated under Sanctum.

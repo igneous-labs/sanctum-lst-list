@@ -33,6 +33,7 @@ fn main() {
              logo_uri,
              decimals,
              pool: _,
+             ..
          }| println!("{name},{symbol},{mint},{decimals},{logo_uri},{validated}"),
     )
 }

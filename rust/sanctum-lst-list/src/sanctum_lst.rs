@@ -43,6 +43,9 @@ pub struct SanctumLst {
     #[serde(with = "As::<DisplayFromStr>")]
     pub mint: Pubkey,
 
+    #[serde(with = "As::<DisplayFromStr>")]
+    pub token_program: Pubkey,
+
     pub name: String,
     pub symbol: String,
     pub logo_uri: String,

@@ -14,7 +14,7 @@ fn load() {
             panic!("Duplicate mint {mint} found");
         }
     }
-    println!("{sanctum_lst_list:?}");
+    println!("{sanctum_lst_list:#?}");
 
     // TODO: sample 1 from each enum variant to check the fields values
     // to make sure everything is deserialized as expected

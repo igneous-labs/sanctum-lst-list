@@ -1,0 +1,26 @@
+{
+  "name": "sanctum-lst-list",
+  "version": "0.1.0",
+  "type": "module",
+  "module": "index.ts",
+  "main": "build/index.js",
+  "files": [
+    "build/**/*"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "clean": "rm -rf ./build",
+    "prebuild": "bun run clean && bun run prebuild.ts",
+    "build": "bun build ./index.ts ./loader.ts --outdir ./build --minify"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "toml": "^3.0.0",
+    "ts-case-convert": "^2.0.7"
+  }
+}

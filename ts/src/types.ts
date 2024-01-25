@@ -7,7 +7,7 @@ type InputPool = BasePool & {
   validator_list?: string;
 };
 
-export type Pool = BasePool & {
+type Pool = BasePool & {
   validatorList?: string;
 };
 

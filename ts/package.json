@@ -1,26 +1,50 @@
 {
   "name": "sanctum-lst-list",
   "version": "0.1.0",
-  "type": "module",
-  "module": "index.ts",
-  "main": "build/index.js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/mjs/index.js",
+  "types": "dist/mjs/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/mjs/index.js",
+      "require": "./dist/cjs/index.js",
+      "types": "./dist/mjs/index.d.ts"
+    },
+    "./loader": {
+      "import": "./dist/mjs/loader.js",
+      "require": "./dist/cjs/loader.js",
+      "types": "./dist/mjs/loader.d.ts"
+    }
+  },
   "files": [
-    "build/**/*"
+    "package.json",
+    "README.md",
+    "dist",
+    "src"
   ],
-  "sideEffects": false,
   "scripts": {
     "clean": "rm -rf ./build",
-    "prebuild": "bun run clean && bun run prebuild.ts",
-    "build": "bun build ./index.ts ./loader.ts --outdir ./build --minify"
-  },
-  "devDependencies": {
-    "@types/bun": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
+    "prebuild": "npm run clean && ts-node src/prebuild.ts",
+    "build": "tsc -p tsconfig.json && tsc -p tsconfig.cjs.json && bash ./fixup",
+    "prepare": "npm run build"
   },
   "dependencies": {
     "toml": "^3.0.0",
     "ts-case-convert": "^2.0.7"
-  }
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.6",
+    "prettier": "^3.2.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  },
+  "homepage": "https://github.com/igneous-labs/sanctum-lst-list/tree/master/ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igneous-labs/sanctum-lst-list.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "license": "MIT"
 }

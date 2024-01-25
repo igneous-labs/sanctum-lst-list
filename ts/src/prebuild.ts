@@ -8,9 +8,13 @@ async function writeDataToFile(data: LST[]) {
     null,
     2,
   )};`;
-  await writeFile("./lstData.ts", dataStr);
+  await writeFile("./src/lstData.ts", dataStr);
 }
 
-const lstList = await SanctumLstList.load();
+async function main() {
+  const lstList = await SanctumLstList.load();
 
-await writeDataToFile(lstList);
+  await writeDataToFile(lstList);
+}
+
+main();

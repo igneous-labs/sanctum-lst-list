@@ -1,5 +1,5 @@
 use serde::{Deserialize, Serialize};
-use serde_with::{As, DisplayFromStr};
+use serde_with::{serde_as, As, DisplayFromStr};
 use solana_program::pubkey::Pubkey;
 
 use crate::PoolProgram;
@@ -15,6 +15,7 @@ pub enum PoolInfo {
     Spl(SplPoolAccounts),
 }
 
+#[serde_as]
 #[derive(Serialize, Deserialize, Clone, Copy, Debug, PartialEq, Eq, PartialOrd, Ord, Hash)]
 pub struct SplPoolAccounts {
     #[serde(with = "As::<DisplayFromStr>")]
@@ -22,6 +23,10 @@ pub struct SplPoolAccounts {
 
     #[serde(with = "As::<DisplayFromStr>")]
     pub validator_list: Pubkey,
+
+    #[serde(default)]
+    #[serde_as(as = "Option<DisplayFromStr>")]
+    pub vote_account: Option<Pubkey>,
 }
 
 impl PoolInfo {

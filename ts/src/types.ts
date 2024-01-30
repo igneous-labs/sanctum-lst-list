@@ -5,10 +5,12 @@ type BasePool = {
 
 type InputPool = BasePool & {
   validator_list?: string;
+  vote_account:?: string;
 };
 
 type Pool = BasePool & {
   validatorList?: string;
+  voteAccount?: string;
 };
 
 type BaseLST = {

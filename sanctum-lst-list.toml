@@ -23,7 +23,7 @@ sanctum_lst_list = [
     { name = "Marinade staked SOL", symbol = "mSOL", mint = "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png", pool = { program = "Marinade" } },
 
     # ReservePool
-    { name = "Wrapped SOL", symbol = "wSOL", mint = "So11111111111111111111111111111111111111112", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png", pool = { program = "ReservePool" } },
+    { name = "SOL", symbol = "SOL", mint = "So11111111111111111111111111111111111111112", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png", pool = { program = "ReservePool" } },
 
     # Socean
     { name = "Socean Staked SOL", symbol = "scnSOL", mint = "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm/logo.png", pool = { program = "Socean", pool = "5oc4nmbNTda9fx8Tw57ShLD132aqDK65vuHH4RU1K4LZ", validator_list = "8pTa29ovYHxjQgX7gjxGi395GAo8DSXCRTKJZvwMc6MR" } },

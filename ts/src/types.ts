@@ -1,16 +1,22 @@
-type BasePool = {
-  program: string;
-  pool?: string;
+// Common base types
+
+export const PROGRAM_ENUMS = [
+  "Lido",
+  "Marinade",
+  "ReservePool",
+  "SanctumSpl",
+  "Spl",
+  "SPool",
+] as const;
+
+export type ProgramEnum = (typeof PROGRAM_ENUMS)[number];
+
+export type BasePool = {
+  program: ProgramEnum;
 };
 
-type InputPool = BasePool & {
-  validator_list?: string;
-  vote_account?: string;
-};
-
-type Pool = BasePool & {
-  validatorList?: string;
-  voteAccount?: string;
+export type TypedBasePool<P extends ProgramEnum> = {
+  program: P;
 };
 
 type BaseLST = {
@@ -20,18 +26,69 @@ type BaseLST = {
   decimals: number;
 };
 
-type InputLST = BaseLST & {
-  token_program: string;
-  logo_uri: string;
-  pool: InputPool;
+// Input types - same as actual fields but with snake_case names to match those in toml
+
+type InputProgramToPool = {
+  Lido: {};
+  Marinade: {};
+  ReservePool: {};
+  SanctumSpl: InputSplPoolAccounts;
+  Spl: InputSplPoolAccounts;
+  SPool: InputSPoolAccounts;
 };
 
-export type LST = BaseLST & {
-  tokenProgram: string;
-  logoUri: string;
-  pool: Pool;
+type InputSplPoolAccounts = {
+  pool: string;
+  validator_list: string;
+  vote_account?: string;
+};
+
+type InputSPoolAccounts = {
+  program_id: string;
+};
+
+type InputPool<P extends BasePool> = P & InputProgramToPool[P["program"]];
+
+type InputLST<P extends BasePool> = BaseLST & {
+  pool: InputPool<P>;
+  token_program: string;
+  logo_uri: string;
 };
 
 export type ParseResult = {
-  sanctum_lst_list: InputLST[];
+  sanctum_lst_list: InputLST<BasePool>[];
 };
+
+// Non-input types
+
+export type ProgramToPool = {
+  Lido: {};
+  Marinade: {};
+  ReservePool: {};
+  SanctumSpl: SplPoolAccounts;
+  Spl: SplPoolAccounts;
+  SPool: SPoolAccounts;
+};
+
+export type SplPoolAccounts = {
+  pool: string;
+  validatorList: string;
+  voteAccount?: string;
+};
+
+export type SPoolAccounts = {
+  programId: string;
+};
+
+export type Pool<P extends BasePool> = P & ProgramToPool[P["program"]];
+
+/**
+ * A LST of a specific pool type
+ */
+export type TypedLst<P extends BasePool> = BaseLST & {
+  pool: Pool<P>;
+  tokenProgram: string;
+  logoUri: string;
+};
+
+export type LST = TypedLst<BasePool>;

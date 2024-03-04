@@ -31,6 +31,6 @@ sanctum_lst_list = [
     # ReservePool
     { name = "SOL", symbol = "SOL", mint = "So11111111111111111111111111111111111111112", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png", pool = { program = "ReservePool" } },
 
-    # Socean
-    { name = "Socean Staked SOL", symbol = "scnSOL", mint = "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm/logo.png", pool = { program = "Socean", pool = "5oc4nmbNTda9fx8Tw57ShLD132aqDK65vuHH4RU1K4LZ", validator_list = "8pTa29ovYHxjQgX7gjxGi395GAo8DSXCRTKJZvwMc6MR" } },
+    # S Pools
+    { name = "Infinity", symbol = "INF", mint = "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://bafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e.ipfs.nftstorage.link/", pool = { program = "SPool", program_id = "5ocnV1qiCgaQR8Jb8xWnVbApfaygJ8tNoZfgPwsgx9kx" } },
 ]

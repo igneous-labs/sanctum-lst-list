@@ -11,8 +11,8 @@ pub enum PoolInfo {
     Marinade,
     ReservePool,
     SanctumSpl(SplPoolAccounts),
-    Socean(SplPoolAccounts),
     Spl(SplPoolAccounts),
+    SPool(SPoolAccounts),
 }
 
 #[serde_as]
@@ -29,6 +29,13 @@ pub struct SplPoolAccounts {
     pub vote_account: Option<Pubkey>,
 }
 
+#[serde_as]
+#[derive(Serialize, Deserialize, Clone, Copy, Debug, PartialEq, Eq, PartialOrd, Ord, Hash)]
+pub struct SPoolAccounts {
+    #[serde(with = "As::<DisplayFromStr>")]
+    pub program_id: Pubkey,
+}
+
 impl PoolInfo {
     pub fn pool_program(&self) -> PoolProgram {
         match self {
@@ -36,8 +43,8 @@ impl PoolInfo {
             PoolInfo::Marinade => PoolProgram::Marinade,
             PoolInfo::ReservePool => PoolProgram::ReservePool,
             PoolInfo::SanctumSpl(..) => PoolProgram::SanctumSpl,
-            PoolInfo::Socean(..) => PoolProgram::Socean,
             PoolInfo::Spl(..) => PoolProgram::Spl,
+            PoolInfo::SPool(..) => PoolProgram::InfSPool,
         }
     }
 }

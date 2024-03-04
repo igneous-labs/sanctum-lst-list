@@ -5,15 +5,14 @@ use solana_program::pubkey::Pubkey;
 
 use crate::PoolInfo;
 
-// TODO: add S program
 #[derive(Serialize, Deserialize, Clone, Copy, Debug, PartialEq, Eq, PartialOrd, Ord, Hash)]
 pub enum PoolProgram {
     Lido,
     Marinade,
     ReservePool,
     SanctumSpl,
-    Socean,
     Spl,
+    InfSPool,
 }
 
 impl Display for PoolProgram {
@@ -42,7 +41,7 @@ impl TryFrom<Pubkey> for PoolProgram {
             marinade_program::ID => Self::Marinade,
             sanctum_reserve_pool_program::ID => Self::ReservePool,
             sanctum_spl_stake_pool_program::ID => Self::SanctumSpl,
-            socean_program::ID => Self::Socean,
+            inf_s_program::ID => Self::InfSPool,
             spl_stake_pool_program::ID => Self::Spl,
             _ => Err(UnsupportedPoolProgramErr)?,
         })
@@ -56,7 +55,7 @@ impl From<PoolProgram> for Pubkey {
             PoolProgram::Marinade => marinade_program::ID,
             PoolProgram::ReservePool => sanctum_reserve_pool_program::ID,
             PoolProgram::SanctumSpl => sanctum_spl_stake_pool_program::ID,
-            PoolProgram::Socean => socean_program::ID,
+            PoolProgram::InfSPool => inf_s_program::ID,
             PoolProgram::Spl => spl_stake_pool_program::ID,
         }
     }
@@ -103,7 +102,7 @@ pub mod sanctum_reserve_pool_program {
     );
 }
 
-pub mod socean_program {
+pub mod inf_s_program {
     sanctum_macros::declare_program_keys!("5ocnV1qiCgaQR8Jb8xWnVbApfaygJ8tNoZfgPwsgx9kx", []);
 }
 

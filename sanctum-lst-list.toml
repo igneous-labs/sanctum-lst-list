@@ -1,6 +1,6 @@
 sanctum_lst_list = [
     # SanctumSpl
-    { name = "The Vault", symbol = "vSOL", mint = "vSoLBtUuQcP8qwV9QmGqPmrGsF8VAUQ5JnYPGsRwoMV", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://gateway.pinata.cloud/ipfs/bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta", pool = { program = "SanctumSpl", pool = "CA2kr4Zsyvhv7AvtfQuCnPwPDd8t4gt35V7ggDz3Spcc", validator_list = "EMzBodLc5jNmy6FDVzP94bAcFEdMaEDwpeeXUsPgyjVc" } },
+    { name = "The Vault", symbol = "vSOL", mint = "vSoLBtUuQcP8qwV9QmGqPmrGsF8VAUQ5JnYPGsRwoMV", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://cloudflare-ipfs.com/ipfs/bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta", pool = { program = "SanctumSpl", pool = "CA2kr4Zsyvhv7AvtfQuCnPwPDd8t4gt35V7ggDz3Spcc", validator_list = "EMzBodLc5jNmy6FDVzP94bAcFEdMaEDwpeeXUsPgyjVc" } },
 
     # SanctumSpl Single Pool
     { name = "Power Staked SOL", symbol = "pwrSOL", mint = "pWrSoLAhue6jUxUkbWgmEy5rD9VJzkFmvfTDV5KgNuu", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://arweave.net/vmJI1aPZNfTTIWH7ZLFxBP1VK7ptapg1hBukoDDNPME", pool = { program = "SanctumSpl", pool = "DfiQgSvpW3Dy4gKfhtdHnWGHwFUrE8exvaxqjtMtAVxk", validator_list = "9PYGjoQhY89f8t3NVtq82MN91RDvoEkkFtcQyuVAuWGL", vote_account = "LodezVTbz3v5GK6oULfWNFfcs7D4rtMZQkmRjnh65gq" } },
@@ -32,5 +32,5 @@ sanctum_lst_list = [
     { name = "SOL", symbol = "SOL", mint = "So11111111111111111111111111111111111111112", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png", pool = { program = "ReservePool" } },
 
     # S Pools
-    { name = "Infinity", symbol = "INF", mint = "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://gateway.pinata.cloud/ipfs/bafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e", pool = { program = "SPool", program_id = "5ocnV1qiCgaQR8Jb8xWnVbApfaygJ8tNoZfgPwsgx9kx" } },
+    { name = "Infinity", symbol = "INF", mint = "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://cloudflare-ipfs.com/ipfs/bafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e", pool = { program = "SPool", program_id = "5ocnV1qiCgaQR8Jb8xWnVbApfaygJ8tNoZfgPwsgx9kx" } },
 ]

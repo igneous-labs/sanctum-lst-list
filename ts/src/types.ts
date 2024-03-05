@@ -6,11 +6,13 @@ type BasePool = {
 type InputPool = BasePool & {
   validator_list?: string;
   vote_account?: string;
+  program_id?: string;
 };
 
 type Pool = BasePool & {
   validatorList?: string;
   voteAccount?: string;
+  programId?: string;
 };
 
 type BaseLST = {

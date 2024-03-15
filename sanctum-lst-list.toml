@@ -74,7 +74,7 @@ logo_uri = "https://solanacompass.com/compass.png"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "AwDeTcW6BovNYR34Df1TPm4bFwswa4CJY4YPye2LXtPS"
-validator_list = "46A5KjX8J6FAUTXwcE8iJkmM7igK3v8vy1MD74cZNWVE"
+validator_list = "DgSrw8Kmww4wVC1KaHFrEYE3UiCupNpLde2CcUEmGYsx"
 vote_account = "EARNynHRWg6GfyJCmrrizcZxARB3HVzcaasvNa8kBS72"
 
 [[sanctum_lst_list]]
@@ -87,7 +87,7 @@ logo_uri = "https://arweave.net/zR2ZKXpwmG4hMpqhGXlvz-B7PMs34cXxVb2gC1DmlDo"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "8Dv3hNYcEWEaa4qVx9BTN1Wfvtha1z8cWDUXb7KVACVe"
-validator_list = "6deuDrZgAJ57e2qKV8yykidjzWxAsBfdaiakG8yjX3Tk"
+validator_list = "46A5KjX8J6FAUTXwcE8iJkmM7igK3v8vy1MD74cZNWVE"
 vote_account = "3xjfK9C9YNcta8MvK1US4sQ3bc6DEjoJoR3qLExGf9xE"
 
 [[sanctum_lst_list]]

@@ -1,34 +1,304 @@
-sanctum_lst_list = [
-    # SanctumSpl Single Pool
-    { name = "Power Staked SOL", symbol = "pwrSOL", mint = "pWrSoLAhue6jUxUkbWgmEy5rD9VJzkFmvfTDV5KgNuu", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://arweave.net/vmJI1aPZNfTTIWH7ZLFxBP1VK7ptapg1hBukoDDNPME", pool = { program = "SanctumSpl", pool = "DfiQgSvpW3Dy4gKfhtdHnWGHwFUrE8exvaxqjtMtAVxk", validator_list = "9PYGjoQhY89f8t3NVtq82MN91RDvoEkkFtcQyuVAuWGL", vote_account = "LodezVTbz3v5GK6oULfWNFfcs7D4rtMZQkmRjnh65gq" } },
-    { name = "Superfast Staked SOL", symbol = "superSOL", mint = "suPer8CPwxoJPQ7zksGMwFvjBQhjAHwUMmPV4FVatBw", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://shdw-drive.genesysgo.net/4gc2wnbccgLyMyoRajokp86EfWsmW8obkdUzNRmeHnDi/superSOLLogo.webp", pool = { program = "SanctumSpl", pool = "4dZDUL3BFJUFeqS3Y3cwkc84Rs6mgVHRYGt1LJvhooW4", validator_list = "F7MiLkUWkBVee6d3Evppgcr7iNKgG94H5PMu9WCjj4mQ", vote_account = "R1vAoSPFQdCc6wsAEMtxWXjqptSeN1YUiq2Zni1of21" } },
-    { name = "Juicy SOL", symbol = "jucySOL", mint = "jucy5XJ76pHVvtPZb5TKRcGQExkwit2P5s4vY8UzmpC", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://shdw-drive.genesysgo.net/5ohvXVJ7f3HxnwYGnXKdECWC3KFcU95dHu7S7x69Y1sA/logo_rev.svg", pool = { program = "SanctumSpl", pool = "AZGSr2fUyKkPLMhAW6WUEKEsQiRMAFKf8Fjnt4MFFaGv", validator_list = "GzsFwdtyhGmBEEh7hnfJi6u6rXJYMDPjL8Keo6Q2dZYK", vote_account = "juicQdAnksqZ5Yb8NQwCLjLWhykvXGktxnQCDvMe6Nx" } },
-    { name = "bonkSOL", symbol = "bonkSOL", mint = "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://arweave.net/ms-FdIyJ8TxEJOb2SAYhfyrLop7TDrCEjD-I-oIl5u4", pool = { program = "SanctumSpl", pool = "ArAQfbzsdotoKB5jJcZa3ajQrrPcWr2YQoDAEAiFxJAC", validator_list = "Ea2ATXQgQrUXGdMPXUbdNw8SmV3S6RSzsiff8AcBLP2G", vote_account = "J1to3PQfXidUUhprQWgdKkQAMWPJAEqSJ7amkBDE9qhF" } },
-    { name = "Drift Staked SOL", symbol = "dSOL", mint = "Dso1bDeDjCQxTrWHqUUi63oBvV7Mdm6WaobLbQ7gnPQ", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://drift-public.s3.eu-central-1.amazonaws.com/dSOL.svg", pool = { program = "SanctumSpl", pool = "9mhGNSPArRMHpLDMSmxAvuoizBqtBGqYdT8WGuqgxNdn", validator_list = "4dRHzwW2npecE4riAKibHccnMib5jBu9RdFf8bQ2o7Mo", vote_account = "DriFTm3wM9ugxhCA1K3wVQMSdC4Dv4LNmyZMmZiuHRpp" } },
-    { name = "Compass SOL", symbol = "compassSOL", mint = "Comp4ssDzXcLeu2MnLuGNNFC4cmLPMng8qWHPvzAMU1h", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://solanacompass.com/compass.png", pool = { program = "SanctumSpl", pool = "AwDeTcW6BovNYR34Df1TPm4bFwswa4CJY4YPye2LXtPS", validator_list = "DgSrw8Kmww4wVC1KaHFrEYE3UiCupNpLde2CcUEmGYsx", vote_account = "EARNynHRWg6GfyJCmrrizcZxARB3HVzcaasvNa8kBS72" } },
-    { name = "Stronghold LST", symbol = "strongSOL", mint = "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://shdw-drive.genesysgo.net/CqCTE2k6ext17JLE7EFk6pXAznS7m1rLJaN9nHxUAwpc/stronghold.png", pool = { program = "SanctumSpl", pool = "GZDX5JYXDzCEDL3kybhjN7PSixL4ams3M2G4CvWmMmm5", validator_list = "6deuDrZgAJ57e2qKV8yykidjzWxAsBfdaiakG8yjX3Tk", vote_account = "Ac1beBKixfNdrTAac7GRaTsJTxLyvgGvJjvy4qQfvyfc" } },
+# SanctumSpl Single Pool
+[[sanctum_lst_list]]
+name = "Power Staked SOL"
+symbol = "pwrSOL"
+mint = "pWrSoLAhue6jUxUkbWgmEy5rD9VJzkFmvfTDV5KgNuu"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/vmJI1aPZNfTTIWH7ZLFxBP1VK7ptapg1hBukoDDNPME"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DfiQgSvpW3Dy4gKfhtdHnWGHwFUrE8exvaxqjtMtAVxk"
+validator_list = "9PYGjoQhY89f8t3NVtq82MN91RDvoEkkFtcQyuVAuWGL"
+vote_account = "LodezVTbz3v5GK6oULfWNFfcs7D4rtMZQkmRjnh65gq"
 
-    # Spl
-    { name = "The Vault", symbol = "vSOL", mint = "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://cloudflare-ipfs.com/ipfs/bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta", pool = { program = "Spl", pool = "Fu9BYC6tWBo1KMKaP3CFoKfRhqv9akmy3DuYwnCyWiyC", validator_list = "3wsE11pAjCE3sCwokhD5kgi5cjv6hi3DGAkxXB5MMHKL" } },
-    { name = "BlazeStake Staked SOL", symbol = "bSOL", mint = "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1/logo.png", pool = { program = "Spl", pool = "stk9ApL5HeVAwPLr3TLhDXdZS8ptVu7zp6ov8HFDuMi", validator_list = "1istpXjy8BM7Vd5vPfA485frrV7SRJhgq5vs3sskWmc" } },
-    { name = "Cogent SOL", symbol = "cgntSOL", mint = "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png", pool = { program = "Spl", pool = "CgntPoLka5pD5fesJYhGmUCF8KU1QS1ZmZiuAuMZr2az", validator_list = "CGNTvFQ5yhxp2H5RmmXJ2w3LXJ3kAHrgPMrfABBTkeTr", vote_account = "CogentC52e7kktFfWHwsqSmr8LiS1yAtfqhHcftCPcBJ" } },
-    { name = "daoSOL", symbol = "daoSOL", mint = "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh/logo.png", pool = { program = "Spl", pool = "7ge2xKsZXmqPxa3YmXxXmzCp9Hc2ezrTxh6PECaxCwrL", validator_list = "CKG4Jci9tGSrZtetnLXuDKV2WqaknFCUX9CY3ahfw2n6" } },
-    { name = "Jito Staked SOL", symbol = "JitoSOL", mint = "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://storage.googleapis.com/token-metadata/JitoSOL-256.png", pool = { program = "Spl", pool = "Jito4APyf642JPZPx3hGc6WWJ8zPKtRbRs4P815Awbb", validator_list = "3R3nGZpQs2aZo5FDQvd2MUQ6R7KhAPainds6uT6uE2mn" } },
-    { name = "JPOOL Solana Token", symbol = "JSOL", mint = "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn/logo.svg", pool = { program = "Spl", pool = "CtMyWsrUtAwXWiGr9WjHT5fC3p3fgV8cyGpLTo2LJzG1", validator_list = "Ei2LhH2tDKPERnoNjQV5darTToZmbg45vDvftFFLNNWd" } },
-    { name = "Laine Stake Token", symbol = "laineSOL", mint = "LAinEtNLgpmCP9Rvsf5Hn8W6EhNiKLZQti1xfWMLy6X", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://shdw-drive.genesysgo.net/4DUkKJB966oMk8zq57KkAUxqg9HpuWtZ3BKobhmYph39/laineSOL.webp", pool = { program = "Spl", pool = "2qyEeSAWKfU18AFthrF7JA8z8ZCi1yt76Tqs917vwQTV", validator_list = "sHPN95ARJpwN3Yipc22Z3m5118K3czRLBG7WmLDLsMp", vote_account = "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL" } },
-    { name = "Liquid Staking Token", symbol = "LST", mint = "LSTxxxnJzKDFSLr4dUkPcmCf5VyryEqzPLz5j4bpxFp", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://storage.googleapis.com/static-marginfi/lst.png", pool = { program = "Spl", pool = "DqhH94PjkZsjAqEze2BEkWhFQJ6EyU6MdtMphMgnXqeK", validator_list = "77Nc7i2Pe4ktkPVsk2KsZeLZRMUMKpddheBUgW727XR4" } },
-    { name = "riskSOL", symbol = "riskSOL", mint = "C4kq9QRFLAqwYHK7p4Ez54KMZLZNw2yLsiT3KN4FSmdH", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://risk.lol/static/media/riskNft.0ec25135.gif", pool = { program = "Spl", pool = "F8h46pYkaqPJNP2MRkUUUtRkf8efCkpoqehn9g1bTTm7", validator_list = "3p3pwXkx15WSphpmcQyBqJ235pMVQkLYM9t2faBH1Zix" } },
-    { name = "Zippy Staked SOL", symbol = "zippySOL", mint = "Zippybh3S5xYYam2nvL6hVJKz1got6ShgV4DyD1XQYF", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://www.zippystake.org/mint.png", pool = { program = "Spl", pool = "DxRFpqBQBC2nKcvh14gD1eizCj9Xi7ruMR3nCR3Hvw8f", validator_list = "FrBwWukdviJHrJqfbxkrb1GzV9XdY5qVwXxN53cHvC8y" } },
+[[sanctum_lst_list]]
+name = "Superfast Staked SOL"
+symbol = "superSOL"
+mint = "suPer8CPwxoJPQ7zksGMwFvjBQhjAHwUMmPV4FVatBw"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://shdw-drive.genesysgo.net/4gc2wnbccgLyMyoRajokp86EfWsmW8obkdUzNRmeHnDi/superSOLLogo.webp"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4dZDUL3BFJUFeqS3Y3cwkc84Rs6mgVHRYGt1LJvhooW4"
+validator_list = "F7MiLkUWkBVee6d3Evppgcr7iNKgG94H5PMu9WCjj4mQ"
+vote_account = "R1vAoSPFQdCc6wsAEMtxWXjqptSeN1YUiq2Zni1of21"
 
-    # Lido
-    { name = "Lido Staked SOL", symbol = "stSOL", mint = "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj/logo.png", pool = { program = "Lido" } },
+[[sanctum_lst_list]]
+name = "Juicy SOL"
+symbol = "jucySOL"
+mint = "jucy5XJ76pHVvtPZb5TKRcGQExkwit2P5s4vY8UzmpC"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://shdw-drive.genesysgo.net/5ohvXVJ7f3HxnwYGnXKdECWC3KFcU95dHu7S7x69Y1sA/logo_rev.svg"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "AZGSr2fUyKkPLMhAW6WUEKEsQiRMAFKf8Fjnt4MFFaGv"
+validator_list = "GzsFwdtyhGmBEEh7hnfJi6u6rXJYMDPjL8Keo6Q2dZYK"
+vote_account = "juicQdAnksqZ5Yb8NQwCLjLWhykvXGktxnQCDvMe6Nx"
 
-    # Marinade
-    { name = "Marinade staked SOL", symbol = "mSOL", mint = "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png", pool = { program = "Marinade" } },
+[[sanctum_lst_list]]
+name = "bonkSOL"
+symbol = "bonkSOL"
+mint = "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/ms-FdIyJ8TxEJOb2SAYhfyrLop7TDrCEjD-I-oIl5u4"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "ArAQfbzsdotoKB5jJcZa3ajQrrPcWr2YQoDAEAiFxJAC"
+validator_list = "Ea2ATXQgQrUXGdMPXUbdNw8SmV3S6RSzsiff8AcBLP2G"
+vote_account = "J1to3PQfXidUUhprQWgdKkQAMWPJAEqSJ7amkBDE9qhF"
 
-    # ReservePool
-    { name = "SOL", symbol = "SOL", mint = "So11111111111111111111111111111111111111112", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png", pool = { program = "ReservePool" } },
+[[sanctum_lst_list]]
+name = "Drift Staked SOL"
+symbol = "dSOL"
+mint = "Dso1bDeDjCQxTrWHqUUi63oBvV7Mdm6WaobLbQ7gnPQ"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://drift-public.s3.eu-central-1.amazonaws.com/dSOL.svg"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9mhGNSPArRMHpLDMSmxAvuoizBqtBGqYdT8WGuqgxNdn"
+validator_list = "4dRHzwW2npecE4riAKibHccnMib5jBu9RdFf8bQ2o7Mo"
+vote_account = "DriFTm3wM9ugxhCA1K3wVQMSdC4Dv4LNmyZMmZiuHRpp"
 
-    # S Pools
-    { name = "Infinity", symbol = "INF", mint = "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm", decimals = 9, token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", logo_uri = "https://cloudflare-ipfs.com/ipfs/bafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e", pool = { program = "SPool", program_id = "5ocnV1qiCgaQR8Jb8xWnVbApfaygJ8tNoZfgPwsgx9kx" } },
-]
+[[sanctum_lst_list]]
+name = "Compass SOL"
+symbol = "compassSOL"
+mint = "Comp4ssDzXcLeu2MnLuGNNFC4cmLPMng8qWHPvzAMU1h"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://solanacompass.com/compass.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "AwDeTcW6BovNYR34Df1TPm4bFwswa4CJY4YPye2LXtPS"
+validator_list = "DgSrw8Kmww4wVC1KaHFrEYE3UiCupNpLde2CcUEmGYsx"
+vote_account = "EARNynHRWg6GfyJCmrrizcZxARB3HVzcaasvNa8kBS72"
+
+[[sanctum_lst_list]]
+name = "picoSOL"
+symbol = "picoSOL"
+mint = "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/zR2ZKXpwmG4hMpqhGXlvz-B7PMs34cXxVb2gC1DmlDo"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8Dv3hNYcEWEaa4qVx9BTN1Wfvtha1z8cWDUXb7KVACVe"
+validator_list = "46A5KjX8J6FAUTXwcE8iJkmM7igK3v8vy1MD74cZNWVE"
+vote_account = "3xjfK9C9YNcta8MvK1US4sQ3bc6DEjoJoR3qLExGf9xE"
+
+[[sanctum_lst_list]]
+name = "Overclock SOL"
+symbol = "clockSOL"
+mint = "GRJQtWwdJmp5LLpy8JWjPgn5FnLyqSJGNhn5ZnCTFUwM"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/Overclock-Validator/assets/main/img.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "6e2LpgytfG3RqMdYuPr3dnedv6bmHQUk9hH9h2fzVk9o"
+validator_list = "9hVn2PQWj7i3sSEzPhzgUaAAscjRJXd8v54mmR7Y3s9U"
+vote_account = "AS3nKBQfKs8fJ8ncyHrdvo4FDT6S8HMRhD75JjCcyr1t"
+
+[[sanctum_lst_list]]
+name = "SolanaHub staked SOL"
+symbol = "hubSOL"
+mint = "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://shdw-drive.genesysgo.net/AHzrxKBP6fkj6sozaZ2uzv6nniJLRFnZNZQ6rEPfZM5E/hub.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "ECRqn7gaNASuvTyC5xfCUjehWZCSowMXstZiM5DNweyB"
+validator_list = "5Aueao7mrWvL4GFswwdXmFCRw1j7AjYb8aJeMFeYv6zo"
+vote_account = "7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh"
+
+[[sanctum_lst_list]]
+name = "Stronghold LST"
+symbol = "strongSOL"
+mint = "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://shdw-drive.genesysgo.net/CqCTE2k6ext17JLE7EFk6pXAznS7m1rLJaN9nHxUAwpc/stronghold.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "GZDX5JYXDzCEDL3kybhjN7PSixL4ams3M2G4CvWmMmm5"
+validator_list = "6deuDrZgAJ57e2qKV8yykidjzWxAsBfdaiakG8yjX3Tk"
+vote_account = "Ac1beBKixfNdrTAac7GRaTsJTxLyvgGvJjvy4qQfvyfc"
+
+[[sanctum_lst_list]]
+name = "Lantern Staked SOL"
+symbol = "lanternSOL"
+mint = "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/juI8rxciTff6pljaDiXMEq5klSOngQol_8lvyokGGwY"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "LW3qEdGWdVrxNgxSXW8vZri7Jifg4HuKEQ1UABLxs3C"
+validator_list = "GM7T5roJWhQchJErSZdPeHvkw43MkvVC6b8DK4BNuidP"
+vote_account = "FACqsS19VScz8oo2YhdMg35EsAy6xsCZ9Y58eJXGv8QJ"
+
+
+# Spl Single Pool
+[[sanctum_lst_list]]
+name = "Cogent SOL"
+symbol = "cgntSOL"
+mint = "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "CgntPoLka5pD5fesJYhGmUCF8KU1QS1ZmZiuAuMZr2az"
+validator_list = "CGNTvFQ5yhxp2H5RmmXJ2w3LXJ3kAHrgPMrfABBTkeTr"
+vote_account = "CogentC52e7kktFfWHwsqSmr8LiS1yAtfqhHcftCPcBJ"
+
+[[sanctum_lst_list]]
+name = "Laine Stake Token"
+symbol = "laineSOL"
+mint = "LAinEtNLgpmCP9Rvsf5Hn8W6EhNiKLZQti1xfWMLy6X"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://shdw-drive.genesysgo.net/4DUkKJB966oMk8zq57KkAUxqg9HpuWtZ3BKobhmYph39/laineSOL.webp"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "2qyEeSAWKfU18AFthrF7JA8z8ZCi1yt76Tqs917vwQTV"
+validator_list = "sHPN95ARJpwN3Yipc22Z3m5118K3czRLBG7WmLDLsMp"
+vote_account = "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL"
+
+
+# Spl
+[[sanctum_lst_list]]
+name = "The Vault"
+symbol = "vSOL"
+mint = "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://cloudflare-ipfs.com/ipfs/bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "Fu9BYC6tWBo1KMKaP3CFoKfRhqv9akmy3DuYwnCyWiyC"
+validator_list = "3wsE11pAjCE3sCwokhD5kgi5cjv6hi3DGAkxXB5MMHKL"
+
+[[sanctum_lst_list]]
+name = "BlazeStake Staked SOL"
+symbol = "bSOL"
+mint = "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1/logo.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "stk9ApL5HeVAwPLr3TLhDXdZS8ptVu7zp6ov8HFDuMi"
+validator_list = "1istpXjy8BM7Vd5vPfA485frrV7SRJhgq5vs3sskWmc"
+
+[[sanctum_lst_list]]
+name = "daoSOL"
+symbol = "daoSOL"
+mint = "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh/logo.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "7ge2xKsZXmqPxa3YmXxXmzCp9Hc2ezrTxh6PECaxCwrL"
+validator_list = "CKG4Jci9tGSrZtetnLXuDKV2WqaknFCUX9CY3ahfw2n6"
+
+[[sanctum_lst_list]]
+name = "Jito Staked SOL"
+symbol = "JitoSOL"
+mint = "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://storage.googleapis.com/token-metadata/JitoSOL-256.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "Jito4APyf642JPZPx3hGc6WWJ8zPKtRbRs4P815Awbb"
+validator_list = "3R3nGZpQs2aZo5FDQvd2MUQ6R7KhAPainds6uT6uE2mn"
+
+[[sanctum_lst_list]]
+name = "JPOOL Solana Token"
+symbol = "JSOL"
+mint = "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn/logo.svg"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "CtMyWsrUtAwXWiGr9WjHT5fC3p3fgV8cyGpLTo2LJzG1"
+validator_list = "Ei2LhH2tDKPERnoNjQV5darTToZmbg45vDvftFFLNNWd"
+
+[[sanctum_lst_list]]
+name = "Liquid Staking Token"
+symbol = "LST"
+mint = "LSTxxxnJzKDFSLr4dUkPcmCf5VyryEqzPLz5j4bpxFp"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://storage.googleapis.com/static-marginfi/lst.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "DqhH94PjkZsjAqEze2BEkWhFQJ6EyU6MdtMphMgnXqeK"
+validator_list = "77Nc7i2Pe4ktkPVsk2KsZeLZRMUMKpddheBUgW727XR4"
+
+[[sanctum_lst_list]]
+name = "Zippy Staked SOL"
+symbol = "zippySOL"
+mint = "Zippybh3S5xYYam2nvL6hVJKz1got6ShgV4DyD1XQYF"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://www.zippystake.org/mint.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "DxRFpqBQBC2nKcvh14gD1eizCj9Xi7ruMR3nCR3Hvw8f"
+validator_list = "FrBwWukdviJHrJqfbxkrb1GzV9XdY5qVwXxN53cHvC8y"
+
+
+# ReservePool
+[[sanctum_lst_list]]
+name = "SOL"
+symbol = "SOL"
+mint = "So11111111111111111111111111111111111111112"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
+[sanctum_lst_list.pool]
+program = "ReservePool"
+
+
+# S Pools
+[[sanctum_lst_list]]
+name = "Infinity"
+symbol = "INF"
+mint = "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://cloudflare-ipfs.com/ipfs/bafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e"
+[sanctum_lst_list.pool]
+program = "SPool"
+program_id = "5ocnV1qiCgaQR8Jb8xWnVbApfaygJ8tNoZfgPwsgx9kx"
+
+
+# Legacy Pools
+[[sanctum_lst_list]]
+name = "Lido Staked SOL"
+symbol = "stSOL"
+mint = "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj/logo.png"
+[sanctum_lst_list.pool]
+program = "Lido"
+
+[[sanctum_lst_list]]
+name = "Marinade staked SOL"
+symbol = "mSOL"
+mint = "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png"
+[sanctum_lst_list.pool]
+program = "Marinade"

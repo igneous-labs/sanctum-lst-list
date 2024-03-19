@@ -5,4 +5,7 @@ edition = "2021"
 
 [dependencies]
 clap = { workspace = true }
+csv = { workspace = true }
+reqwest = { workspace = true, features = ["blocking"] }
 sanctum-lst-list = { workspace = true }
+solana-program = { workspace = true }

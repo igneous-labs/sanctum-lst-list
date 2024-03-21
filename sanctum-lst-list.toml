@@ -1,5 +1,18 @@
 # SanctumSpl Single Pool
 [[sanctum_lst_list]]
+name = "Jupiter Staked SOL"
+symbol = "JupSOL"
+mint = "jupSoLMybMYo2AmBx7t5mCwGJ8Kdid5tXAtrNmns3Y8"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://static.jup.ag/jupSOL/icon.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4JXoHb4qHNo3g99nFg3UE54SKJ6RTb2fidLz6GNLAf9r"
+validator_list = "FULs7AAwKr8Uu6pgTXPDJeXDHqzpmH1phvRDcKzBjit8"
+vote_account = "CatzoSMUkTRidT5DwBxAC2pEtnwMBTpkCepHkFgZDiqb"
+
+[[sanctum_lst_list]]
 name = "Power Staked SOL"
 symbol = "pwrSOL"
 mint = "pWrSoLAhue6jUxUkbWgmEy5rD9VJzkFmvfTDV5KgNuu"

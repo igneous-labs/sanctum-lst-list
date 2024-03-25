@@ -142,6 +142,19 @@ pool = "LW3qEdGWdVrxNgxSXW8vZri7Jifg4HuKEQ1UABLxs3C"
 validator_list = "GM7T5roJWhQchJErSZdPeHvkw43MkvVC6b8DK4BNuidP"
 vote_account = "FACqsS19VScz8oo2YhdMg35EsAy6xsCZ9Y58eJXGv8QJ"
 
+[[sanctum_lst_list]]
+name = "Stake City SOL"
+symbol = "citySOL"
+mint = "st8QujHLPsX3d6HG9uQg9kJ91jFxUgruwsb1hyYXSNd"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/C2P2vlj4GZF1ZfAj5GV7B7cvpvdiz2tDEwh6hOfml_o"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "2jjK1MsLgsPgVjnp97HUJeovNj3jp4XgyQ3nuiWMwiS8"
+validator_list = "HJTGs6mPX7nE84kU1s4c5VRwNbtUxGgUj8qTbzakSXAH"
+vote_account = "CiTYUYPAPHdcri5yEfsmqVcs54J6j8X1QaiFLgYqMVe"
+
 
 # Spl Single Pool
 [[sanctum_lst_list]]

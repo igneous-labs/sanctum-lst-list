@@ -18,7 +18,7 @@ symbol = "superSOL"
 mint = "suPer8CPwxoJPQ7zksGMwFvjBQhjAHwUMmPV4FVatBw"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://shdw-drive.genesysgo.net/4gc2wnbccgLyMyoRajokp86EfWsmW8obkdUzNRmeHnDi/superSOLLogo.webp"
+logo_uri = "https://superfast.org/supersollogo.png"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "4dZDUL3BFJUFeqS3Y3cwkc84Rs6mgVHRYGt1LJvhooW4"

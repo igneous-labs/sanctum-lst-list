@@ -269,6 +269,18 @@ program = "Spl"
 pool = "DxRFpqBQBC2nKcvh14gD1eizCj9Xi7ruMR3nCR3Hvw8f"
 validator_list = "FrBwWukdviJHrJqfbxkrb1GzV9XdY5qVwXxN53cHvC8y"
 
+[[sanctum_lst_list]]
+name = "Edgevana Staked SOL"
+symbol = "edgeSOL"
+mint = "edge86g9cVz87xcpKpy3J77vbp4wYd9idEV562CCntt"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://srv.edgevana.com/img/edgesol.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "edgejNWAqkePLpi5sHRxT9vHi7u3kSHP9cocABPKiWZ"
+validator_list = "edgeUAwci9fD66ffrfxKZtznzrm79hHcpjR1BaYF8ML"
+
 
 # ReservePool
 [[sanctum_lst_list]]

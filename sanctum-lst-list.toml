@@ -18,7 +18,7 @@ symbol = "superSOL"
 mint = "suPer8CPwxoJPQ7zksGMwFvjBQhjAHwUMmPV4FVatBw"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://shdw-drive.genesysgo.net/4gc2wnbccgLyMyoRajokp86EfWsmW8obkdUzNRmeHnDi/superSOLLogo.webp"
+logo_uri = "https://superfast.org/supersollogo.png"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "4dZDUL3BFJUFeqS3Y3cwkc84Rs6mgVHRYGt1LJvhooW4"
@@ -142,6 +142,19 @@ pool = "LW3qEdGWdVrxNgxSXW8vZri7Jifg4HuKEQ1UABLxs3C"
 validator_list = "GM7T5roJWhQchJErSZdPeHvkw43MkvVC6b8DK4BNuidP"
 vote_account = "FACqsS19VScz8oo2YhdMg35EsAy6xsCZ9Y58eJXGv8QJ"
 
+[[sanctum_lst_list]]
+name = "Stake City SOL"
+symbol = "stakeSOL"
+mint = "st8QujHLPsX3d6HG9uQg9kJ91jFxUgruwsb1hyYXSNd"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/C2P2vlj4GZF1ZfAj5GV7B7cvpvdiz2tDEwh6hOfml_o"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "2jjK1MsLgsPgVjnp97HUJeovNj3jp4XgyQ3nuiWMwiS8"
+validator_list = "HJTGs6mPX7nE84kU1s4c5VRwNbtUxGgUj8qTbzakSXAH"
+vote_account = "CiTYUYPAPHdcri5yEfsmqVcs54J6j8X1QaiFLgYqMVe"
+
 
 # Spl Single Pool
 [[sanctum_lst_list]]
@@ -255,6 +268,18 @@ logo_uri = "https://www.zippystake.org/mint.png"
 program = "Spl"
 pool = "DxRFpqBQBC2nKcvh14gD1eizCj9Xi7ruMR3nCR3Hvw8f"
 validator_list = "FrBwWukdviJHrJqfbxkrb1GzV9XdY5qVwXxN53cHvC8y"
+
+[[sanctum_lst_list]]
+name = "Edgevana Staked SOL"
+symbol = "edgeSOL"
+mint = "edge86g9cVz87xcpKpy3J77vbp4wYd9idEV562CCntt"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://srv.edgevana.com/img/edgesol.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "edgejNWAqkePLpi5sHRxT9vHi7u3kSHP9cocABPKiWZ"
+validator_list = "edgeUAwci9fD66ffrfxKZtznzrm79hHcpjR1BaYF8ML"
 
 
 # ReservePool

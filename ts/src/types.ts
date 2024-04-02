@@ -5,6 +5,7 @@ export const PROGRAM_ENUMS = [
   "Marinade",
   "ReservePool",
   "SanctumSpl",
+  "SanctumSplMulti",
   "Spl",
   "SPool",
 ] as const;
@@ -33,6 +34,7 @@ type InputProgramToPool = {
   Marinade: {};
   ReservePool: {};
   SanctumSpl: InputSplPoolAccounts;
+  SanctumSplMulti: InputSplPoolAccounts;
   Spl: InputSplPoolAccounts;
   SPool: InputSPoolAccounts;
 };
@@ -66,6 +68,7 @@ export type ProgramToPool = {
   Marinade: {};
   ReservePool: {};
   SanctumSpl: SplPoolAccounts;
+  SanctumSplMulti: SplPoolAccounts;
   Spl: SplPoolAccounts;
   SPool: SPoolAccounts;
 };

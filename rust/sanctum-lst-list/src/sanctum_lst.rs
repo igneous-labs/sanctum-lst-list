@@ -13,6 +13,7 @@ pub enum PoolInfo {
     SanctumSpl(SplPoolAccounts),
     Spl(SplPoolAccounts),
     SPool(SPoolAccounts),
+    SanctumSplMulti(SplPoolAccounts),
 }
 
 #[serde_as]
@@ -45,6 +46,7 @@ impl PoolInfo {
             PoolInfo::SanctumSpl(..) => PoolProgram::SanctumSpl,
             PoolInfo::Spl(..) => PoolProgram::Spl,
             PoolInfo::SPool(..) => PoolProgram::InfSPool,
+            PoolInfo::SanctumSplMulti(..) => PoolProgram::SanctumSplMulti,
         }
     }
 }

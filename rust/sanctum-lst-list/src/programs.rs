@@ -13,6 +13,7 @@ pub enum PoolProgram {
     SanctumSpl,
     Spl,
     InfSPool,
+    SanctumSplMulti,
 }
 
 impl Display for PoolProgram {
@@ -43,6 +44,7 @@ impl TryFrom<Pubkey> for PoolProgram {
             sanctum_spl_stake_pool_program::ID => Self::SanctumSpl,
             inf_s_program::ID => Self::InfSPool,
             spl_stake_pool_program::ID => Self::Spl,
+            sanctum_spl_multi_stake_pool_program::ID => Self::SanctumSplMulti,
             _ => Err(UnsupportedPoolProgramErr)?,
         })
     }
@@ -57,6 +59,7 @@ impl From<PoolProgram> for Pubkey {
             PoolProgram::SanctumSpl => sanctum_spl_stake_pool_program::ID,
             PoolProgram::InfSPool => inf_s_program::ID,
             PoolProgram::Spl => spl_stake_pool_program::ID,
+            PoolProgram::SanctumSplMulti => sanctum_spl_multi_stake_pool_program::ID,
         }
     }
 }
@@ -112,4 +115,8 @@ pub mod spl_stake_pool_program {
 
 pub mod sanctum_spl_stake_pool_program {
     sanctum_macros::declare_program_keys!("SP12tWFxD9oJsVWNavTTBZvMbA6gkAmxtVgxdqvyvhY", []);
+}
+
+pub mod sanctum_spl_multi_stake_pool_program {
+    sanctum_macros::declare_program_keys!("SPMBzsVUuoHA4Jm6KunbsotaahvVikZs1JyTW6iJvbn", []);
 }

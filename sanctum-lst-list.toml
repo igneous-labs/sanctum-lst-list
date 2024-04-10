@@ -11,6 +11,18 @@ program = "SanctumSplMulti"
 pool = "8VpRhuxa7sUUepdY3kQiTmX9rS5vx4WgaXiAnXq4KCtr"
 validator_list = "AXL4v4bbzRkqwHmLc9A1YzHQmRhmG9Q93i1e6CPG2bEK"
 
+[[sanctum_lst_list]]
+name = "Juicing Jupiter SOL"
+symbol = "juicingJupSOL"
+mint = "BgYgFYq4A9a2o5S1QbWkmYVFBh7LBQL8YvugdhieFg38"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://static.jup.ag/jupSOL/icon.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "4mBwcXKJN2vz6MJikNTgVBSY5vYnyjZk7txd8j3K46Ei"
+validator_list = "6j13ZPRzMcyjJqUd5fJYfqa6pqhmDfD87mDgjMGvnff2"
+
 # SanctumSpl Single Pool
 [[sanctum_lst_list]]
 name = "Power Staked SOL"

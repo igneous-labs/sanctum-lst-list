@@ -1,5 +1,16 @@
 # SanctumSpl Multi Pool
 [[sanctum_lst_list]]
+name = "Pathfinders SOL"
+symbol = "pathSOL"
+mint = "pathdXw4He1Xk3eX84pDdDZnGKEme3GivBamGCVPZ5a"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/pathSOL/pathSOL.png"
+program = "SanctumSplMulti"
+pool = "GM7TwD34n8HmDP9XcT6bD3JJuNniKJkrKQinHqmqHarz"
+validator_list = "2WqKyuuonwMhjYpvLFZSBibBddB8DNVTij5AuWYFs4KD"
+
+[[sanctum_lst_list]]
 name = "Jupiter Staked SOL"
 symbol = "JupSOL"
 mint = "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v"

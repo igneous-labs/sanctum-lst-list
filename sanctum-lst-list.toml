@@ -192,6 +192,19 @@ pool = "2jjK1MsLgsPgVjnp97HUJeovNj3jp4XgyQ3nuiWMwiS8"
 validator_list = "HJTGs6mPX7nE84kU1s4c5VRwNbtUxGgUj8qTbzakSXAH"
 vote_account = "CiTYUYPAPHdcri5yEfsmqVcs54J6j8X1QaiFLgYqMVe"
 
+[[sanctum_lst_list]]
+name = "Pumpkin's Staked SOL"
+symbol = "pumpkinSOL"
+mint = "pumpkinsEq8xENVZE6QgTS93EN4r9iKvNxNALS1ooyp"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/bartenbach/pumpkins_pool/main/assets/img/pumpkintoken.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8WHCJsUduwDBhPL9uVADQSdWkUi2LPZNFAMyX1n2HGMD"
+validator_list = "5wQr2KeodHLNikQgNQTeEEoFZuNgvP2oD9c4izDf2TuQ"
+vote_account = "DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx"
+
 
 # Spl Single Pool
 [[sanctum_lst_list]]

@@ -35,6 +35,18 @@ program = "SanctumSplMulti"
 pool = "4mBwcXKJN2vz6MJikNTgVBSY5vYnyjZk7txd8j3K46Ei"
 validator_list = "6j13ZPRzMcyjJqUd5fJYfqa6pqhmDfD87mDgjMGvnff2"
 
+[[sanctum_lst_list]]
+name = "Phase Labs SOL"
+symbol = "phaseSOL"
+mint = "phaseZSfPxTDBpiVb96H4XFSD8xHeHxZre5HerehBJG"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://shdw-drive.genesysgo.net/259s9C39Q9bqdXwCN8T3zPxrdpV7yMWN2JUoNk383j8G/lst.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "phasejkG1akKgqkLvfWzWY17evnH6mSWznnUspmpyeG"
+validator_list = "phaseeExd43yGjjad2FZSigdG9UTRpMdxS4aMerx821"
+
 # SanctumSpl Single Pool
 [[sanctum_lst_list]]
 name = "Power Staked SOL"

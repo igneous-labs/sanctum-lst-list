@@ -41,7 +41,7 @@ symbol = "phaseSOL"
 mint = "phaseZSfPxTDBpiVb96H4XFSD8xHeHxZre5HerehBJG"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://shdw-drive.genesysgo.net/259s9C39Q9bqdXwCN8T3zPxrdpV7yMWN2JUoNk383j8G/lst.png"
+logo_uri = "https://raw.githubusercontent.com/phaselabscrypto/.github/main/profile/public/phaseSOL.png"
 [sanctum_lst_list.pool]
 program = "SanctumSplMulti"
 pool = "phasejkG1akKgqkLvfWzWY17evnH6mSWznnUspmpyeG"

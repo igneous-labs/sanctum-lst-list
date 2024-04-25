@@ -47,6 +47,30 @@ program = "SanctumSplMulti"
 pool = "phasejkG1akKgqkLvfWzWY17evnH6mSWznnUspmpyeG"
 validator_list = "phaseeExd43yGjjad2FZSigdG9UTRpMdxS4aMerx821"
 
+[[sanctum_lst_list]]
+name = "banxSOL"
+symbol = "banxSOL"
+mint = "BANXyWgPpa519e2MtQF1ecRbKYKKDMXPF1dyBxUq9NQG"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/3ryTeptAwpdI57CnL1tfitjnitj2s6P_A_m2RiARE7M"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "4fdMvFuyNboQ5Kr93X16f1tFcTeEkvfNwNAeSrzY3afb"
+validator_list = "25vgWN38FKfcbejXcNvgwKJ2YR6TBudgxmkr5NhRJKzT"
+
+[[sanctum_lst_list]]
+name = "iceSOL"
+symbol = "iceSOL"
+mint = "iceSdwqztAQFuH6En49HWwMxwthKMnGzLFQcMN3Bqhj"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/vIJdshKQBC9cE8V190WgRhYqdjb8HhUJAMmP69gvAFI"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "EVXQHaLSJyUNrnBGfXUnvEi4DvVz4UJ3GnoKGVQVxrjr"
+validator_list = "4uSMQWg19CNj4qEnTDfZpRuTKbUTeFF1KRACS7PSzRjX"
+
 # SanctumSpl Single Pool
 [[sanctum_lst_list]]
 name = "Power Staked SOL"
@@ -217,6 +241,18 @@ pool = "8WHCJsUduwDBhPL9uVADQSdWkUi2LPZNFAMyX1n2HGMD"
 validator_list = "5wQr2KeodHLNikQgNQTeEEoFZuNgvP2oD9c4izDf2TuQ"
 vote_account = "DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx"
 
+[[sanctum_lst_list]]
+name = "Helius Staked SOL"
+symbol = "hSOL"
+mint = "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/hSOL/hSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3wK2g8ZdzAH8FJ7PKr2RcvGh7V9VYson5hrVsJM5Lmws"
+validator_list = "TCxWHorDSe3vWydw6MGwyexcqm3ZU9RT7VTqiCcN6y9"
+vote_account = "he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk"
 
 # Spl Single Pool
 [[sanctum_lst_list]]

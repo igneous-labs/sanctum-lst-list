@@ -1,4 +1,29 @@
 # SanctumSpl Multi Pool
+
+[[sanctum_lst_list]]
+name = "FP SOL"
+symbol = "fpSOL"
+mint = "fpSoL8EJ7UA5yJxFKWk1MFiWi35w8CbH36G5B9d7DsV"
+decimals = 9
+token-program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/fpSOL/fpSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "GutG5bcmEZw15WmPHNVMWHU77c6t8CEinUEdPLYz3doa"
+validator-list = "DfVmEvxkRBgFfYHgrtN9AcEv7gWXUtB1QZ6hkD3aYzsc"
+
+[[sanctum_lst_list]]
+name = "dogwifhat Staked SOL"
+symbol = "wifSOL"
+mint = "Fi5GayacZzUrfaCRCJtBz2vSYkGF56xjgCceZx5SbXwq"
+decimals = 9
+token-program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://uomoiot3hs6vsvrakxo6mr7gq4bdodpmmlhgoxd5zjxhadg5nala.arweave.net/o5jkOns8vVlWIFXd5kfmhwI3DexizmdcfcpucAzdaBY"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "9Z8yimuc3bQCWLDyMhe6jfWqNk9EggyJZUo8TLnYsqhN"
+validator-list = "DfCHoraRZ6XWmqiqCtqTD27GHMUh4YB1oxRJMhMHJYNx"
+
 [[sanctum_lst_list]]
 name = "Pathfinders SOL"
 symbol = "pathSOL"
@@ -379,6 +404,31 @@ program = "Spl"
 pool = "edgejNWAqkePLpi5sHRxT9vHi7u3kSHP9cocABPKiWZ"
 validator_list = "edgeUAwci9fD66ffrfxKZtznzrm79hHcpjR1BaYF8ML"
 
+[[sanctum_lst_list]]
+name = "Thugbirdz Staked SOL"
+symbol = "thugSOL"
+mint = "ThUGsoLWtoTCfb24AmQTKDVjTTUBbNrUrozupJeyPsy"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://srnhpxb74glblifrf53e2dcgserxvjeznibzbbvkesg4wqlu7xmq.arweave.net/lFp33D_hlhWgsS92TQxGkSN6pJlqA5CGqiSNy0F0_dk"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "G9WdMBxWSo1X3fKxbuyGrv1nGXrVqGg5zBKAkBFkb37g"
+validator_list = "2iqLLYWs1GXxDqwdihDGVXdx411FhzfdHtg9jNqAwogf"
+vote_account = "H7fXvnLCKtZqJBTipxeseabGfAZUdHJ9XuP6hCKrbvUb"
+
+[[sanctum_lst_list]]
+name = "Wen Staked SOL"
+symbol = "wenSOL"
+mint = "WensoLXxZJnev2YvihHFchn1dVVFnFLYvgomXWvvwRu"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://hqwsxqydipojktnc77mn3dscmpthicc7nrvom5sgif7toqrtxm2a.arweave.net/PC0rwwND3JVNov_Y3Y5CY-Z0CF9sauZ2RkF_N0IzuzQ"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CWM1VcNPd2A5WF2x2mmEUCgA1PGSKNZCGAH5GsoQw7h8"
+validator_list = "FbGmG4xDpaTwLNtA7uBr4EBe4BUVeKK5LoYQyn2w1nBS"
+vote_account = "WENuuMXGi8adKogNbQj33Vxgia9oA2erkWAPF4szWN1"
 
 # ReservePool
 [[sanctum_lst_list]]

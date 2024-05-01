@@ -10,7 +10,7 @@ logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata
 [sanctum_lst_list.pool]
 program = "SanctumSplMulti"
 pool = "GutG5bcmEZw15WmPHNVMWHU77c6t8CEinUEdPLYz3doa"
-validator-list = "DfVmEvxkRBgFfYHgrtN9AcEv7gWXUtB1QZ6hkD3aYzsc"
+validator_list = "DfVmEvxkRBgFfYHgrtN9AcEv7gWXUtB1QZ6hkD3aYzsc"
 
 [[sanctum_lst_list]]
 name = "dogwifhat Staked SOL"
@@ -22,7 +22,7 @@ logo_uri = "https://uomoiot3hs6vsvrakxo6mr7gq4bdodpmmlhgoxd5zjxhadg5nala.arweave
 [sanctum_lst_list.pool]
 program = "SanctumSplMulti"
 pool = "9Z8yimuc3bQCWLDyMhe6jfWqNk9EggyJZUo8TLnYsqhN"
-validator-list = "DfCHoraRZ6XWmqiqCtqTD27GHMUh4YB1oxRJMhMHJYNx"
+validator_list = "DfCHoraRZ6XWmqiqCtqTD27GHMUh4YB1oxRJMhMHJYNx"
 
 [[sanctum_lst_list]]
 name = "Pathfinders SOL"

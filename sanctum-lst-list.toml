@@ -5,7 +5,7 @@ name = "FP SOL"
 symbol = "fpSOL"
 mint = "fpSoL8EJ7UA5yJxFKWk1MFiWi35w8CbH36G5B9d7DsV"
 decimals = 9
-token-program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/fpSOL/fpSOL.png"
 [sanctum_lst_list.pool]
 program = "SanctumSplMulti"
@@ -17,7 +17,7 @@ name = "dogwifhat Staked SOL"
 symbol = "wifSOL"
 mint = "Fi5GayacZzUrfaCRCJtBz2vSYkGF56xjgCceZx5SbXwq"
 decimals = 9
-token-program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 logo_uri = "https://uomoiot3hs6vsvrakxo6mr7gq4bdodpmmlhgoxd5zjxhadg5nala.arweave.net/o5jkOns8vVlWIFXd5kfmhwI3DexizmdcfcpucAzdaBY"
 [sanctum_lst_list.pool]
 program = "SanctumSplMulti"

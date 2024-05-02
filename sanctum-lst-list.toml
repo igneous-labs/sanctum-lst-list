@@ -6,7 +6,7 @@ symbol = "fpSOL"
 mint = "fpSoL8EJ7UA5yJxFKWk1MFiWi35w8CbH36G5B9d7DsV"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/fpSOL/fpSOL.png"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/fpSOL/fpSOL.jpg"
 [sanctum_lst_list.pool]
 program = "SanctumSplMulti"
 pool = "GutG5bcmEZw15WmPHNVMWHU77c6t8CEinUEdPLYz3doa"

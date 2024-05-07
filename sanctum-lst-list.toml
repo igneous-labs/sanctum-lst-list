@@ -430,6 +430,18 @@ pool = "CWM1VcNPd2A5WF2x2mmEUCgA1PGSKNZCGAH5GsoQw7h8"
 validator_list = "FbGmG4xDpaTwLNtA7uBr4EBe4BUVeKK5LoYQyn2w1nBS"
 vote_account = "WENuuMXGi8adKogNbQj33Vxgia9oA2erkWAPF4szWN1"
 
+[[sanctum_lst_list]]
+name = "Enhanced Linkage SOL"
+symbol = "elSOL"
+mint = "ELSoL1owwMWQ9foMsutweCsMKbTPVBD9pFqxQGidTaMC"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/4q1KEew_Kqymx6rea_b-VeDX337130aPv0omKRAGPHU"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "So1vW4Bm6ZURzJJHZy1JpsjoVY68z4cDgF4tTLwYMa5"
+validator_list = "6iAzfHnUkQTETATNjd8h7hHME5rERAKrRJidbAZL9vL9"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

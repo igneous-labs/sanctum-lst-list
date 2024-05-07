@@ -13,7 +13,7 @@ pool = "GutG5bcmEZw15WmPHNVMWHU77c6t8CEinUEdPLYz3doa"
 validator_list = "DfVmEvxkRBgFfYHgrtN9AcEv7gWXUtB1QZ6hkD3aYzsc"
 
 [[sanctum_lst_list]]
-name = "dogwifhat Staked SOL"
+name = "dogwifSOL"
 symbol = "wifSOL"
 mint = "Fi5GayacZzUrfaCRCJtBz2vSYkGF56xjgCceZx5SbXwq"
 decimals = 9

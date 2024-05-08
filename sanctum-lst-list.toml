@@ -18,7 +18,7 @@ symbol = "wifSOL"
 mint = "Fi5GayacZzUrfaCRCJtBz2vSYkGF56xjgCceZx5SbXwq"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://uomoiot3hs6vsvrakxo6mr7gq4bdodpmmlhgoxd5zjxhadg5nala.arweave.net/o5jkOns8vVlWIFXd5kfmhwI3DexizmdcfcpucAzdaBY"
+logo_uri = "https://bpjbeqpzm6vvgd5eafntpuhxgbxdfbbd2jhvnbwp33ql7xgcbo6q.arweave.net/C9ISQflnq1MPpAFbN9D3MG4yhCPST1aGz97gv9zCC70"
 [sanctum_lst_list.pool]
 program = "SanctumSplMulti"
 pool = "9Z8yimuc3bQCWLDyMhe6jfWqNk9EggyJZUo8TLnYsqhN"

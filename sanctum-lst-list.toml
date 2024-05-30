@@ -441,7 +441,7 @@ logo_uri = "https://arweave.net/ifjpBZbaiieeDI7hIkVBpwNxaeaJxxYHzRpxJgsosf8"
 program = "SanctumSpl"
 pool = "2RUTyfN8iq7Hsd2s9rLgrRT9VhHLuqkx2mGNgbuzbhTc"
 validator_list = "E13TKF5Lecza7YS1sWZJiDS4EhiQdJjp8JguC374NAF7"
-vote_account = "5zuNci3TV79w6zLoJZzbZujMvkVZb2FcSPhgv9aT24AK"
+vote_account = "76DafWkJ6pGK2hoD41HjrM4xTBhfKqrDYDazv13n5ir1"
 
 [[sanctum_lst_list]]
 name = "dainSOL"

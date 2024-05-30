@@ -1,4 +1,4 @@
-# SanctumSpl Multi Pool
+# SanctumSpl Pool -- S upgrade path
 
 [[sanctum_lst_list]]
 name = "FP SOL"
@@ -96,7 +96,7 @@ program = "SanctumSplMulti"
 pool = "EVXQHaLSJyUNrnBGfXUnvEi4DvVz4UJ3GnoKGVQVxrjr"
 validator_list = "4uSMQWg19CNj4qEnTDfZpRuTKbUTeFF1KRACS7PSzRjX"
 
-# SanctumSpl Single Pool
+# SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"
 symbol = "pwrSOL"

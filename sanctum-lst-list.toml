@@ -625,6 +625,19 @@ pool = "DYuSikgwzHidFo2b8jqrViW1psAb7hpawJnszBothRzp"
 validator_list = "ABGjoe5jYWbmY3jMp9ZcWkryPQuJC6dDLMsSo5Z9UUEa"
 vote_account = "8gJCfKzr55gM6DtAaFqoWjBGAmsJ71mpHem6qJAASBU4"
 
+[[sanctum_lst_list]]
+name = "Fuse Staked SOL"
+symbol = "fuseSOL"
+mint = "fuseYvhNJbSzdDByyTCrLcogsoNwAviB1WeewhbqgFc"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://fusesol.nyc3.cdn.digitaloceanspaces.com/fuseSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "pjwKqvtt4ij6VJW4HxNxSaufSrkWHRc6iCTHoC4gFs4"
+validator_list = "EQy3HcYA8MVzgQVTFWxdwP63GkmA77VCMeDH1S5KVLu3"
+vote_account = "SQDSVTDfE5HqL7D6RjZk1vvZhaheWoskrDdDHCki68w"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

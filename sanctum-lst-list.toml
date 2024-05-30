@@ -96,6 +96,18 @@ program = "SanctumSplMulti"
 pool = "EVXQHaLSJyUNrnBGfXUnvEi4DvVz4UJ3GnoKGVQVxrjr"
 validator_list = "4uSMQWg19CNj4qEnTDfZpRuTKbUTeFF1KRACS7PSzRjX"
 
+[[sanctum_lst_list]]
+name = "SolanaFM Staked SOL"
+symbol = "fmSOL"
+mint = "fmSoLKzBY6h9b5RQ67UVs7xE3Ym6mx2ChpPxHdoaVho"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://bafybeiefm3rrcglj2pithpllphuqataudxwepdt66jlmted3mfhybhvg34.ipfs.w3s.link/128x128.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "5FYTvZgc7QEGZSDmbJn5hrtjtRtyFZo5vR7gL1jJYanE"
+validator_list = "3zH61eoL7aL626arSqKEbfsx2kPb6P3WFU9ERUWciPSq"
+
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"

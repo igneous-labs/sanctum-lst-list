@@ -595,7 +595,7 @@ logo_uri = "https://arweave.net/19iWtDeflweeEJCYPtuf7EpZ3oJs9mkxvxpejy3WHew"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "4gT1GaFtJK5pnX3CnjnSYwy8VUV9UdmozoQV9GCNk9RQ"
-validator_list = "4gT1GaFtJK5pnX3CnjnSYwy8VUV9UdmozoQV9GCNk9RQ"
+validator_list = "GgZb2DV3CkN6fu1oeJJL3gpfsUTn4yS7ptqWoJhn5VN1"
 vote_account = "rFLcT89WTT6kJsKmrMzpz5FUZHy7Z9bycBF1Q1SMy6i"
 
 [[sanctum_lst_list]]

@@ -482,6 +482,19 @@ validator_list = "842feRsGyLDY12fzcHDm5VrANqsC15koSHEtWiVxCCCf"
 vote_account = "Simpj3KyRQmpRkXuBvCQFS7DBBG6vqw93SkZb9UD1hp"
 
 [[sanctum_lst_list]]
+name = "digitalSOL"
+symbol = "digitalSOL"
+mint = "3bfv2scCdbvumVBc3Sar5QhYXx7Ecsi8EFF2akjxe329"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://shdw-drive.genesysgo.net/3y9qiDjVtv8xcWsgad8zULmsqg8PLusetN55PdqtLhyr/tokenlogo.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Fwy2jGmRCDjKpWTacMVvnLp66Fg4L5yhVCfahHsbjMGf"
+validator_list = "2Visjfg7y5iMw9eiFjKipwG5dH1AsdFJu7sYpdwnWCcA"
+vote_account = "86Sw9R6ynPmXnHfwUWinXtq1QoF2KHesfQQyZG5r8sXo"
+
+[[sanctum_lst_list]]
 name = "Delegate Liquid Staking SOL"
 symbol = "dlgtSOL"
 mint = "DLGToUUnqy9hXxpJTm5VaiBKqnw9Zt1qzvrpwKwUmuuZ"

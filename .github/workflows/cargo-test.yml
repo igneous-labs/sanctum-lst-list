@@ -6,7 +6,7 @@ on:
     types: [opened]
 
 jobs:
-  deploy:
+  test:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
@@ -17,6 +17,9 @@ jobs:
 
       - name: rust-cache
         uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: |
+            rust
 
       - name: cargo test
         run: cargo test --manifest-path ./rust/Cargo.toml

@@ -1,0 +1,28 @@
+name: Cargo Test
+
+on:
+  workflow_dispatch:
+  pull_request:
+    types: [opened, reopened]
+  push:
+    branches:
+      - "master"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: install toolchain
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: rust-cache
+        uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: |
+            rust
+
+      - name: cargo test
+        run: cargo test --manifest-path ./rust/Cargo.toml

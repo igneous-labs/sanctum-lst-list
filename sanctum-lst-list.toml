@@ -522,6 +522,19 @@ validator_list = "DJ2V46U5yjT2P2tJW6VMYeFFMgRmaKtDDNKEiMd3wDdB"
 vote_account = "CNcaYdqkCwxDpKSVK8in5f6kqrTiZ5SuHsHFDqx6jNvu"
 
 [[sanctum_lst_list]]
+name = "Hanabi Staked SOL"
+symbol = "haSOL"
+mint = "haSo1Vz5aTsqEnz8nisfnEsipvbAAWpgzRDh2WhhMEh"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://shdw-drive.genesysgo.net/HjUWneFfxDo1WLdTSi8cngmyZMJHbGqt68iQ1LXJitES/firework_solana_512px.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9ovWYMZp18Qn7UVbyUvwqLSBBSEPDDA5q9pUgDFy6R23"
+validator_list = "9QhR8FfKqU6dpR83kvBrXE2U5uHJ4LXiAR9MgX1FNg5D"
+vote_account = "mintrNtxN3PhAB45Pt41XqyKghTTpqcoBkQTZqh96iR"
+
+[[sanctum_lst_list]]
 name = "StakeHaus Staked SOL"
 symbol = "hausSOL"
 mint = "HausGKcq9G9zM3azwNmgZyzUvYeeqR8h8663PmZpxuDj"

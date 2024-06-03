@@ -106,7 +106,8 @@ logo_uri = "https://bafybeiefm3rrcglj2pithpllphuqataudxwepdt66jlmted3mfhybhvg34.
 [sanctum_lst_list.pool]
 program = "SanctumSplMulti"
 pool = "5FYTvZgc7QEGZSDmbJn5hrtjtRtyFZo5vR7gL1jJYanE"
-validator_list = "3zH61eoL7aL626arSqKEbfsx2kPb6P3WFU9ERUWciPSq"
+validator_list = "khxkNN9Ke1evzgBM1koNGcXfDZ2xLUJorEpUQu1zsot"
+vote_account = "3zH61eoL7aL626arSqKEbfsx2kPb6P3WFU9ERUWciPSq"
 
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]

@@ -3,12 +3,16 @@ resolver = "2"
 members = ["sanctum-lst-list", "tojup"]
 
 [workspace.dependencies]
+borsh = "^0.9"
 clap = { version = "^4", features = ["derive"] }
 csv = "^1"
 reqwest = "^0.11"
 serde = { version = "^1", features = ["derive"] }
 serde_with = "^3"
+solana-client = "^1"
 solana-program = "^1"
+spl_stake_pool_interface = { git = "https://github.com/igneous-labs/sanctum-solana-utils", branch = "master" }
+spl-token-2022 = "^1"
 sanctum-macros = "^1"
 toml = ">=0.1"
 

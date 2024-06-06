@@ -109,6 +109,19 @@ pool = "5FYTvZgc7QEGZSDmbJn5hrtjtRtyFZo5vR7gL1jJYanE"
 validator_list = "khxkNN9Ke1evzgBM1koNGcXfDZ2xLUJorEpUQu1zsot"
 vote_account = "3zH61eoL7aL626arSqKEbfsx2kPb6P3WFU9ERUWciPSq"
 
+[[sanctum_lst_list]]
+name = "BurnDAO"
+symbol = "BurnSOL"
+mint = "AxM7a5HNmRNHbND6h5ZMSsU8n3NLa1tskoN6m5mAgVvL"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://blue-selected-otter-455.mypinata.cloud/ipfs/QmUezUvUBny2XhzGm9BiZ7PQrbWA1R8szaTMcYMrqWXNKX"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "CAEsfzw43mvaVauCxXCSJh8DvnFsTMiTyeL1kjs6UwaT"
+validator_list = "8QsyXperTQHzv7huu1ZB1QV9jzD7BKzNVkgsniCqzUGL"
+vote_account = "he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk"
+
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"
@@ -520,6 +533,19 @@ program = "SanctumSpl"
 pool = "BmEgS5XpWJJDqT3FVfB6ZmoELQrWkJxDXo3cNoJVsNFK"
 validator_list = "DJ2V46U5yjT2P2tJW6VMYeFFMgRmaKtDDNKEiMd3wDdB"
 vote_account = "CNcaYdqkCwxDpKSVK8in5f6kqrTiZ5SuHsHFDqx6jNvu"
+
+[[sanctum_lst_list]]
+name = "Hanabi Staked SOL"
+symbol = "haSOL"
+mint = "haSo1Vz5aTsqEnz8nisfnEsipvbAAWpgzRDh2WhhMEh"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://shdw-drive.genesysgo.net/HjUWneFfxDo1WLdTSi8cngmyZMJHbGqt68iQ1LXJitES/firework_solana_512px.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9ovWYMZp18Qn7UVbyUvwqLSBBSEPDDA5q9pUgDFy6R23"
+validator_list = "9QhR8FfKqU6dpR83kvBrXE2U5uHJ4LXiAR9MgX1FNg5D"
+vote_account = "mintrNtxN3PhAB45Pt41XqyKghTTpqcoBkQTZqh96iR"
 
 [[sanctum_lst_list]]
 name = "StakeHaus Staked SOL"

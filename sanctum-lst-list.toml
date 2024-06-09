@@ -122,6 +122,19 @@ pool = "CAEsfzw43mvaVauCxXCSJh8DvnFsTMiTyeL1kjs6UwaT"
 validator_list = "8QsyXperTQHzv7huu1ZB1QV9jzD7BKzNVkgsniCqzUGL"
 vote_account = "he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk"
 
+[[sanctum_lst_list]]
+name = "mallowSOL"
+symbol = "mallowSOL"
+mint = "MLLWWq9TLHK3oQznWqwPyqD7kH4LXTHSKXK4yLz7LjD"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/b0JcLRjgOigociJMInQzY9eVsFTwzV0OUdbpJ_LZ9xo"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "7thbAQrn9oRJsbz2CchoPSujGYpu4hCHnVrniBHupQsx"
+validator_list = "21RD9B26CJFTBt7FYJqXWycjbrALQXLFNxnT88y5pu8H"
+vote_account = "he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk"
+
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"

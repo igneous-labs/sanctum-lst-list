@@ -716,6 +716,19 @@ pool = "pjwKqvtt4ij6VJW4HxNxSaufSrkWHRc6iCTHoC4gFs4"
 validator_list = "EQy3HcYA8MVzgQVTFWxdwP63GkmA77VCMeDH1S5KVLu3"
 vote_account = "SQDSVTDfE5HqL7D6RjZk1vvZhaheWoskrDdDHCki68w"
 
+[[sanctum_lst_list]]
+name = "Mango SOL"
+symbol = "mangoSOL"
+mint = "MangmsBgFqJhW4cLUR9LxfVgMboY1xAoP8UUBiWwwuY"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://mango.markets/images/tokens/mangoSOL.svg"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9jWbABPXfc75wseAbLEkBCb1NRaX9EbJZJTDQnbtpzc1"
+validator_list = "BaWQieBbZvkwB4qfiPUaWZP9pWgGNPeTM6VsfWRLw7CQ"
+vote_account = "5EYp3kCdMLq52vzZ4ucsVyYaaxQe5MKTquxahjXpcShS"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

@@ -729,6 +729,19 @@ pool = "9jWbABPXfc75wseAbLEkBCb1NRaX9EbJZJTDQnbtpzc1"
 validator_list = "BaWQieBbZvkwB4qfiPUaWZP9pWgGNPeTM6VsfWRLw7CQ"
 vote_account = "5EYp3kCdMLq52vzZ4ucsVyYaaxQe5MKTquxahjXpcShS"
 
+[[sanctum_lst_list]]
+name = "apySOL"
+symbol = "apySOL"
+mint = "apySoLhdVa6QbvNyEjXCbET3FdUm9cCdEvYyjCU7icM"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://apysol.io/icon.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FxhzbU8rn4MhZxmeH2u7M18qkvFH3LjkWk8z9686TE45"
+validator_list = "4zDzb3SKgCuHoT9qnUy1M7xT5vQyRuVzEwA5egmaqc8F"
+vote_account = "apySoLRzPkGf8EEinWQjAbL6B4frjgx4gG4YePoM9NJ"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

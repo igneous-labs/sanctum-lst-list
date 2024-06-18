@@ -361,6 +361,18 @@ vote_account = "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL"
 
 # Spl
 [[sanctum_lst_list]]
+name = "Enhanced Linkage SOL"
+symbol = "elSOL"
+mint = "ELSoL1owwMWQ9foMsutweCsMKbTPVBD9pFqxQGidTaMC"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/4q1KEew_Kqymx6rea_b-VeDX337130aPv0omKRAGPHU"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "So1vW4Bm6ZURzJJHZy1JpsjoVY68z4cDgF4tTLwYMa5"
+validator_list = "6iAzfHnUkQTETATNjd8h7hHME5rERAKrRJidbAZL9vL9"
+
+[[sanctum_lst_list]]
 name = "The Vault"
 symbol = "vSOL"
 mint = "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"

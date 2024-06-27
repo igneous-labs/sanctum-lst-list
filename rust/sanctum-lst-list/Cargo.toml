@@ -14,6 +14,8 @@ toml = { workspace = true }
 
 [dev-dependencies]
 borsh = { workspace = true }
+reqwest = { workspace = true }
 solana-client = { workspace = true }
 spl_stake_pool_interface = { workspace = true }
 spl-token-2022 = { workspace = true }
+tokio = { workspace = true }

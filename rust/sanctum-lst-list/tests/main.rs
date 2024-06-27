@@ -1,11 +1,13 @@
-use std::collections::HashSet;
+use std::{collections::HashSet, error::Error};
 
 use borsh::BorshDeserialize;
+use reqwest::header;
 use sanctum_lst_list::{PoolInfo, SanctumLst, SanctumLstList};
 use solana_client::rpc_client::RpcClient;
 use solana_program::pubkey::Pubkey;
 use spl_stake_pool_interface::{StakePool, ValidatorList, ValidatorStakeInfo};
 use spl_token_2022::extension::StateWithExtensions;
+use tokio::task::JoinSet;
 
 const SOLANA_RPC_URL: &str = "https://api.mainnet-beta.solana.com";
 
@@ -137,4 +139,49 @@ fn verify_pool_valid(
             );
         }
     }
+}
+
+#[tokio::test]
+async fn verify_all_token_logo_image_uri_valid() {
+    let client: &'static reqwest::Client = Box::leak(Box::new(reqwest::Client::new()));
+    let SanctumLstList { sanctum_lst_list } = SanctumLstList::load();
+    let mut js = JoinSet::new();
+    sanctum_lst_list.into_iter().for_each(|slst| {
+        js.spawn(verify_token_logo_image_uri_valid(client, slst));
+    });
+    while let Some(res) = js.join_next().await {
+        res.unwrap();
+    }
+}
+
+async fn verify_token_logo_image_uri_valid(
+    client: &reqwest::Client,
+    SanctumLst {
+        logo_uri, symbol, ..
+    }: SanctumLst,
+) {
+    let content_type = match fetch_logo_image_uri_content_type(client, &logo_uri).await {
+        Ok(ct) => ct,
+        Err(e) => panic!("{symbol} fetch failed: {e}"),
+    };
+    assert!(
+        content_type.to_lowercase().contains("image"),
+        "{symbol} Content-Type {content_type} not image"
+    );
+}
+
+async fn fetch_logo_image_uri_content_type(
+    client: &reqwest::Client,
+    logo_uri: &str,
+) -> Result<String, Box<dyn Error>> {
+    Ok(client
+        .get(logo_uri)
+        .send()
+        .await?
+        .error_for_status()?
+        .headers()
+        .get(header::CONTENT_TYPE)
+        .ok_or("No Content-Type header")?
+        .to_str()?
+        .to_owned())
 }

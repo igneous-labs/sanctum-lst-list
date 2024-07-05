@@ -457,6 +457,18 @@ pool = "edgejNWAqkePLpi5sHRxT9vHi7u3kSHP9cocABPKiWZ"
 validator_list = "edgeUAwci9fD66ffrfxKZtznzrm79hHcpjR1BaYF8ML"
 
 [[sanctum_lst_list]]
+name = "aeroSOL"
+symbol = "aeroSOL"
+mint = "aeroXvCT6tjGVNyTvZy86tFDwE4sYsKCh7FbNDcrcxF"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/phaselabscrypto/.github/main/profile/public/aeroSOL.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "aero2ePURjuEgLKTzcUmF6RypBncBGd7pMUYCoSsVJ6"
+validator_list = "aero4efZ7zHhWpqXQj4Uqw59koxj8KXqMCPUuvmhgUQ"
+
+[[sanctum_lst_list]]
 name = "Thugbirdz Staked SOL"
 symbol = "thugSOL"
 mint = "ThUGsoLWtoTCfb24AmQTKDVjTTUBbNrUrozupJeyPsy"

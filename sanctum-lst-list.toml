@@ -592,7 +592,7 @@ symbol = "kumaSOL"
 mint = "KUMAgSzADhUmwXwNiUbNHYnMBnd89u4t9obZThJ4dqg"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://arweave.net/JWHmaNgsEXlHE1qJquHm5OluAX3V9CBKITwVbWbwL6M"
+logo_uri = "https://arweave.net/dBlyZZ8SRU8gbBLB_Ahil_NXCtsh67PI10mTq9qcMVA"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "Fvy5L7f3rduuYfRf9GR9fDqEgmJkYagDPh3Ddkp5jcoP"

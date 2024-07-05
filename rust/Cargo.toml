@@ -14,6 +14,7 @@ solana-program = "^1"
 spl_stake_pool_interface = { git = "https://github.com/igneous-labs/sanctum-solana-utils", branch = "master" }
 spl-token-2022 = "^1"
 sanctum-macros = "^1"
+tokio = "^1"
 toml = ">=0.1"
 
 # workspace members

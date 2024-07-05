@@ -2962,6 +2962,7 @@ name = "sanctum-lst-list"
 version = "0.2.0"
 dependencies = [
  "borsh 0.9.3",
+ "reqwest",
  "sanctum-macros",
  "serde",
  "serde_with 3.4.0",
@@ -2969,6 +2970,7 @@ dependencies = [
  "solana-program",
  "spl-token-2022",
  "spl_stake_pool_interface",
+ "tokio",
  "toml",
 ]
 

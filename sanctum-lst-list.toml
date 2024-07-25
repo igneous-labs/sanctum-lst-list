@@ -600,19 +600,6 @@ validator_list = "AgSQoowD7n51jJu9QK6KV1X5f9wSVamq1T3LmUeMg5GH"
 vote_account = "4m1PbxzwLdUnEwog3T9UKxgjktgriHgE1CfAhMqDw7Xx"
 
 [[sanctum_lst_list]]
-name = "mallowSOL"
-symbol = "mallowSOL"
-mint = "MLLWfi8yLTzsjzKeHN3881qWM1eDM1kTfC59aD4tiP2"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://arweave.net/b0JcLRjgOigociJMInQzY9eVsFTwzV0OUdbpJ_LZ9xo"
-[sanctum_lst_list.pool]
-program = "SanctumSpl"
-pool = "9dP2MvpoFuVgW31NbwyRJzybcjH2gMZS5YkSWEC7NDhD"
-validator_list = "6XMx6CgC41LCKh2ZzkhhdNKq5EFufNkyYQ9QrV8soBeF"
-vote_account = "he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk"
-
-[[sanctum_lst_list]]
 name = "Nordic Staked SOL"
 symbol = "nordSOL"
 mint = "nordEhq2BnR6weCyrdezNVk7TwC3Ej94znPZxdBnfLM"

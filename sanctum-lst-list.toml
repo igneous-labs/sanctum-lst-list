@@ -742,6 +742,19 @@ pool = "FxhzbU8rn4MhZxmeH2u7M18qkvFH3LjkWk8z9686TE45"
 validator_list = "4zDzb3SKgCuHoT9qnUy1M7xT5vQyRuVzEwA5egmaqc8F"
 vote_account = "apySoLRzPkGf8EEinWQjAbL6B4frjgx4gG4YePoM9NJ"
 
+[[sanctum_lst_list]]
+name = "Step Staked SOL"
+symbol = "stepSOL"
+mint = "StPsoHokZryePePFV8N7iXvfEmgUoJ87rivABX7gaW6"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://step-public.s3.eu-north-1.amazonaws.com/StepSOL.svg"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7yQNEvbzH6KffCY7iYFrKCKXv8c9zB9jJREmPK6gBVYz"
+validator_list = "HtCNz5bc521vH3DEjHv8W1Zbc2QZBev9quyMBurk9YzK"
+vote_account = "StepeLdhJ2znRjHcZdjwMWsC4nTRURNKQY8Nca82LJp"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

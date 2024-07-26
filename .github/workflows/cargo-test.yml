@@ -16,7 +16,9 @@ jobs:
         uses: actions/checkout@v2
 
       - name: install toolchain
-        uses: dtolnay/rust-toolchain@stable
+        uses: dtolnay/rust-toolchain@master # need to be @master to specify custom toolchain
+        with:
+          toolchain: 1.79.0 # match vers in rust-toolchain.toml
 
       - name: rust-cache
         uses: Swatinem/rust-cache@v2

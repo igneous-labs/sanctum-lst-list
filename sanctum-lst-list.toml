@@ -366,7 +366,7 @@ symbol = "vSOL"
 mint = "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://cloudflare-ipfs.com/ipfs/bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta"
+logo_uri = "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/"
 [sanctum_lst_list.pool]
 program = "Spl"
 pool = "Fu9BYC6tWBo1KMKaP3CFoKfRhqv9akmy3DuYwnCyWiyC"
@@ -612,19 +612,6 @@ validator_list = "AgSQoowD7n51jJu9QK6KV1X5f9wSVamq1T3LmUeMg5GH"
 vote_account = "4m1PbxzwLdUnEwog3T9UKxgjktgriHgE1CfAhMqDw7Xx"
 
 [[sanctum_lst_list]]
-name = "mallowSOL"
-symbol = "mallowSOL"
-mint = "MLLWfi8yLTzsjzKeHN3881qWM1eDM1kTfC59aD4tiP2"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://arweave.net/b0JcLRjgOigociJMInQzY9eVsFTwzV0OUdbpJ_LZ9xo"
-[sanctum_lst_list.pool]
-program = "SanctumSpl"
-pool = "9dP2MvpoFuVgW31NbwyRJzybcjH2gMZS5YkSWEC7NDhD"
-validator_list = "6XMx6CgC41LCKh2ZzkhhdNKq5EFufNkyYQ9QrV8soBeF"
-vote_account = "he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk"
-
-[[sanctum_lst_list]]
 name = "Nordic Staked SOL"
 symbol = "nordSOL"
 mint = "nordEhq2BnR6weCyrdezNVk7TwC3Ej94znPZxdBnfLM"
@@ -754,6 +741,19 @@ pool = "FxhzbU8rn4MhZxmeH2u7M18qkvFH3LjkWk8z9686TE45"
 validator_list = "4zDzb3SKgCuHoT9qnUy1M7xT5vQyRuVzEwA5egmaqc8F"
 vote_account = "apySoLRzPkGf8EEinWQjAbL6B4frjgx4gG4YePoM9NJ"
 
+[[sanctum_lst_list]]
+name = "Step Staked SOL"
+symbol = "stepSOL"
+mint = "StPsoHokZryePePFV8N7iXvfEmgUoJ87rivABX7gaW6"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://step-public.s3.eu-north-1.amazonaws.com/StepSOL.svg"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7yQNEvbzH6KffCY7iYFrKCKXv8c9zB9jJREmPK6gBVYz"
+validator_list = "HtCNz5bc521vH3DEjHv8W1Zbc2QZBev9quyMBurk9YzK"
+vote_account = "StepeLdhJ2znRjHcZdjwMWsC4nTRURNKQY8Nca82LJp"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"
@@ -773,7 +773,7 @@ symbol = "INF"
 mint = "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://cloudflare-ipfs.com/ipfs/bafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e"
+logo_uri = "https://bafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e.ipfs.nftstorage.link/"
 [sanctum_lst_list.pool]
 program = "SPool"
 program_id = "5ocnV1qiCgaQR8Jb8xWnVbApfaygJ8tNoZfgPwsgx9kx"

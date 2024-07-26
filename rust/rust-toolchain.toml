@@ -1,0 +1,2 @@
+[toolchain]
+channel = "1.79.0" # TODO: need to lock to this vers, 1.80.0 results in this compile err for time: https://github.com/zed-industries/zed/issues/12264

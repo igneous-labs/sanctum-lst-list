@@ -147,6 +147,18 @@ program = "SanctumSplMulti"
 pool = "AArUn1RkrCejbciMwd9t7a8TFLHaBRHBzaQXiM9B48aH"
 validator_list = "34VvniHqR9MiudeGbwjMrsb9wbkW77TuyXwc2HLUG7Gs"
 
+[[sanctum_lst_list]]
+name = "UpRock SOL"
+symbol = "uptSOL"
+mint = "uPtSoL2qszk4SuPHNE2zqk1gDtqCq21ZE1yZCqvFTqq"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/uprockcom/upt-sol/main/logo.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "5UMja2dWNX3XhrBAvsoRteySTngfpQGHrWfHxueCs5s6"
+validator_list = "FAr8zNTtTUCu2sSnGRp8mUTGos755bm6EYkBLwzjX9VT"
+
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"
@@ -478,6 +490,18 @@ logo_uri = "https://arweave.net/4q1KEew_Kqymx6rea_b-VeDX337130aPv0omKRAGPHU"
 program = "Spl"
 pool = "So1vW4Bm6ZURzJJHZy1JpsjoVY68z4cDgF4tTLwYMa5"
 validator_list = "6iAzfHnUkQTETATNjd8h7hHME5rERAKrRJidbAZL9vL9"
+
+[[sanctum_lst_list]]
+name = "aeroSOL"
+symbol = "aeroSOL"
+mint = "aeroXvCT6tjGVNyTvZy86tFDwE4sYsKCh7FbNDcrcxF"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/phaselabscrypto/.github/main/profile/public/aeroSOL.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "aero2ePURjuEgLKTzcUmF6RypBncBGd7pMUYCoSsVJ6"
+validator_list = "aero4efZ7zHhWpqXQj4Uqw59koxj8KXqMCPUuvmhgUQ"
 
 [[sanctum_lst_list]]
 name = "Thugbirdz Staked SOL"

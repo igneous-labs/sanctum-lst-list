@@ -135,6 +135,30 @@ pool = "7thbAQrn9oRJsbz2CchoPSujGYpu4hCHnVrniBHupQsx"
 validator_list = "21RD9B26CJFTBt7FYJqXWycjbrALQXLFNxnT88y5pu8H"
 vote_account = "he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk"
 
+[[sanctum_lst_list]]
+name = "Pine Staked SOL"
+symbol = "pineSOL"
+mint = "SnKAf8aNjeYz8pY8itYn3VxFhT6Q8WNdPwy17s9USgC"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/kDokz1I26JRz9RhP93htZRO97O6o-tuKe7YbHz2zcS4"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "AArUn1RkrCejbciMwd9t7a8TFLHaBRHBzaQXiM9B48aH"
+validator_list = "34VvniHqR9MiudeGbwjMrsb9wbkW77TuyXwc2HLUG7Gs"
+
+[[sanctum_lst_list]]
+name = "UpRock SOL"
+symbol = "uptSOL"
+mint = "uPtSoL2qszk4SuPHNE2zqk1gDtqCq21ZE1yZCqvFTqq"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/uprockcom/upt-sol/main/logo.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "5UMja2dWNX3XhrBAvsoRteySTngfpQGHrWfHxueCs5s6"
+validator_list = "FAr8zNTtTUCu2sSnGRp8mUTGos755bm6EYkBLwzjX9VT"
+
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"
@@ -358,7 +382,6 @@ pool = "2qyEeSAWKfU18AFthrF7JA8z8ZCi1yt76Tqs917vwQTV"
 validator_list = "sHPN95ARJpwN3Yipc22Z3m5118K3czRLBG7WmLDLsMp"
 vote_account = "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL"
 
-
 # Spl
 [[sanctum_lst_list]]
 name = "The Vault"
@@ -455,6 +478,30 @@ logo_uri = "https://srv.edgevana.com/img/edgesol.png"
 program = "Spl"
 pool = "edgejNWAqkePLpi5sHRxT9vHi7u3kSHP9cocABPKiWZ"
 validator_list = "edgeUAwci9fD66ffrfxKZtznzrm79hHcpjR1BaYF8ML"
+
+[[sanctum_lst_list]]
+name = "Enhanced Linkage SOL"
+symbol = "elSOL"
+mint = "ELSoL1owwMWQ9foMsutweCsMKbTPVBD9pFqxQGidTaMC"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/4q1KEew_Kqymx6rea_b-VeDX337130aPv0omKRAGPHU"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "So1vW4Bm6ZURzJJHZy1JpsjoVY68z4cDgF4tTLwYMa5"
+validator_list = "6iAzfHnUkQTETATNjd8h7hHME5rERAKrRJidbAZL9vL9"
+
+[[sanctum_lst_list]]
+name = "aeroSOL"
+symbol = "aeroSOL"
+mint = "aeroXvCT6tjGVNyTvZy86tFDwE4sYsKCh7FbNDcrcxF"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/phaselabscrypto/.github/main/profile/public/aeroSOL.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "aero2ePURjuEgLKTzcUmF6RypBncBGd7pMUYCoSsVJ6"
+validator_list = "aero4efZ7zHhWpqXQj4Uqw59koxj8KXqMCPUuvmhgUQ"
 
 [[sanctum_lst_list]]
 name = "Thugbirdz Staked SOL"
@@ -722,7 +769,7 @@ symbol = "apySOL"
 mint = "apySoLhdVa6QbvNyEjXCbET3FdUm9cCdEvYyjCU7icM"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://apysol.io/icon.png"
+logo_uri = "https://apysol.io/img.png"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "FxhzbU8rn4MhZxmeH2u7M18qkvFH3LjkWk8z9686TE45"
@@ -741,6 +788,58 @@ program = "SanctumSpl"
 pool = "7yQNEvbzH6KffCY7iYFrKCKXv8c9zB9jJREmPK6gBVYz"
 validator_list = "HtCNz5bc521vH3DEjHv8W1Zbc2QZBev9quyMBurk9YzK"
 vote_account = "StepeLdhJ2znRjHcZdjwMWsC4nTRURNKQY8Nca82LJp"
+
+[[sanctum_lst_list]]
+name = "Urban Staked SOL"
+symbol = "uSOL"
+mint = "uSo1ynGWS3qc2B1nN2MmEHN5cYaNbT7vJp87LtgkpV8"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/hrYI439t97ffLMJTWzAGc2qJApoAunr-Dw0Q86IxNbE"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9h8whamW6ydU5EunuPqY7yWP2VFDjsCtorGjtWvNnJ54"
+validator_list = "EQ9n3ccwrvNtkm4FWmu8MeMZMJQfye48A9hDKEHx6wWh"
+vote_account = "D6HbUn4FeyZWiY5ftTAxK1TXmvCLjBoPG9nRsr8z8y5g"
+
+[[sanctum_lst_list]]
+name = "lotusSOL"
+symbol = "lotusSOL"
+mint = "gangqfNY8fA7eQY3tHyjrevxHCLnhKRrLGRwUMBR4y6"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/G9bkE8AlT7NBw0E6sBKtPziO6toOhI5Y6jIzU27klec"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4yQWc4Zss8YqWoVCwuSm3wVXebdHx9z6dPigH5eLqugm"
+validator_list = "8CqAg6YKCArk7WKe1Xn7GHb8n6kfRvbuiG93rPh33FRY"
+vote_account = "gangtRyGPTvYWb8K3xS2feJQaCks4iJ7rytFUPtVqSY"
+
+[[sanctum_lst_list]]
+name = "eonSOL"
+symbol = "eonSOL"
+mint = "eon5tgYNk5FjJUcBUcLno49t2GfpmWZDzJHeYkbh9Zo"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://shdw-drive.genesysgo.net/Ctn1Td5TTdb6FumGxUCc8ZGiiMHQujKQYPwnV2DjaBtv/eonSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "G9Jgnqhq5MaDNmLSgTDSmiWRcmq67Q7yVnXjoA8tUsGX"
+validator_list = "GL5ufRF8vAtrWQmdnny2qhXG5RtBrQtyzKdpY5w3qZxg"
+vote_account = "eondcw2upjH14EuvBzmn6HfGEGo8t9hG9JbXtPj6cym"
+
+[[sanctum_lst_list]]
+name = "Guardian Staked SOL"
+symbol = "gS"
+mint = "gSvP9zBJ33pX7W2finzAYJZp6Q9ipNAQ19xU9PrCirz"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/Guardian-Validator/gS/main/gS2.svg"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "6KrUyxQR9ia4WCozrRzwkqpFrh9jzsmzrrEypfnz6bqh"
+validator_list = "oEiWyLLiafFksCtcRfDcTfgkFa5sEPxrYMGtFHgSWRF"
+vote_account = "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL"
 
 # ReservePool
 [[sanctum_lst_list]]

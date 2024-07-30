@@ -136,8 +136,8 @@ validator_list = "21RD9B26CJFTBt7FYJqXWycjbrALQXLFNxnT88y5pu8H"
 vote_account = "he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk"
 
 [[sanctum_lst_list]]
-name = "FP SOL"
-symbol = "fpSOL"
+name = "Pine Staked SOL"
+symbol = "pineSOL"
 mint = "SnKAf8aNjeYz8pY8itYn3VxFhT6Q8WNdPwy17s9USgC"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"

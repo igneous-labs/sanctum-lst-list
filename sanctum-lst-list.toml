@@ -246,7 +246,7 @@ symbol = "hubSOL"
 mint = "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://shdw-drive.genesysgo.net/AHzrxKBP6fkj6sozaZ2uzv6nniJLRFnZNZQ6rEPfZM5E/hub.png"
+logo_uri = "https://arweave.net/RI0OfNg4Ldn5RRdOp9lE60NqUmweGtJxF5N8JjU_Y0k"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "ECRqn7gaNASuvTyC5xfCUjehWZCSowMXstZiM5DNweyB"
@@ -351,7 +351,7 @@ symbol = "laineSOL"
 mint = "LAinEtNLgpmCP9Rvsf5Hn8W6EhNiKLZQti1xfWMLy6X"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://shdw-drive.genesysgo.net/4DUkKJB966oMk8zq57KkAUxqg9HpuWtZ3BKobhmYph39/laineSOL.webp"
+logo_uri = "https://vvmbtadq63n53sdsqhlzbnzhvj5tdfp7moqixyv7rgkk6frqhqqq.arweave.net/rVgZgHD2293IcoHXkLcnqnsxlf9joIviv4mUrxYwPCE"
 [sanctum_lst_list.pool]
 program = "Spl"
 pool = "2qyEeSAWKfU18AFthrF7JA8z8ZCi1yt76Tqs917vwQTV"
@@ -501,7 +501,7 @@ symbol = "dainSOL"
 mint = "2LuXDpkn7ZWMqufwgUv7ZisggGkSE5FpeHCHBsRgLg3m"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://tca2vwit4gdsuwo3evencavzatf6sdit6e3xpiw374fmid45q55q.arweave.net/mIGq2RPhhypZ2yVI0QK5BMvpDRPxN3ei2_8KxA-dh3s"
+logo_uri = "https://arweave.net/mIGq2RPhhypZ2yVI0QK5BMvpDRPxN3ei2_8KxA-dh3s"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "7qJ34Vq7nGZvk5YExkJsDZB6to6vz9RpcPmNEK84HjrV"
@@ -514,7 +514,7 @@ symbol = "digitSOL"
 mint = "D1gittVxgtszzY4fMwiTfM4Hp7uL5Tdi1S9LYaepAUUm"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://arweave.net/ZyUlfKrPX9CjI2lwpnBrnaFiPV8RhU99IXvuD1PUGTE"
+logo_uri = "https://arweave.net/EU5JKGGQEQ3Rwj-LrFJdh7GhSBFoQ4TYvoDnmdZ0FcE"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "4qYufFsPQETukkXd5z9fxDsdwm8AEaSqzYpuzmZzCJxR"
@@ -631,7 +631,7 @@ symbol = "rkSOL"
 mint = "EPCz5LK372vmvCkZH3HgSuGNKACJJwwxsofW6fypCPZL"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://arweave.net/kgakRdwSkJHvxHlLwq1sSDQF0DIqzFXNvRcml9jdznE"
+logo_uri = "https://arweave.net/INyKzzPVD4BUqqMgQbd_QxmhmPJq-NrLHujNTouwD4g"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "6LXCxeyQZqdAL4yLCtgATFYF6dcayWvsiwjtBFYVfb1N"
@@ -696,7 +696,7 @@ symbol = "fuseSOL"
 mint = "fuseYvhNJbSzdDByyTCrLcogsoNwAviB1WeewhbqgFc"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://fusesol.nyc3.cdn.digitaloceanspaces.com/fuseSOL.png"
+logo_uri = "https://fusesol.nyc3.digitaloceanspaces.com/fuseSOL.png"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "pjwKqvtt4ij6VJW4HxNxSaufSrkWHRc6iCTHoC4gFs4"

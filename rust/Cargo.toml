@@ -6,12 +6,14 @@ members = ["sanctum-lst-list", "tojup"]
 borsh = "^0.9"
 clap = { version = "^4", features = ["derive"] }
 csv = "^1"
+mpl-token-metadata = "^4"
 reqwest = "^0.11"
 sanctum-macros = "^1"
 serde = { version = "^1", features = ["derive"] }
 serde_with = "^3"
 solana-client = "^1"
 solana-program = "^1"
+solana-sdk = "^1"
 spl_stake_pool_interface = { git = "https://github.com/igneous-labs/sanctum-solana-utils", branch = "master" }
 spl-token-2022 = "^1"
 tokio = "^1"

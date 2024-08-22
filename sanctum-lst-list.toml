@@ -800,7 +800,7 @@ logo_uri = "https://arweave.net/hrYI439t97ffLMJTWzAGc2qJApoAunr-Dw0Q86IxNbE"
 program = "SanctumSpl"
 pool = "9h8whamW6ydU5EunuPqY7yWP2VFDjsCtorGjtWvNnJ54"
 validator_list = "EQ9n3ccwrvNtkm4FWmu8MeMZMJQfye48A9hDKEHx6wWh"
-vote_account = "D6HbUn4FeyZWiY5ftTAxK1TXmvCLjBoPG9nRsr8z8y5g"
+vote_account = "ET5johBaPyWugD2Mx1zbTCvvbedxZFURembUHng1rzfZ"
 
 [[sanctum_lst_list]]
 name = "lotusSOL"

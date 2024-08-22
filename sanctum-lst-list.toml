@@ -841,19 +841,6 @@ pool = "6KrUyxQR9ia4WCozrRzwkqpFrh9jzsmzrrEypfnz6bqh"
 validator_list = "oEiWyLLiafFksCtcRfDcTfgkFa5sEPxrYMGtFHgSWRF"
 vote_account = "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL"
 
-[[sanctum_lst_list]]
-name = "BybitSOL"
-symbol = "bbSOL"
-mint = "Bybit2vBJGhPF52GBdNaQfUJ6ZpThSgHBobjWZpLPb4B"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://static.bymj.io/web3/staking/bbsol/bbsol.jpeg"
-[sanctum_lst_list.pool]
-program = "SanctumSpl"
-pool = "2aMLkB5p5gVvCwKkdSo5eZAL1WwhZbxezQr1wxiynRhq"
-validator_list = "BPVx5RBixdZVecvoDSFECMc8jXkLNTmQp65WYKJz9nr5"
-vote_account = "8hPk5CbKDoM7dN9LssTdVkFhDykeq7A8CZurA5AQSFJH"
-
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

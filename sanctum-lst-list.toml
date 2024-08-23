@@ -847,7 +847,7 @@ symbol = "bbSOL"
 mint = "Bybit2vBJGhPF52GBdNaQfUJ6ZpThSgHBobjWZpLPb4B"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://static.bymj.io/web3/staking/bbsol/bbsol.jpeg"
+logo_uri = "https://static.bymj.io/web3/staking/bbsol/bbsol.png"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "2aMLkB5p5gVvCwKkdSo5eZAL1WwhZbxezQr1wxiynRhq"

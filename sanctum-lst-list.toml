@@ -800,7 +800,7 @@ logo_uri = "https://arweave.net/hrYI439t97ffLMJTWzAGc2qJApoAunr-Dw0Q86IxNbE"
 program = "SanctumSpl"
 pool = "9h8whamW6ydU5EunuPqY7yWP2VFDjsCtorGjtWvNnJ54"
 validator_list = "EQ9n3ccwrvNtkm4FWmu8MeMZMJQfye48A9hDKEHx6wWh"
-vote_account = "D6HbUn4FeyZWiY5ftTAxK1TXmvCLjBoPG9nRsr8z8y5g"
+vote_account = "ET5johBaPyWugD2Mx1zbTCvvbedxZFURembUHng1rzfZ"
 
 [[sanctum_lst_list]]
 name = "lotusSOL"
@@ -840,6 +840,19 @@ program = "SanctumSpl"
 pool = "6KrUyxQR9ia4WCozrRzwkqpFrh9jzsmzrrEypfnz6bqh"
 validator_list = "oEiWyLLiafFksCtcRfDcTfgkFa5sEPxrYMGtFHgSWRF"
 vote_account = "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL"
+
+[[sanctum_lst_list]]
+name = "BybitSOL"
+symbol = "bbSOL"
+mint = "Bybit2vBJGhPF52GBdNaQfUJ6ZpThSgHBobjWZpLPb4B"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://static.bymj.io/web3/staking/bbsol/bbsol.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "2aMLkB5p5gVvCwKkdSo5eZAL1WwhZbxezQr1wxiynRhq"
+validator_list = "BPVx5RBixdZVecvoDSFECMc8jXkLNTmQp65WYKJz9nr5"
+vote_account = "8hPk5CbKDoM7dN9LssTdVkFhDykeq7A8CZurA5AQSFJH"
 
 # ReservePool
 [[sanctum_lst_list]]

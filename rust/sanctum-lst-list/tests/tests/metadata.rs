@@ -35,7 +35,7 @@ async fn verify_all_lsts_token_metadata() {
         "mSOL",    // name is `Marinade staked SOL` but onchain is `Marinade staked SOL (mSOL)`
         "spikySOL", // malformed linked metadata json
         "pineSOL", // metadata URI links to logo instead of json
-        "uwuSOL",
+        "uwuSOL", // name is `UwU Staked SOL` but onchain is Uwu Staked SOL`
     ]
     .into_iter()
     .collect();

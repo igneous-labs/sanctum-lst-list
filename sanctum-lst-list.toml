@@ -148,6 +148,18 @@ pool = "AArUn1RkrCejbciMwd9t7a8TFLHaBRHBzaQXiM9B48aH"
 validator_list = "34VvniHqR9MiudeGbwjMrsb9wbkW77TuyXwc2HLUG7Gs"
 
 [[sanctum_lst_list]]
+name = "UwU Staked SOL"
+symbol = "uwuSOL"
+mint = "9zecJ6ryY3PXfW1wTd1Nz1GR9hzWhMYw62KDbvSyEJAj"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/fLPUZ2PGTDo5e8sLBHGPlq_Hwdgnmt9nY3lyfCGYGMg"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "8pyNtuJdY75y7W6vVPanTy4piEr3nZUejDCkN2nQ6csH"
+validator_list = "4SCXfhEFbUXs5KR5HQywsRkWcoAsofhGVGex9Xk5YzJV"
+
+[[sanctum_lst_list]]
 name = "UpRock SOL"
 symbol = "uptSOL"
 mint = "uPtSoL2qszk4SuPHNE2zqk1gDtqCq21ZE1yZCqvFTqq"

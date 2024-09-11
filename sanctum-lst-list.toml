@@ -516,6 +516,18 @@ pool = "aero2ePURjuEgLKTzcUmF6RypBncBGd7pMUYCoSsVJ6"
 validator_list = "aero4efZ7zHhWpqXQj4Uqw59koxj8KXqMCPUuvmhgUQ"
 
 [[sanctum_lst_list]]
+name = "Binance Staked SOL"
+symbol = "BNSOL"
+mint = "BNso1VUJnh4zcfpZa6986Ea66P6TCp59hvtNJ8b1X85"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/LepI-hea-JrbLMb4L_HpMzaq9k0aHY2-lVSGiBtwvFM?ext=png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "Hr9pzexrBge3vgmBNRR8u42CNQgBXdHm4UkUN2DH4a7r"
+validator_list = "FQxPPqmKKiRH3q2Sqb1xvdafqbbVyBPpMUnDug4AjtkX"
+
+[[sanctum_lst_list]]
 name = "Thugbirdz Staked SOL"
 symbol = "thugSOL"
 mint = "ThUGsoLWtoTCfb24AmQTKDVjTTUBbNrUrozupJeyPsy"

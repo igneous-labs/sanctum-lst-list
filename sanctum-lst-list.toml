@@ -171,6 +171,18 @@ program = "SanctumSplMulti"
 pool = "5UMja2dWNX3XhrBAvsoRteySTngfpQGHrWfHxueCs5s6"
 validator_list = "FAr8zNTtTUCu2sSnGRp8mUTGos755bm6EYkBLwzjX9VT"
 
+[[sanctum_lst_list]]
+name = "Flojo Staked SOL"
+symbol = "flojoSOL"
+mint = "43CXsrQV7WyMvBsUiiZQMNU5Sdp28Jy61YMtx4J3RT7T"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://ipfs.filebase.io/ipfs/QmZULAmgP19RSGfGiQSm5AvHusTsASp6CWhBTQTfbp9aMm"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "141oNu5DmA5nkoVACZVXMgy6KDFN1PftaTjbzzXvTXbT"
+validator_list = "AsRuK1PdjxRKdenfvfvqyoG9TX2maJbNhQWbAMyiZC6d"
+
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"

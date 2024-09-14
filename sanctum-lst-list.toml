@@ -890,6 +890,19 @@ pool = "2aMLkB5p5gVvCwKkdSo5eZAL1WwhZbxezQr1wxiynRhq"
 validator_list = "BPVx5RBixdZVecvoDSFECMc8jXkLNTmQp65WYKJz9nr5"
 vote_account = "8hPk5CbKDoM7dN9LssTdVkFhDykeq7A8CZurA5AQSFJH"
 
+[[sanctum_lst_list]]
+name = "Rug City SOL"
+symbol = "rugSOL"
+mint = "rug3uop5ibttn6FoQe5WLiZ1cW6wTUymnSECB6GXvta"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://www.rugcity.xyz/ruglogo.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "GcmRJv4YShwhGpSfgCpq9Vp6hjrv9SZD59nnP8UtuKDe"
+validator_list = "7JyHZk4Mdmv1wndBEZZJ2L4og5Pn92privxBo9DJWakb"
+vote_account = "6MP6Bun9VmkGcRVU4iF14Q8P7jTkGtQW9zVwmB9kCYyK"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

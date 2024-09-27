@@ -2975,6 +2975,7 @@ name = "sanctum-lst-list"
 version = "0.2.0"
 dependencies = [
  "borsh 0.9.3",
+ "lazy_static",
  "mpl-token-metadata",
  "reqwest",
  "sanctum-macros",

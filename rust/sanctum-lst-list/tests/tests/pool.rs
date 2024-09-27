@@ -1,21 +1,23 @@
 use borsh::BorshDeserialize;
-use sanctum_lst_list::{PoolInfo, SanctumLst, SanctumLstList};
+use sanctum_lst_list::{PoolInfo, SanctumLst};
 use solana_client::rpc_client::RpcClient;
 use solana_program::pubkey::Pubkey;
 use spl_stake_pool_interface::{StakePool, ValidatorList, ValidatorStakeInfo};
 use spl_token_2022::extension::StateWithExtensions;
 
-use crate::common::SOLANA_RPC_URL;
+use crate::common::{find_sanctum_lst_by_symbol_unwrapped, SOLANA_RPC_URL};
 
-// this takes around 30s with around 70 pools
+// Tests for latest batch
+
 #[test]
-fn verify_all_pools_valid() {
+fn verify_pool_valid_rugsol() {
+    verify_pool_valid_by_symbol("rugSOL");
+}
+
+fn verify_pool_valid_by_symbol(symbol: &str) {
     let rpc = RpcClient::new(SOLANA_RPC_URL);
-    let SanctumLstList { sanctum_lst_list } = SanctumLstList::load();
-    // just do it sequentially to avoid rpc limits
-    for sanctum_lst in sanctum_lst_list {
-        verify_pool_valid(&rpc, &sanctum_lst);
-    }
+    let sanctum_lst = find_sanctum_lst_by_symbol_unwrapped(symbol);
+    verify_pool_valid(&rpc, sanctum_lst);
 }
 
 fn verify_pool_valid(
@@ -110,5 +112,16 @@ fn verify_pool_valid(
                 "{symbol} vote_account {vote} does not exist on validator list",
             );
         }
+    }
+}
+
+// this takes around 30s with around 70 pools
+#[cfg(feature = "test-all")]
+#[test]
+fn verify_all_pools_valid() {
+    let rpc = RpcClient::new(SOLANA_RPC_URL);
+    // just do it sequentially to avoid rpc limits
+    for sanctum_lst in crate::common::SANCTUM_LST_LIST.sanctum_lst_list.iter() {
+        verify_pool_valid(&rpc, sanctum_lst);
     }
 }

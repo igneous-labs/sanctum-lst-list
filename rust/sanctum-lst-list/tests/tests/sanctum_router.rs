@@ -1,11 +1,17 @@
 use std::error::Error;
 
-use sanctum_lst_list::SanctumLstList;
 use solana_client::rpc_client::RpcClient;
 use solana_program::pubkey::Pubkey;
 use spl_token_2022::{extension::StateWithExtensions, state::AccountState};
 
-use crate::common::SOLANA_RPC_URL;
+use crate::common::{find_sanctum_lst_by_symbol_unwrapped, SOLANA_RPC_URL};
+
+// Tests for latest batch
+
+#[test]
+fn verify_sanctum_router_fee_token_acc_created_rugsol() {
+    verify_sanctum_router_fee_token_acc_created_by_symbol("rugSOL").unwrap();
+}
 
 // Copied from
 // https://github.com/igneous-labs/stakedex-sdk/blob/master/common/src/pda.rs
@@ -25,16 +31,12 @@ fn find_fee_token_acc(mint: &Pubkey) -> (Pubkey, u8) {
     Pubkey::find_program_address(&fee_token_account_seeds(mint), &stakedex_interface::ID)
 }
 
-#[test]
-fn verify_all_lsts_have_router_fee_token_acc_created() {
+fn verify_sanctum_router_fee_token_acc_created_by_symbol(
+    symbol: &str,
+) -> Result<(), Box<dyn Error>> {
     let rpc = RpcClient::new(SOLANA_RPC_URL);
-    let SanctumLstList { sanctum_lst_list } = SanctumLstList::load();
-    // just do it sequentially to avoid rpc limits
-    for sanctum_lst in sanctum_lst_list {
-        if let Err(e) = verify_sanctum_router_fee_token_acc_created(&rpc, &sanctum_lst.mint) {
-            panic!("{}: {}", sanctum_lst.symbol, e);
-        }
-    }
+    let slst = find_sanctum_lst_by_symbol_unwrapped(symbol);
+    verify_sanctum_router_fee_token_acc_created(&rpc, &slst.mint)
 }
 
 fn verify_sanctum_router_fee_token_acc_created(
@@ -53,4 +55,16 @@ fn verify_sanctum_router_fee_token_acc_created(
         .into());
     }
     Ok(())
+}
+
+#[cfg(feature = "test-all")]
+#[test]
+fn verify_all_lsts_have_router_fee_token_acc_created() {
+    let rpc = RpcClient::new(SOLANA_RPC_URL);
+    // just do it sequentially to avoid rpc limits
+    for sanctum_lst in crate::common::SANCTUM_LST_LIST.sanctum_lst_list.iter() {
+        if let Err(e) = verify_sanctum_router_fee_token_acc_created(&rpc, &sanctum_lst.mint) {
+            panic!("{}: {}", sanctum_lst.symbol, e);
+        }
+    }
 }

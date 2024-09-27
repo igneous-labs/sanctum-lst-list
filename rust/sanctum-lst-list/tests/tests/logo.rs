@@ -8,8 +8,8 @@ use crate::common::find_sanctum_lst_by_symbol_unwrapped;
 // Tests for latest batch
 
 #[tokio::test]
-async fn verify_logo_image_uri_valid_rugsol() {
-    verify_token_logo_image_uri_valid_by_symbol("rugSOL").await;
+async fn verify_logo_image_uri_valid_healthsol() {
+    verify_token_logo_image_uri_valid_by_symbol("healthSOL").await;
 }
 
 async fn verify_token_logo_image_uri_valid_by_symbol(symbol: &str) {

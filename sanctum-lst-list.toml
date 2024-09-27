@@ -183,6 +183,18 @@ program = "SanctumSplMulti"
 pool = "141oNu5DmA5nkoVACZVXMgy6KDFN1PftaTjbzzXvTXbT"
 validator_list = "AsRuK1PdjxRKdenfvfvqyoG9TX2maJbNhQWbAMyiZC6d"
 
+[[sanctum_lst_list]]
+name = "healthSOL"
+symbol = "healthSOL"
+mint = "HEALfPnLU31roNrnhB8bHWQVszMMAKro4KJRrnkQyVpZ"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/wpNG0yio0JzRcvxmN-mfUu1sfCnwF9NLo6OoZtijcpA"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "Ceuqmz4qrwjrKnpBt4Byen58mfvbAAh67vDJqnsBkoPD"
+validator_list = "7mUknquh6kZxni9vr7cdA6NeFpcT7dimdhqYspxHQ4it"
+
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"

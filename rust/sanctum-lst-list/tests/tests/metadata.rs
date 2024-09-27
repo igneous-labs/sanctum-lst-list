@@ -11,8 +11,8 @@ use crate::common::{find_sanctum_lst_by_symbol_unwrapped, SOLANA_RPC_URL};
 // Tests for latest batch
 
 #[tokio::test]
-async fn verify_lst_token_metadata_rugsol() {
-    verify_lst_token_metadata_by_symbol("rugSOL").await;
+async fn verify_lst_token_metadata_healthsol() {
+    verify_lst_token_metadata_by_symbol("healthSOL").await;
 }
 
 #[derive(Debug, Deserialize)]

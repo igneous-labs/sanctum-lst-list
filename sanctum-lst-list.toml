@@ -915,6 +915,32 @@ pool = "GcmRJv4YShwhGpSfgCpq9Vp6hjrv9SZD59nnP8UtuKDe"
 validator_list = "7JyHZk4Mdmv1wndBEZZJ2L4og5Pn92privxBo9DJWakb"
 vote_account = "6MP6Bun9VmkGcRVU4iF14Q8P7jTkGtQW9zVwmB9kCYyK"
 
+[[sanctum_lst_list]]
+name = "LSTache"
+symbol = "LSTache"
+mint = "stacMUJ1gnBwu5tdKB1xtSmtNu9xNqvBQXoDB8eX92n"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://377zyszqjylpqlzytfdma25k4syaairfqulr7b7iij3e3rswodbq.arweave.net/3_-cSzBOFvgvOJlGwGuq5LAAIiWFFx-H6EJ2TcZWcMM"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7q8nazWeYfwCV1b9vX38FbCRWisiTnDMaEAr12xsXuhg"
+validator_list = "Dk7kY2xXRvhG2bYfjD2JujgMLCF3MFj1Ga53qP1RVnc2"
+vote_account = "sTach38ebT8jnGH8i2D1g8NDAS6An19whVMnSSWPXt4"
+
+[[sanctum_lst_list]]
+name = "dicSOL"
+symbol = "dicSOL"
+mint = "Dicscx2kpukGBATbjgsuzdbsVRFktV19BXEHofPQwEQF"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/OPGNXTyc77OQEGVyfwfybHOzgHd1iRJgZ2Z92AZ2iN4"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4fR34rP6zu4z6SHfmKUCUgApfuwdmtZocrcBzRDEscc1"
+validator_list = "BLm6GMJ39QMH5Jod9aHhpXtcSqtT8CHAF1hgzp92DCsT"
+vote_account = "4qvFxnUXYjBdcviCwVV7gKcGJMCENEBfS82hSLJUhyvu"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

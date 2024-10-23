@@ -195,6 +195,18 @@ program = "SanctumSplMulti"
 pool = "Ceuqmz4qrwjrKnpBt4Byen58mfvbAAh67vDJqnsBkoPD"
 validator_list = "7mUknquh6kZxni9vr7cdA6NeFpcT7dimdhqYspxHQ4it"
 
+[[sanctum_lst_list]]
+name = "KHAI Staked SOL"
+symbol = "khSOL"
+mint = "khSoLqPRftqqDirah8NxBd9VZYfMJyPm3Xq5nXuLCyG"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/wpNG0yio0JzRcvxmN-mfUu1sfCnwF9NLo6OoZtijcpA"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "BLDCdoBCr2Amsa8gpNmPKPKUCQQYZLZBvdGpptAi6Kqt"
+validator_list = "E6BWJdyxkZHnZyDkAuJmEJ5ErbQm49kTRq3C3yrJFRSz"
+
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"
@@ -940,6 +952,45 @@ program = "SanctumSpl"
 pool = "4fR34rP6zu4z6SHfmKUCUgApfuwdmtZocrcBzRDEscc1"
 validator_list = "BLm6GMJ39QMH5Jod9aHhpXtcSqtT8CHAF1hgzp92DCsT"
 vote_account = "4qvFxnUXYjBdcviCwVV7gKcGJMCENEBfS82hSLJUhyvu"
+
+[[sanctum_lst_list]]
+name = "envbest SOL"
+symbol = "envSOL"
+mint = "envSBKVtPgw9prFxQPkUTyPuJxRYAjFWTgDHZ9WCohi"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://shdw-drive.genesysgo.net/GvFi1q8i9xDCKs66pgeNW4T6UvxqMwkdyLABMDVxpAhd/envSOL.svg"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "27kyuq5bvx4nE7QHPsyV45BxHdq1s1yEnh8T7jmSzwib"
+validator_list = "6v8ifGFMm2DE6XcnUdYfac9w7XLAroKC6aKjQW6rNFWo"
+vote_account = "GMiBDMmwFRZfxVuHt3bXe6ZF7mGUBGWKXHLfY97NwQ72"
+
+[[sanctum_lst_list]]
+name = "soulSOL"
+symbol = "soulSOL"
+mint = "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/vpzWGiKensrUILB4dX4awTIoBFeLMqjnnZGjEepEq2E"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "EtiHrfkBNJTkHyBrofC98z4yF6fdRYLMrDGZP2CCwDkC"
+validator_list = "EgRvWEi3PM6zaNPHHXTv2XCVNAdNVUMkVpeEUdLyEMdm"
+vote_account = "BWkvytz3MAiLkUbMuYK5yV1VYThbBYYQYG3gdef8NLw5"
+
+[[sanctum_lst_list]]
+name = "Paragon SOL"
+symbol = "prgnSOL"
+mint = "prgnSYr57EiEMUknwPrdaUSMyd4eFpdZDVBaa1xR2jY"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/pp2uJPOuCudCDH8PTHiGqbrD1GzKXt9PddsnTdAcj-s"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "2RMsk6vxX1t1ZKpNBXoXtYEkMBdcZEtEUMEXTR5dwQjn"
+validator_list = "B39gmN1murYkpWcsKUSMkDV4zwa3AuvjPR32b7yayrAZ"
+vote_account = "VotESBSkLKU8vebS6wTR2rzWWJsLc6YThYS6tebPxXq"
 
 # ReservePool
 [[sanctum_lst_list]]

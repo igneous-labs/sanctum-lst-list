@@ -201,7 +201,7 @@ symbol = "khSOL"
 mint = "khSoLqPRftqqDirah8NxBd9VZYfMJyPm3Xq5nXuLCyG"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://arweave.net/wpNG0yio0JzRcvxmN-mfUu1sfCnwF9NLo6OoZtijcpA"
+logo_uri = "https://arweave.net/VVhWwfDfrBKfYflL-6p4hujd7vv_mY7tIVr9QgquAeg"
 [sanctum_lst_list.pool]
 program = "SanctumSplMulti"
 pool = "BLDCdoBCr2Amsa8gpNmPKPKUCQQYZLZBvdGpptAi6Kqt"

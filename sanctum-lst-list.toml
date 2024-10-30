@@ -403,166 +403,6 @@ pool = "HSDnqBq7EnfcKpnw52DTAZrP38tf8rdWLiRhQo4qGTUa"
 validator_list = "9JLWSXToxx1Kn28jwix3eCUc4Rvz3VN41Km3tKA4adFB"
 vote_account = "2ayMCC4aizr8RGg5ptXYqu8uoxW1whNek1hE1zaAd58z"
 
-# Spl Single Pool
-[[sanctum_lst_list]]
-name = "Cogent SOL"
-symbol = "cgntSOL"
-mint = "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png"
-[sanctum_lst_list.pool]
-program = "Spl"
-pool = "CgntPoLka5pD5fesJYhGmUCF8KU1QS1ZmZiuAuMZr2az"
-validator_list = "CGNTvFQ5yhxp2H5RmmXJ2w3LXJ3kAHrgPMrfABBTkeTr"
-vote_account = "CogentC52e7kktFfWHwsqSmr8LiS1yAtfqhHcftCPcBJ"
-
-[[sanctum_lst_list]]
-name = "Laine Stake Token"
-symbol = "laineSOL"
-mint = "LAinEtNLgpmCP9Rvsf5Hn8W6EhNiKLZQti1xfWMLy6X"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://vvmbtadq63n53sdsqhlzbnzhvj5tdfp7moqixyv7rgkk6frqhqqq.arweave.net/rVgZgHD2293IcoHXkLcnqnsxlf9joIviv4mUrxYwPCE"
-[sanctum_lst_list.pool]
-program = "Spl"
-pool = "2qyEeSAWKfU18AFthrF7JA8z8ZCi1yt76Tqs917vwQTV"
-validator_list = "sHPN95ARJpwN3Yipc22Z3m5118K3czRLBG7WmLDLsMp"
-vote_account = "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL"
-
-# Spl
-[[sanctum_lst_list]]
-name = "The Vault"
-symbol = "vSOL"
-mint = "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/"
-[sanctum_lst_list.pool]
-program = "Spl"
-pool = "Fu9BYC6tWBo1KMKaP3CFoKfRhqv9akmy3DuYwnCyWiyC"
-validator_list = "3wsE11pAjCE3sCwokhD5kgi5cjv6hi3DGAkxXB5MMHKL"
-
-[[sanctum_lst_list]]
-name = "BlazeStake Staked SOL"
-symbol = "bSOL"
-mint = "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1/logo.png"
-[sanctum_lst_list.pool]
-program = "Spl"
-pool = "stk9ApL5HeVAwPLr3TLhDXdZS8ptVu7zp6ov8HFDuMi"
-validator_list = "1istpXjy8BM7Vd5vPfA485frrV7SRJhgq5vs3sskWmc"
-
-[[sanctum_lst_list]]
-name = "daoSOL"
-symbol = "daoSOL"
-mint = "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh/logo.png"
-[sanctum_lst_list.pool]
-program = "Spl"
-pool = "7ge2xKsZXmqPxa3YmXxXmzCp9Hc2ezrTxh6PECaxCwrL"
-validator_list = "CKG4Jci9tGSrZtetnLXuDKV2WqaknFCUX9CY3ahfw2n6"
-
-[[sanctum_lst_list]]
-name = "Jito Staked SOL"
-symbol = "JitoSOL"
-mint = "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://storage.googleapis.com/token-metadata/JitoSOL-256.png"
-[sanctum_lst_list.pool]
-program = "Spl"
-pool = "Jito4APyf642JPZPx3hGc6WWJ8zPKtRbRs4P815Awbb"
-validator_list = "3R3nGZpQs2aZo5FDQvd2MUQ6R7KhAPainds6uT6uE2mn"
-
-[[sanctum_lst_list]]
-name = "JPOOL Solana Token"
-symbol = "JSOL"
-mint = "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn/logo.svg"
-[sanctum_lst_list.pool]
-program = "Spl"
-pool = "CtMyWsrUtAwXWiGr9WjHT5fC3p3fgV8cyGpLTo2LJzG1"
-validator_list = "Ei2LhH2tDKPERnoNjQV5darTToZmbg45vDvftFFLNNWd"
-
-[[sanctum_lst_list]]
-name = "Liquid Staking Token"
-symbol = "LST"
-mint = "LSTxxxnJzKDFSLr4dUkPcmCf5VyryEqzPLz5j4bpxFp"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://storage.googleapis.com/static-marginfi/lst.png"
-[sanctum_lst_list.pool]
-program = "Spl"
-pool = "DqhH94PjkZsjAqEze2BEkWhFQJ6EyU6MdtMphMgnXqeK"
-validator_list = "77Nc7i2Pe4ktkPVsk2KsZeLZRMUMKpddheBUgW727XR4"
-
-[[sanctum_lst_list]]
-name = "Zippy Staked SOL"
-symbol = "zippySOL"
-mint = "Zippybh3S5xYYam2nvL6hVJKz1got6ShgV4DyD1XQYF"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://www.zippystake.org/mint.png"
-[sanctum_lst_list.pool]
-program = "Spl"
-pool = "DxRFpqBQBC2nKcvh14gD1eizCj9Xi7ruMR3nCR3Hvw8f"
-validator_list = "FrBwWukdviJHrJqfbxkrb1GzV9XdY5qVwXxN53cHvC8y"
-
-[[sanctum_lst_list]]
-name = "Edgevana Staked SOL"
-symbol = "edgeSOL"
-mint = "edge86g9cVz87xcpKpy3J77vbp4wYd9idEV562CCntt"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://srv.edgevana.com/img/edgesol.png"
-[sanctum_lst_list.pool]
-program = "Spl"
-pool = "edgejNWAqkePLpi5sHRxT9vHi7u3kSHP9cocABPKiWZ"
-validator_list = "edgeUAwci9fD66ffrfxKZtznzrm79hHcpjR1BaYF8ML"
-
-[[sanctum_lst_list]]
-name = "Enhanced Linkage SOL"
-symbol = "elSOL"
-mint = "ELSoL1owwMWQ9foMsutweCsMKbTPVBD9pFqxQGidTaMC"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://arweave.net/4q1KEew_Kqymx6rea_b-VeDX337130aPv0omKRAGPHU"
-[sanctum_lst_list.pool]
-program = "Spl"
-pool = "So1vW4Bm6ZURzJJHZy1JpsjoVY68z4cDgF4tTLwYMa5"
-validator_list = "6iAzfHnUkQTETATNjd8h7hHME5rERAKrRJidbAZL9vL9"
-
-[[sanctum_lst_list]]
-name = "aeroSOL"
-symbol = "aeroSOL"
-mint = "aeroXvCT6tjGVNyTvZy86tFDwE4sYsKCh7FbNDcrcxF"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://raw.githubusercontent.com/phaselabscrypto/.github/main/profile/public/aeroSOL.png"
-[sanctum_lst_list.pool]
-program = "Spl"
-pool = "aero2ePURjuEgLKTzcUmF6RypBncBGd7pMUYCoSsVJ6"
-validator_list = "aero4efZ7zHhWpqXQj4Uqw59koxj8KXqMCPUuvmhgUQ"
-
-[[sanctum_lst_list]]
-name = "Binance Staked SOL"
-symbol = "BNSOL"
-mint = "BNso1VUJnh4zcfpZa6986Ea66P6TCp59hvtNJ8b1X85"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://arweave.net/LepI-hea-JrbLMb4L_HpMzaq9k0aHY2-lVSGiBtwvFM?ext=png"
-[sanctum_lst_list.pool]
-program = "Spl"
-pool = "Hr9pzexrBge3vgmBNRR8u42CNQgBXdHm4UkUN2DH4a7r"
-validator_list = "FQxPPqmKKiRH3q2Sqb1xvdafqbbVyBPpMUnDug4AjtkX"
-
 [[sanctum_lst_list]]
 name = "Thugbirdz Staked SOL"
 symbol = "thugSOL"
@@ -992,6 +832,178 @@ pool = "2RMsk6vxX1t1ZKpNBXoXtYEkMBdcZEtEUMEXTR5dwQjn"
 validator_list = "B39gmN1murYkpWcsKUSMkDV4zwa3AuvjPR32b7yayrAZ"
 vote_account = "VotESBSkLKU8vebS6wTR2rzWWJsLc6YThYS6tebPxXq"
 
+# Spl Single Pool
+[[sanctum_lst_list]]
+name = "Cogent SOL"
+symbol = "cgntSOL"
+mint = "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "CgntPoLka5pD5fesJYhGmUCF8KU1QS1ZmZiuAuMZr2az"
+validator_list = "CGNTvFQ5yhxp2H5RmmXJ2w3LXJ3kAHrgPMrfABBTkeTr"
+vote_account = "CogentC52e7kktFfWHwsqSmr8LiS1yAtfqhHcftCPcBJ"
+
+[[sanctum_lst_list]]
+name = "Laine Stake Token"
+symbol = "laineSOL"
+mint = "LAinEtNLgpmCP9Rvsf5Hn8W6EhNiKLZQti1xfWMLy6X"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://vvmbtadq63n53sdsqhlzbnzhvj5tdfp7moqixyv7rgkk6frqhqqq.arweave.net/rVgZgHD2293IcoHXkLcnqnsxlf9joIviv4mUrxYwPCE"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "2qyEeSAWKfU18AFthrF7JA8z8ZCi1yt76Tqs917vwQTV"
+validator_list = "sHPN95ARJpwN3Yipc22Z3m5118K3czRLBG7WmLDLsMp"
+vote_account = "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL"
+
+# Spl
+[[sanctum_lst_list]]
+name = "The Vault"
+symbol = "vSOL"
+mint = "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "Fu9BYC6tWBo1KMKaP3CFoKfRhqv9akmy3DuYwnCyWiyC"
+validator_list = "3wsE11pAjCE3sCwokhD5kgi5cjv6hi3DGAkxXB5MMHKL"
+
+[[sanctum_lst_list]]
+name = "BlazeStake Staked SOL"
+symbol = "bSOL"
+mint = "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1/logo.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "stk9ApL5HeVAwPLr3TLhDXdZS8ptVu7zp6ov8HFDuMi"
+validator_list = "1istpXjy8BM7Vd5vPfA485frrV7SRJhgq5vs3sskWmc"
+
+[[sanctum_lst_list]]
+name = "daoSOL"
+symbol = "daoSOL"
+mint = "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh/logo.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "7ge2xKsZXmqPxa3YmXxXmzCp9Hc2ezrTxh6PECaxCwrL"
+validator_list = "CKG4Jci9tGSrZtetnLXuDKV2WqaknFCUX9CY3ahfw2n6"
+
+[[sanctum_lst_list]]
+name = "Jito Staked SOL"
+symbol = "JitoSOL"
+mint = "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://storage.googleapis.com/token-metadata/JitoSOL-256.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "Jito4APyf642JPZPx3hGc6WWJ8zPKtRbRs4P815Awbb"
+validator_list = "3R3nGZpQs2aZo5FDQvd2MUQ6R7KhAPainds6uT6uE2mn"
+
+[[sanctum_lst_list]]
+name = "JPOOL Solana Token"
+symbol = "JSOL"
+mint = "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn/logo.svg"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "CtMyWsrUtAwXWiGr9WjHT5fC3p3fgV8cyGpLTo2LJzG1"
+validator_list = "Ei2LhH2tDKPERnoNjQV5darTToZmbg45vDvftFFLNNWd"
+
+[[sanctum_lst_list]]
+name = "Liquid Staking Token"
+symbol = "LST"
+mint = "LSTxxxnJzKDFSLr4dUkPcmCf5VyryEqzPLz5j4bpxFp"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://storage.googleapis.com/static-marginfi/lst.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "DqhH94PjkZsjAqEze2BEkWhFQJ6EyU6MdtMphMgnXqeK"
+validator_list = "77Nc7i2Pe4ktkPVsk2KsZeLZRMUMKpddheBUgW727XR4"
+
+[[sanctum_lst_list]]
+name = "Zippy Staked SOL"
+symbol = "zippySOL"
+mint = "Zippybh3S5xYYam2nvL6hVJKz1got6ShgV4DyD1XQYF"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://www.zippystake.org/mint.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "DxRFpqBQBC2nKcvh14gD1eizCj9Xi7ruMR3nCR3Hvw8f"
+validator_list = "FrBwWukdviJHrJqfbxkrb1GzV9XdY5qVwXxN53cHvC8y"
+
+[[sanctum_lst_list]]
+name = "Edgevana Staked SOL"
+symbol = "edgeSOL"
+mint = "edge86g9cVz87xcpKpy3J77vbp4wYd9idEV562CCntt"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://srv.edgevana.com/img/edgesol.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "edgejNWAqkePLpi5sHRxT9vHi7u3kSHP9cocABPKiWZ"
+validator_list = "edgeUAwci9fD66ffrfxKZtznzrm79hHcpjR1BaYF8ML"
+
+[[sanctum_lst_list]]
+name = "Enhanced Linkage SOL"
+symbol = "elSOL"
+mint = "ELSoL1owwMWQ9foMsutweCsMKbTPVBD9pFqxQGidTaMC"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/4q1KEew_Kqymx6rea_b-VeDX337130aPv0omKRAGPHU"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "So1vW4Bm6ZURzJJHZy1JpsjoVY68z4cDgF4tTLwYMa5"
+validator_list = "6iAzfHnUkQTETATNjd8h7hHME5rERAKrRJidbAZL9vL9"
+
+[[sanctum_lst_list]]
+name = "aeroSOL"
+symbol = "aeroSOL"
+mint = "aeroXvCT6tjGVNyTvZy86tFDwE4sYsKCh7FbNDcrcxF"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/phaselabscrypto/.github/main/profile/public/aeroSOL.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "aero2ePURjuEgLKTzcUmF6RypBncBGd7pMUYCoSsVJ6"
+validator_list = "aero4efZ7zHhWpqXQj4Uqw59koxj8KXqMCPUuvmhgUQ"
+
+[[sanctum_lst_list]]
+name = "Binance Staked SOL"
+symbol = "BNSOL"
+mint = "BNso1VUJnh4zcfpZa6986Ea66P6TCp59hvtNJ8b1X85"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/LepI-hea-JrbLMb4L_HpMzaq9k0aHY2-lVSGiBtwvFM?ext=png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "Hr9pzexrBge3vgmBNRR8u42CNQgBXdHm4UkUN2DH4a7r"
+validator_list = "FQxPPqmKKiRH3q2Sqb1xvdafqbbVyBPpMUnDug4AjtkX"
+
+[[sanctum_lst_list]]
+name = "Xandeum SOL"
+symbol = "xandSOL"
+mint = "XAnDeUmMcqFyCdef9jzpNgtZPjTj3xUMj9eXKn2reFN"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/bernieblume/XAND-meta-2024/main/xandSOL.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "xanDnetFGrZkp49s8brXbg6T215JeDTeSfDF19wBiNQ"
+validator_list = "6WtbtEjZA5G9iYHcMyGYhdsUxtPuRt5SFQKmpGbUz9Gc"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"
@@ -1002,7 +1014,6 @@ token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
 [sanctum_lst_list.pool]
 program = "ReservePool"
-
 
 # S Pools
 [[sanctum_lst_list]]

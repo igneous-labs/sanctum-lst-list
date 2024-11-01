@@ -207,6 +207,18 @@ program = "SanctumSplMulti"
 pool = "BLDCdoBCr2Amsa8gpNmPKPKUCQQYZLZBvdGpptAi6Kqt"
 validator_list = "E6BWJdyxkZHnZyDkAuJmEJ5ErbQm49kTRq3C3yrJFRSz"
 
+[[sanctum_lst_list]]
+name = "AEP Life Form Staked SOL"
+symbol = "alfSOL"
+mint = "aepLFer6JQBNmKwa5a87cEc2NpkyXfEQvxwTByZeGWs"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/hM3vFLQYulf21ti61MR-5lZcq2a81H4VBirO5dnl63c"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "CBMRecSzB5eEHsc4zxy4FtmYecpcX4n6ohFT58sNjvqR"
+validator_list = "Dyb6YmUhAKFTqCM9VVpQgqb1fVfVM1wXCsNnNHDajf4b"
+
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"
@@ -832,6 +844,19 @@ pool = "2RMsk6vxX1t1ZKpNBXoXtYEkMBdcZEtEUMEXTR5dwQjn"
 validator_list = "B39gmN1murYkpWcsKUSMkDV4zwa3AuvjPR32b7yayrAZ"
 vote_account = "VotESBSkLKU8vebS6wTR2rzWWJsLc6YThYS6tebPxXq"
 
+[[sanctum_lst_list]]
+name = "DKSol"
+symbol = "DKS"
+mint = "Agi84n7Hfw9sQMah9sumHU6Jyjsc6Uw2WjehSFG92qMG"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/8eNEyWZXrqOxuNNMdq63QIySgX7rPkwgOFYElz243MY"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3k8cCTWYyH6WoBzbdinbyc59p2LAarSGVrgJiVCtcKhs"
+validator_list = "AgyQo8cJTDLfuCHoeXuvJ5rAJF34MV2b6s5aqTLXZhX9"
+vote_account = "9Q1cWVFNc4UgU7dyFy29mUyeDnNZWSDaJKYVAR5jLpaK"
+
 # Spl Single Pool
 [[sanctum_lst_list]]
 name = "Cogent SOL"
@@ -999,6 +1024,18 @@ mint = "XAnDeUmMcqFyCdef9jzpNgtZPjTj3xUMj9eXKn2reFN"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 logo_uri = "https://raw.githubusercontent.com/bernieblume/XAND-meta-2024/main/xandSOL.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "xanDnetFGrZkp49s8brXbg6T215JeDTeSfDF19wBiNQ"
+validator_list = "6WtbtEjZA5G9iYHcMyGYhdsUxtPuRt5SFQKmpGbUz9Gc"
+
+[[sanctum_lst_list]]
+name = "Rakurai Staked SOL"
+symbol = "raiSOL"
+mint = "Ra1so1sTkvX3PorAM9ewqrsUMz9sPSbfFZ5oZUjN4oc"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/rakurai-io/token-metadata/master/assets/RaiSOL-Logo.png"
 [sanctum_lst_list.pool]
 program = "Spl"
 pool = "xanDnetFGrZkp49s8brXbg6T215JeDTeSfDF19wBiNQ"

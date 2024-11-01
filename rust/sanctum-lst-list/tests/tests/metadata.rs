@@ -12,7 +12,7 @@ use crate::common::{find_sanctum_lst_by_symbol_unwrapped, SOLANA_RPC_URL};
 
 #[tokio::test]
 async fn verify_lst_token_metadata_healthsol() {
-    verify_lst_token_metadata_by_symbol("healthSOL").await;
+    verify_lst_token_metadata_by_symbol("raiSOL").await;
 }
 
 #[derive(Debug, Deserialize)]

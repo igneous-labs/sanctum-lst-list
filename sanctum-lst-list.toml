@@ -1038,8 +1038,8 @@ token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 logo_uri = "https://raw.githubusercontent.com/rakurai-io/token-metadata/master/assets/RaiSOL-Logo.png"
 [sanctum_lst_list.pool]
 program = "Spl"
-pool = "xanDnetFGrZkp49s8brXbg6T215JeDTeSfDF19wBiNQ"
-validator_list = "6WtbtEjZA5G9iYHcMyGYhdsUxtPuRt5SFQKmpGbUz9Gc"
+pool = "RaiDhwyRoMVxLN9KD7kAXAwHbWKf1TCTe5HFSrPVJaD"
+validator_list = "8vcJaaeHwXDf88vWY7Tjcgm6z9qNhkQjNbjfsSVMMhNV"
 
 # ReservePool
 [[sanctum_lst_list]]

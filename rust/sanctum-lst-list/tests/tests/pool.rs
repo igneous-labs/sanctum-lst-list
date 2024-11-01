@@ -11,7 +11,7 @@ use crate::common::{find_sanctum_lst_by_symbol_unwrapped, SOLANA_RPC_URL};
 
 #[test]
 fn verify_pool_valid_healthsol() {
-    verify_pool_valid_by_symbol("healthSOL");
+    verify_pool_valid_by_symbol("raiSOL");
 }
 
 fn verify_pool_valid_by_symbol(symbol: &str) {

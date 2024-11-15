@@ -486,7 +486,7 @@ symbol = "digitalSOL"
 mint = "3bfv2scCdbvumVBc3Sar5QhYXx7Ecsi8EFF2akjxe329"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://shdw-drive.genesysgo.net/3y9qiDjVtv8xcWsgad8zULmsqg8PLusetN55PdqtLhyr/tokenlogo.png"
+logo_uri = "https://shdw-drive.genesysgo.net/3y9qiDjVtv8xcWsgad8zULmsqg8PLusetN55PdqtLhyr/tokenlogo2.png"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "Fwy2jGmRCDjKpWTacMVvnLp66Fg4L5yhVCfahHsbjMGf"

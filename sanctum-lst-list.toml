@@ -219,6 +219,18 @@ program = "SanctumSplMulti"
 pool = "CBMRecSzB5eEHsc4zxy4FtmYecpcX4n6ohFT58sNjvqR"
 validator_list = "Dyb6YmUhAKFTqCM9VVpQgqb1fVfVM1wXCsNnNHDajf4b"
 
+[[sanctum_lst_list]]
+name = "Redelegate SOL"
+symbol = "rdlgtSOL"
+mint = "RDLGTw8UcSjpPkuu2u8AgEfPJk95DjcnrgPEyRyVFd6"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/rlbozK9IaydrLJ3H5zNBDmgr3yl3CS4P0kPRetidcBo"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "HMwyh2xECDXLNgLX3FzTQUMrswDuvfRpZyY4Hx9A1za1"
+validator_list = "FpcSAgsqsarhNMR93wpH6Q2mvZg99uTjYViiiEBFM7QJ"
+
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"

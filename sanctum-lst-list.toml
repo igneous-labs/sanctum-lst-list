@@ -225,7 +225,7 @@ symbol = "rdlgtSOL"
 mint = "RDLGTw8UcSjpPkuu2u8AgEfPJk95DjcnrgPEyRyVFd6"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = ""https://vzlortfpjbvso2zmtxd6om2bbzucxxzjo4es4d6sipixvwe5oana.arweave.net/rlbozK9IaydrLJ3H5zNBDmgr3yl3CS4P0kPRetidcBo
+logo_uri = "https://arweave.net/rlbozK9IaydrLJ3H5zNBDmgr3yl3CS4P0kPRetidcBo"
 [sanctum_lst_list.pool]
 program = "SanctumSplMulti"
 pool = "HMwyh2xECDXLNgLX3FzTQUMrswDuvfRpZyY4Hx9A1za1"

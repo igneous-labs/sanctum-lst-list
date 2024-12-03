@@ -1117,6 +1117,19 @@ program = "Spl"
 pool = "jagPCXWPBwoah9K4PxzHoh8z7aSru4Vbxq7GKUeEzgY"
 validator_list = "jagQtbgkyixDtJmbTQDKKPTXp7PvKKroLDs1BVJkEJt"
 
+[[sanctum_lst_list]]
+name = "mvtSOL"
+symbol = "mvtSOL"
+mint = "DrYLDtGzip1JzogBqcPwHRWpifczYDexpc9d9wnUv5M7"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = ""
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "5Av61pgZ9KinUkNmxgDoai13Ej5auruGB6vp29Yeq9bh"
+validator_list = "CGg9y2XbmRiQQvMvnPfvzUacF8nizvUEhLK7F1aPtpzL"
+
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

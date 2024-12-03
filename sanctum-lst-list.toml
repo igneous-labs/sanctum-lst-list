@@ -1129,7 +1129,6 @@ program = "Spl"
 pool = "5Av61pgZ9KinUkNmxgDoai13Ej5auruGB6vp29Yeq9bh"
 validator_list = "CGg9y2XbmRiQQvMvnPfvzUacF8nizvUEhLK7F1aPtpzL"
 
-
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

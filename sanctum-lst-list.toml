@@ -1108,14 +1108,14 @@ validator_list = "8vcJaaeHwXDf88vWY7Tjcgm6z9qNhkQjNbjfsSVMMhNV"
 [[sanctum_lst_list]]
 name = "JagPool Staked SOL"
 symbol = "jagSOL"
-mint = "jag7A2z4QNacNi61AXpyRiyUppx5GeLbGEKAapuKCRs"
+mint = "jag58eRBC1c88LaAsRPspTMvoKJPbnzw9p9fREzHqyV"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 logo_uri = "https://arweave.net/hsBrk--wCnuMc5fCu6ckQCotTPQy6JJqqzwXa2Euefw"
 [sanctum_lst_list.pool]
 program = "Spl"
-pool = "jagPCXWPBwoah9K4PxzHoh8z7aSru4Vbxq7GKUeEzgY"
-validator_list = "jagQtbgkyixDtJmbTQDKKPTXp7PvKKroLDs1BVJkEJt"
+pool = "jagEdDepWUgexiu4jxojcRWcVKKwFqgZBBuAoGu2BxM"
+validator_list = "jagK16E4oVcC5bpLCNEcprFqqq66vbTaU94UozWkvAB"
 
 [[sanctum_lst_list]]
 name = "mvtSOL"

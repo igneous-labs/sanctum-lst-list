@@ -921,6 +921,58 @@ pool = "DoobHSgJJihNazH9CQ9iTKPiLPjqhvoi86ZwYhY5nfKj"
 validator_list = "BhqzkhZZxjMntToRNjMtJeJgpbMXTyy2ngT5FELafcaP"
 vote_account = "CatzoSMUkTRidT5DwBxAC2pEtnwMBTpkCepHkFgZDiqb"
 
+[[sanctum_lst_list]]
+name = "DEDsol"
+symbol = "DED"
+mint = "dedCwbAVs8MRxHphTecR3cCDFYhMtBpw61xT9zkjFFx"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/qC9C2VAvXsGuDxhUxdxOVp6491kw6aPTkjMzWQpZpX4"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DFVExhBYWce27WPgJf5WXPjd9XTLCyZDjfgfQoZnvXKy"
+validator_list = "3N5ANC3EV3NMX54qLR2FZ8D5iTRZHwUTQdvcLZNFxbeG"
+vote_account = "dedxrPfNqPKBRmUyP9LDkaitpQzU6PD44jA6GP9Ndhk"
+
+[[sanctum_lst_list]]
+name = "LunaSOL"
+symbol = "LUNA"
+mint = "1unatWhTyNHUBES9FCjZ5m2jmopTTs8RMk7bzzdvnZ8"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://shdw-drive.genesysgo.net/HZQdf4dK5XdUUMiKFSnAL18yqW9zqQTEvEXcVLncGtZ5/8Hzb9oox_400x400.jpg"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7BzZEs69q67HS9VukDXex2Lw1htU9v7cygY45bbz7W8K"
+validator_list = "5ZoJhhnMfvmw47Lb6sBdf7iozQvVU5tiJuwRCaXjQ8bF"
+vote_account = "Luna8BkZNpZ9DKmszrZYPvFpTr4eJJfxxTnGDwTrYkv"
+
+[[sanctum_lst_list]]
+name = "Windfall SOL"
+symbol = "windSOL"
+mint = "WinDfAPoDk4P8D7eMkCVzY3Ged5vXtvT32XkWVBYGU8"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/mwRfH9Oc_LtJfgRVil49jbnzmWlJ9PTYEjO36pHMh3o"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CBhqBAnnUEByPRwGZ2oCcrda7hV4QmkSYQ9Edy3zkqKi"
+validator_list = "7TaKXkbUKnc6ne9QGzJXUjzyhCPxEuwBs4aueCi4nSfF"
+vote_account = "EJHf5N9is5spAF5Kz384tTvTV3CwTka6qzUoZrYm53SV"
+
+[[sanctum_lst_list]]
+name = "SharkLabs SOL"
+symbol = "SharkSOL"
+mint = "sh4rkTurELZMx6YZgoPyHoa2JADwpEVk1RZgzae1p3b"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://quicknode.quicknode-ipfs.com/ipfs/QmPtNPLWqHiKMdR5JdNyvCBxw1o7keTTrKQZWGsrDu83ak"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7Q22ssZvtKuagdsjVzpyo2MjY8mMN1f4EpW41TGgLrds"
+validator_list = "42RDhNRmYkeiMBTN1Q73kgJhUvuoPgHtB2DEsthjX8dH"
+vote_account = "sh4rko7QjstESbderAwDEGitkXuuHdXLK4h8BQkr81i"
+
 # Spl Single Pool
 [[sanctum_lst_list]]
 name = "Cogent SOL"

@@ -1181,6 +1181,18 @@ program = "Spl"
 pool = "5Av61pgZ9KinUkNmxgDoai13Ej5auruGB6vp29Yeq9bh"
 validator_list = "CGg9y2XbmRiQQvMvnPfvzUacF8nizvUEhLK7F1aPtpzL"
 
+[[sanctum_lst_list]]
+name = "enderSOL"
+symbol = "enderSOL"
+mint = "enderSozQQP3aFMyxkCrs59u283tu7ZowMPCdoM5io6"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = ""
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "2yWvQCwV8vDuMqxfnp67FTMJkgB8BQCA9XEkhQAp6vkH"
+validator_list = "2rXb89VswCaSz6bDbHQWUVg8M66VvrTxaCQTf9NAVaAf"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

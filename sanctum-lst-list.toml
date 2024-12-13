@@ -1,18 +1,6 @@
 # SanctumSpl Pool -- S upgrade path
 
 [[sanctum_lst_list]]
-name = "FP SOL"
-symbol = "fpSOL"
-mint = "fpSoL8EJ7UA5yJxFKWk1MFiWi35w8CbH36G5B9d7DsV"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/fpSOL/fpSOL.jpg"
-[sanctum_lst_list.pool]
-program = "SanctumSplMulti"
-pool = "GutG5bcmEZw15WmPHNVMWHU77c6t8CEinUEdPLYz3doa"
-validator_list = "DfVmEvxkRBgFfYHgrtN9AcEv7gWXUtB1QZ6hkD3aYzsc"
-
-[[sanctum_lst_list]]
 name = "dogwifSOL"
 symbol = "wifSOL"
 mint = "Fi5GayacZzUrfaCRCJtBz2vSYkGF56xjgCceZx5SbXwq"
@@ -23,18 +11,6 @@ logo_uri = "https://bpjbeqpzm6vvgd5eafntpuhxgbxdfbbd2jhvnbwp33ql7xgcbo6q.arweave
 program = "SanctumSplMulti"
 pool = "9Z8yimuc3bQCWLDyMhe6jfWqNk9EggyJZUo8TLnYsqhN"
 validator_list = "DfCHoraRZ6XWmqiqCtqTD27GHMUh4YB1oxRJMhMHJYNx"
-
-[[sanctum_lst_list]]
-name = "Pathfinders SOL"
-symbol = "pathSOL"
-mint = "pathdXw4He1Xk3eX84pDdDZnGKEme3GivBamGCVPZ5a"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/pathSOL/pathSOL.png"
-[sanctum_lst_list.pool]
-program = "SanctumSplMulti"
-pool = "GM7TwD34n8HmDP9XcT6bD3JJuNniKJkrKQinHqmqHarz"
-validator_list = "2WqKyuuonwMhjYpvLFZSBibBddB8DNVTij5AuWYFs4KD"
 
 [[sanctum_lst_list]]
 name = "Jupiter Staked SOL"
@@ -172,30 +148,6 @@ pool = "5UMja2dWNX3XhrBAvsoRteySTngfpQGHrWfHxueCs5s6"
 validator_list = "FAr8zNTtTUCu2sSnGRp8mUTGos755bm6EYkBLwzjX9VT"
 
 [[sanctum_lst_list]]
-name = "Flojo Staked SOL"
-symbol = "flojoSOL"
-mint = "43CXsrQV7WyMvBsUiiZQMNU5Sdp28Jy61YMtx4J3RT7T"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://ipfs.filebase.io/ipfs/QmZULAmgP19RSGfGiQSm5AvHusTsASp6CWhBTQTfbp9aMm"
-[sanctum_lst_list.pool]
-program = "SanctumSplMulti"
-pool = "141oNu5DmA5nkoVACZVXMgy6KDFN1PftaTjbzzXvTXbT"
-validator_list = "AsRuK1PdjxRKdenfvfvqyoG9TX2maJbNhQWbAMyiZC6d"
-
-[[sanctum_lst_list]]
-name = "healthSOL"
-symbol = "healthSOL"
-mint = "HEALfPnLU31roNrnhB8bHWQVszMMAKro4KJRrnkQyVpZ"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://arweave.net/wpNG0yio0JzRcvxmN-mfUu1sfCnwF9NLo6OoZtijcpA"
-[sanctum_lst_list.pool]
-program = "SanctumSplMulti"
-pool = "Ceuqmz4qrwjrKnpBt4Byen58mfvbAAh67vDJqnsBkoPD"
-validator_list = "7mUknquh6kZxni9vr7cdA6NeFpcT7dimdhqYspxHQ4it"
-
-[[sanctum_lst_list]]
 name = "KHAI Staked SOL"
 symbol = "khSOL"
 mint = "khSoLqPRftqqDirah8NxBd9VZYfMJyPm3Xq5nXuLCyG"
@@ -230,6 +182,224 @@ logo_uri = "https://arweave.net/rlbozK9IaydrLJ3H5zNBDmgr3yl3CS4P0kPRetidcBo"
 program = "SanctumSplMulti"
 pool = "HMwyh2xECDXLNgLX3FzTQUMrswDuvfRpZyY4Hx9A1za1"
 validator_list = "FpcSAgsqsarhNMR93wpH6Q2mvZg99uTjYViiiEBFM7QJ"
+
+# Creator Coins -- S upgrade path
+
+[[sanctum_lst_list]]
+name = "Pathfinders SOL"
+symbol = "pathSOL"
+mint = "pathdXw4He1Xk3eX84pDdDZnGKEme3GivBamGCVPZ5a"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/pathSOL/pathSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "GM7TwD34n8HmDP9XcT6bD3JJuNniKJkrKQinHqmqHarz"
+validator_list = "2WqKyuuonwMhjYpvLFZSBibBddB8DNVTij5AuWYFs4KD"
+
+[[sanctum_lst_list]]
+name = "FP SOL"
+symbol = "fpSOL"
+mint = "fpSoL8EJ7UA5yJxFKWk1MFiWi35w8CbH36G5B9d7DsV"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/fpSOL/fpSOL.jpg"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "GutG5bcmEZw15WmPHNVMWHU77c6t8CEinUEdPLYz3doa"
+validator_list = "DfVmEvxkRBgFfYHgrtN9AcEv7gWXUtB1QZ6hkD3aYzsc"
+
+[[sanctum_lst_list]]
+name = "Flojo Staked SOL"
+symbol = "flojoSOL"
+mint = "43CXsrQV7WyMvBsUiiZQMNU5Sdp28Jy61YMtx4J3RT7T"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://ipfs.filebase.io/ipfs/QmZULAmgP19RSGfGiQSm5AvHusTsASp6CWhBTQTfbp9aMm"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "141oNu5DmA5nkoVACZVXMgy6KDFN1PftaTjbzzXvTXbT"
+validator_list = "AsRuK1PdjxRKdenfvfvqyoG9TX2maJbNhQWbAMyiZC6d"
+
+[[sanctum_lst_list]]
+name = "healthSOL"
+symbol = "healthSOL"
+mint = "HEALfPnLU31roNrnhB8bHWQVszMMAKro4KJRrnkQyVpZ"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/wpNG0yio0JzRcvxmN-mfUu1sfCnwF9NLo6OoZtijcpA"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "Ceuqmz4qrwjrKnpBt4Byen58mfvbAAh67vDJqnsBkoPD"
+validator_list = "7mUknquh6kZxni9vr7cdA6NeFpcT7dimdhqYspxHQ4it"
+
+[[sanctum_lst_list]]
+name = "ashenSOL"
+symbol = "ashenSOL"
+mint = "6VUBrNm21NPk4TcynRiUk4e8NS4cePFuC7cYMMB3VFsh"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/ashenSOL/ashenSOL.jpg"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "EEByZqy7iTAzF3dfKZX2RVmQ8iGwGHMVxwD7mDM7Bd8A"
+validator_list = "CATea8jLVU5FQzeTntkYj3yqnXQzDEhF1ADAkJ9cufB3"
+
+[[sanctum_lst_list]]
+name = "coletaSOL"
+symbol = "coletaSOL"
+mint = "6uLQAevbHZofRWgfCsFC7tnfiRLqUG15TRxWHWxctih6"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/coletaSOL/coletaSOL.jpg"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "8VaXCguBVwYdiw6YDDgdUojRXAt1q5MrkJWyDm53RiqW"
+validator_list = "HV8AxY5c2t62Sc3hBZKbJhwYKhQdRHXgTvQerTd6ddk6"
+
+[[sanctum_lst_list]]
+name = "CUDIS"
+symbol = "cudisSOL"
+mint = "towUpSkEQr5eJWrq1nMcuJ2rbwkDxNp9mKNek4VEnBG"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/cudisSOL/cudisSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "HBWXziDeeEHE1hypMQySaJd66Mbv61GZXqZUm5qLumnL"
+validator_list = "GQq8mqRXFezvrWnKuMLiHDSwein7fbebF8gtoJNSDmHj"
+
+[[sanctum_lst_list]]
+name = "fabianoSOL"
+symbol = "fabSOL"
+mint = "CYXa7bMwGxkhDpXDyVTpqXSo6tDRk3G5DRvEyuSuDRPu"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/fabSOL/fabSOL.jpg"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "GnfwfxwiuLdby3H5Ar1jDtoacvjcgYc9MxVmrBNMWrYg"
+validator_list = "AZ6rFvMBbpjJvWnpopDtFr2agP7x2seXSW4TayNtnRV"
+
+[[sanctum_lst_list]]
+name = "greythornSOL"
+symbol = "gtfSOL"
+mint = "4NC3MK9VeCLEjTXjxVrbKbWLzxf7pK3CjBVjENSzYmPa"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/gtfSOL/gtfSOL.jpg"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "GnfwfxwiuLdby3H5Ar1jDtoacvjcgYc9MxVmrBNMWrYg"
+validator_list = "AZ6rFvMBbpjJvWnpopDtFr2agP7x2seXSW4TayNtnRV"
+
+[[sanctum_lst_list]]
+name = "gumshoe Staked SOL"
+symbol = "gumSOL"
+mint = "49SwjGvnLifeGGe5chWG5REyVVtfVJyesR6MVpFRG1QJ"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/gumSOL/gumSOL.jpg"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "H5n8r6ojD1Wc6VV4PSZLCBhyoiDeoomaTK6bqrQhoT5H"
+validator_list = "J76EAj8iUm9ucE5SbRo8x3YPduiGcBeb283soNfVfNcJ"
+
+[[sanctum_lst_list]]
+name = "intelSOL"
+symbol = "intelSOL"
+mint = "inteLftJN2MRpjtV9m2uvexScmMBw5Y65Nn9SdWNPvk"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/intelSOL/intelSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "4NqKUFqLvuNpZ9NCc6PXkWLpwuSpRKWtkf3ADxMgAbdh"
+validator_list = "6J4wCXuQy6V2CYcTcq3DjRCJy5atKDZHMxahjurqAqSC"
+
+[[sanctum_lst_list]]
+name = "JoeTakayama"
+symbol = "joeSOL"
+mint = "F41tY6PKNPtaZ6gytUBuyxkcpY4zroDr83FJsRuShKCL"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/joeSOL/joeSOL.jpg"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "79apf3hRufwTdrh6yR6RjeFpZDtib8SVS4rZ5ju3Vct6"
+validator_list = "eYCysfA8WYpb9onmU1voxRHvovMKGbgtS7RvkutzeDz"
+
+[[sanctum_lst_list]]
+name = "katexbt staked SOL"
+symbol = "kateSOL"
+mint = "7ij4w5R8dyZtzc7UDXQJefghkPPdrCKQS7t1Nj6XdDX1"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/kateSOL/kateSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "F3KdEdpkCMjxascbrujykAy9xS2dfH6KKD8PDdRJoWqd"
+validator_list = "AKwfeAKFfK8WNuBMuRAG1iLv7g9Q73X5iMZaQnWrk1F5"
+
+[[sanctum_lst_list]]
+name = "ompoArt"
+symbol = "ompoSOL"
+mint = "ompoJidA8pPVdBAdMpA5wMaZ7BsuzpcoTW7dkTNXREe"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/ompoSOL/ompoSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "A6xiRjaqmKCrHco3DGHhMwqXxjNsdTsCjrQBJroUfyrt"
+validator_list = "226uG6DmoJQGhqWG8ejyUjdrCLdsY5U8DxDujY4rgw1S"
+
+[[sanctum_lst_list]]
+name = "Metasal"
+symbol = "salSOL"
+mint = "sa1bpnBbdtXEZ6bLRUzgNqfVAMrvtr7MivjxjAtRyie"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/salSOL/salSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "5R8xFoNZ8GMXHPaKgMDtUXSyQ4Ah3mpd1Ya73kieEGnZ"
+validator_list = "9hQho2PavGuayQxq61qa9ydCWerRaabFza6fAJRG4rYN"
+
+[[sanctum_lst_list]]
+name = "Stazzy Staked SOL"
+symbol = "stazzSOL"
+mint = "stazzQUTcccMALGVUKCFRe4novHsh7eYaUpFNHuRvAf"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/stazzSOL/stazzSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "4apdgLJ41vVGLWCFtH7WP1m43HJ1u9ZCMZ5TjavGuV5S"
+validator_list = "66Cb44cbyPNdMMeU4xNKsHuuUJm4kjw1Wn97goGvF1NY"
+
+[[sanctum_lst_list]]
+name = "taxSOL"
+symbol = "taxSOL"
+mint = "7tRHAHTjDaEMBSwB2vZMfRY5hDHXDNpuDoJDsaYJ68BL"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/taxSOL/taxSOL.jpg"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "7QNEsj7nzCTGBaL7DgqxSjWjDkihRPovBc4BFuDskGsS"
+validator_list = "B1273uUHLLkGUyBgtnXZ7nJ6BwYUPrk4YxQk76mnhxKV"
+
+[[sanctum_lst_list]]
+name = "tainakerSOL"
+symbol = "tnkrSOL"
+mint = "taiPPc8Cg7vbBr8tEwpWA6Z4DwTQ3fLpfnVG4sBXrJE"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/tnkrSOL/tnkrSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "3VzB5ZUz6w3AKM9w8zeRPF5kEDr6M63FavuM4WVQmsN4"
+validator_list = "tyajAymKWhN5YF3V32okWEpsKSAZmg5kU56mduvF4KW"
 
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]

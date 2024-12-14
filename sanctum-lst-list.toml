@@ -270,18 +270,6 @@ pool = "HBWXziDeeEHE1hypMQySaJd66Mbv61GZXqZUm5qLumnL"
 validator_list = "GQq8mqRXFezvrWnKuMLiHDSwein7fbebF8gtoJNSDmHj"
 
 [[sanctum_lst_list]]
-name = "fabianoSOL"
-symbol = "fabSOL"
-mint = "CYXa7bMwGxkhDpXDyVTpqXSo6tDRk3G5DRvEyuSuDRPu"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/fabSOL/fabSOL.jpg"
-[sanctum_lst_list.pool]
-program = "SanctumSplMulti"
-pool = "GnfwfxwiuLdby3H5Ar1jDtoacvjcgYc9MxVmrBNMWrYg"
-validator_list = "AZ6rFvMBbpjJvWnpopDtFr2agP7x2seXSW4TayNtnRV"
-
-[[sanctum_lst_list]]
 name = "greythornSOL"
 symbol = "gtfSOL"
 mint = "4NC3MK9VeCLEjTXjxVrbKbWLzxf7pK3CjBVjENSzYmPa"
@@ -290,8 +278,8 @@ token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/gtfSOL/gtfSOL.jpg"
 [sanctum_lst_list.pool]
 program = "SanctumSplMulti"
-pool = "GnfwfxwiuLdby3H5Ar1jDtoacvjcgYc9MxVmrBNMWrYg"
-validator_list = "AZ6rFvMBbpjJvWnpopDtFr2agP7x2seXSW4TayNtnRV"
+pool = "DDW3w2AkWgkM8ugZUaiU1f5whxWxNYd62VrxGWcXQ7mv"
+validator_list = "HTjqn5npmDzvitLHoD2iDQpQxqsQAwv7LWG5nd4iv4oY"
 
 [[sanctum_lst_list]]
 name = "gumshoe Staked SOL"
@@ -352,18 +340,6 @@ logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata
 program = "SanctumSplMulti"
 pool = "A6xiRjaqmKCrHco3DGHhMwqXxjNsdTsCjrQBJroUfyrt"
 validator_list = "226uG6DmoJQGhqWG8ejyUjdrCLdsY5U8DxDujY4rgw1S"
-
-[[sanctum_lst_list]]
-name = "Metasal"
-symbol = "salSOL"
-mint = "sa1bpnBbdtXEZ6bLRUzgNqfVAMrvtr7MivjxjAtRyie"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/salSOL/salSOL.png"
-[sanctum_lst_list.pool]
-program = "SanctumSplMulti"
-pool = "5R8xFoNZ8GMXHPaKgMDtUXSyQ4Ah3mpd1Ya73kieEGnZ"
-validator_list = "9hQho2PavGuayQxq61qa9ydCWerRaabFza6fAJRG4rYN"
 
 [[sanctum_lst_list]]
 name = "Stazzy Staked SOL"

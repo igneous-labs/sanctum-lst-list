@@ -377,6 +377,30 @@ program = "SanctumSplMulti"
 pool = "3VzB5ZUz6w3AKM9w8zeRPF5kEDr6M63FavuM4WVQmsN4"
 validator_list = "tyajAymKWhN5YF3V32okWEpsKSAZmg5kU56mduvF4KW"
 
+[[sanctum_lst_list]]
+name = "Metasal"
+symbol = "salSOL"
+mint = "sa1bpnBbdtXEZ6bLRUzgNqfVAMrvtr7MivjxjAtRyie"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/salSOL/salSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "5R8xFoNZ8GMXHPaKgMDtUXSyQ4Ah3mpd1Ya73kieEGnZ"
+validator_list = "9hQho2PavGuayQxq61qa9ydCWerRaabFza6fAJRG4rYN"
+
+[[sanctum_lst_list]]
+name = "espresSOL"
+symbol = "espresSOL"
+mint = "esprDDGBNVg3pJM8EQtCsVwcUsEk5TxgYGVjD4Uu7pZ"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/espresSOL/espresSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "32hsg4iXSPbbJxsr4oFkM2skBoauv9coqaUSAvXFU2JE"
+validator_list = "6zmQjSACEXCQhar7HRhasfGUHMc6XYDrrmrTFQHuD2F4"
+
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"

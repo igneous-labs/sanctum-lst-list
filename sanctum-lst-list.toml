@@ -1351,6 +1351,18 @@ program = "Spl"
 pool = "5Av61pgZ9KinUkNmxgDoai13Ej5auruGB6vp29Yeq9bh"
 validator_list = "CGg9y2XbmRiQQvMvnPfvzUacF8nizvUEhLK7F1aPtpzL"
 
+[[sanctum_lst_list]]
+name = "Shinobi Performance Pool Token"
+symbol = "xSHIN"
+mint = "xSoL18r4U1k2ALa4yF857VDZJqCKecLtty92nscre3o"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://xshin.fi/icons/xSHIN_3d.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "spp1mo6shdcrRyqDK2zdurJ8H5uttZE6H6oVjHxN1QN"
+validator_list = "3At6ZhUsTshb7Nf9Vebf5LTJG49K9X4aqGQ7PEw1NGSq"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

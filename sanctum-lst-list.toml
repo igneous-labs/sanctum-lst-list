@@ -1143,6 +1143,32 @@ pool = "7Q22ssZvtKuagdsjVzpyo2MjY8mMN1f4EpW41TGgLrds"
 validator_list = "42RDhNRmYkeiMBTN1Q73kgJhUvuoPgHtB2DEsthjX8dH"
 vote_account = "sh4rko7QjstESbderAwDEGitkXuuHdXLK4h8BQkr81i"
 
+[[sanctum_lst_list]]
+name = "risk-freestacc"
+symbol = "r-fstacc"
+mint = "pSYRpDqr847kB2nD5ZhjcPsHLV2ZpUxweXm1MwiSTcc"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://i.imgur.com/2DP8zMb.gif"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "SzoSoRxsrL9sbFcwpbjbH5bRrzuvFtuytZTeuqZCfQ6"
+validator_list = "GoabVWYUt9sui4KuNW1s7ELtHV2DS3TL7fYZu4soUnkX"
+vote_account = "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL"
+
+[[sanctum_lst_list]]
+name = "MET LP Army SOL"
+symbol = "lpSOL"
+mint = "1pRmyZzEXsoYJAFFDPYcP5Bn5Sq2B5HeQEUDHXRrTCH"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/XwAFWlGJAS0L0JkOw799HkRYnrU-efbZvP918pvmEmA"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9RZ3Cou1xiudj8znVrEosXhRm6iBHzRtcTYjEnwJ754R"
+validator_list = "EVFNmdZpNL2gN46kpLHjuz5i7FfgkFCHEyPU28rAgkoM"
+vote_account = "91413b9eEvG6UofpSgwdUgH9Lz4QBF1G3J325Bw7JwGR"
+
 # Spl Single Pool
 [[sanctum_lst_list]]
 name = "Cogent SOL"
@@ -1350,6 +1376,18 @@ logo_uri = ""
 program = "Spl"
 pool = "5Av61pgZ9KinUkNmxgDoai13Ej5auruGB6vp29Yeq9bh"
 validator_list = "CGg9y2XbmRiQQvMvnPfvzUacF8nizvUEhLK7F1aPtpzL"
+
+[[sanctum_lst_list]]
+name = "enderSOL"
+symbol = "enderSOL"
+mint = "enderSozQQP3aFMyxkCrs59u283tu7ZowMPCdoM5io6"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "2yWvQCwV8vDuMqxfnp67FTMJkgB8BQCA9XEkhQAp6vkH"
+validator_list = "2rXb89VswCaSz6bDbHQWUVg8M66VvrTxaCQTf9NAVaAf"
 
 # ReservePool
 [[sanctum_lst_list]]

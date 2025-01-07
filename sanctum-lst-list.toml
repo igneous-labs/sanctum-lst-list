@@ -1169,6 +1169,19 @@ pool = "9RZ3Cou1xiudj8znVrEosXhRm6iBHzRtcTYjEnwJ754R"
 validator_list = "EVFNmdZpNL2gN46kpLHjuz5i7FfgkFCHEyPU28rAgkoM"
 vote_account = "91413b9eEvG6UofpSgwdUgH9Lz4QBF1G3J325Bw7JwGR"
 
+[[sanctum_lst_list]]
+name = "Crypto.com Staked SOL"
+symbol = "CDCSOL"
+mint = "CDCSoLckzozyktpAp9FWT3w92KFJVEUxAU7cNu2Jn3aX"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/12xEvVVvGFM5n5U6ILXdShlLtUJOT1gUQTlSy8sGybg"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8B9yuGU5SbXLE56k4yH2AfqbMXNEah7MJMbZKDPqg23X"
+validator_list = "FHe9aBxSRSGgA64LMbhsNqBWJEzLKEkEhQxRNtQriGT4"
+# vote_account = "" # TODO
+
 # Spl Single Pool
 [[sanctum_lst_list]]
 name = "Cogent SOL"

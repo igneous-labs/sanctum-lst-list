@@ -1169,6 +1169,32 @@ pool = "9RZ3Cou1xiudj8znVrEosXhRm6iBHzRtcTYjEnwJ754R"
 validator_list = "EVFNmdZpNL2gN46kpLHjuz5i7FfgkFCHEyPU28rAgkoM"
 vote_account = "91413b9eEvG6UofpSgwdUgH9Lz4QBF1G3J325Bw7JwGR"
 
+[[sanctum_lst_list]]
+name = "Infinite Lux SOL"
+symbol = "luxSOL"
+mint = "LUX8NDStbKJhzMuH7abY4va81YaubLw3Vto5rmb66Lw"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/HWohT5kcg28hBLUnmUnkLaNcykyvWAH_boQKxd1L1-Q"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "HZfhhGDQafoGcSRNXUfZojnsKCCacKMXr1ufLpcC4cGX"
+validator_list = "GvVYboeccdY5NvFsS1aeaQGvC3yT8jF3SNf4JL2xfgAg"
+vote_account = "48oxpSHQkM4sdXUY9NQ8KnEtebzZbyk8uUT7JRdVQNuf"
+
+[[sanctum_lst_list]]
+name = "Lake SOL"
+symbol = "lakeSOL"
+mint = "Lakej6n5VCagKPS3eEU77m7iRYztNp3eiUH95q7dpsW"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://i.postimg.cc/fTHTBc00/LAKE-4.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "95tkNsPVV3gTwG3jrxSbbVowo5WG2VZDY2efze2EQ3pD"
+validator_list = "EwnQABa9fobijA5zGQybJSDhGv6jW74pNhz1haaYAoqf"
+vote_account = "LAKEuKJQYVFpf4vyjX7iuf9ajHo3k9FiyewYKf6VxPV"
+
 # Spl Single Pool
 [[sanctum_lst_list]]
 name = "Cogent SOL"

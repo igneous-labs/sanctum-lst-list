@@ -183,6 +183,18 @@ program = "SanctumSplMulti"
 pool = "HMwyh2xECDXLNgLX3FzTQUMrswDuvfRpZyY4Hx9A1za1"
 validator_list = "FpcSAgsqsarhNMR93wpH6Q2mvZg99uTjYViiiEBFM7QJ"
 
+[[sanctum_lst_list]]
+name = "vorldSOL"
+symbol = "vorldSOL"
+mint = "VoRLDaAR21dSQF6ofGEHYmHQAdPnJrTLNsQQdm7UHfB"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://amethyst-efficient-dingo-122.mypinata.cloud/ipfs/bafybeiboaqe24sonmqzwpurmk7dchd465lfbrpxvpejyvu5wfs7jr7zbpa"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "5wZpqW5vQBMsUMAzikG2sbspRQRzer3hZvQccwuJXbJW"
+validator_list = "6zJV8Nt3hAfAaVEYeRoK6VbvRB3NsqLbw71rkdLbkCrq"
+
 # Creator Coins -- S upgrade path
 
 [[sanctum_lst_list]]
@@ -1194,6 +1206,19 @@ program = "SanctumSpl"
 pool = "95tkNsPVV3gTwG3jrxSbbVowo5WG2VZDY2efze2EQ3pD"
 validator_list = "EwnQABa9fobijA5zGQybJSDhGv6jW74pNhz1haaYAoqf"
 vote_account = "LAKEuKJQYVFpf4vyjX7iuf9ajHo3k9FiyewYKf6VxPV"
+
+[[sanctum_lst_list]]
+name = "Vybe Staked SOL"
+symbol = "vybeSOL"
+mint = "vybe5DgwzGdvJMi4oH7TiQpubJd4QSDuGmbvWfACeb8"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://static.vybenetwork.com/VybeSOL.svg"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "EiUp5pUAHvDy28onm32bk8VecFQnQ1P4E2YrZPkGcAmf"
+validator_list = "38iq14ULYLi5m7jkqNPtQFkjqbQnijGxiUvDuJtjbaDC"
+vote_account = "6oscGUEkXE8fyWoC4czRKbM1cuLkJNtgRsX1Un6w88Vf"
 
 # Spl Single Pool
 [[sanctum_lst_list]]

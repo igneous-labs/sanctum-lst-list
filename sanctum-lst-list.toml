@@ -203,10 +203,10 @@ decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 logo_uri = "https://zoxs7wphh7wnfb6jpcy3zoaxmb3htn6po4xeneg7icwaqthqio2a.arweave.net/y68v2ec_7NKHyXixvLgXYHZ5t893LkaQ30CsCEzwQ7Q"
 [sanctum_lst_list.pool]
-program = "SanctumSpl"
+program = "SanctumSplMulti"
 pool = "EhmfESAfGaRDpKRE3FZ7fkx51vH7qnsCfWmxtXFFu8up"
 validator_list = "65aGdcJca96cYke9fpxz3fgXev6MDzGCAhM4LSCyAu79"
-vote_account = " axyQeKp44XqUnvC1jVHoeuAJ3j8wVnGeWtddeAcNYcF"
+vote_account = "axyQeKp44XqUnvC1jVHoeuAJ3j8wVnGeWtddeAcNYcF"
 
 # Creator Coins -- S upgrade path
 

@@ -195,6 +195,19 @@ program = "SanctumSplMulti"
 pool = "5wZpqW5vQBMsUMAzikG2sbspRQRzer3hZvQccwuJXbJW"
 validator_list = "6zJV8Nt3hAfAaVEYeRoK6VbvRB3NsqLbw71rkdLbkCrq"
 
+[[sanctum_lst_list]]
+name = "AxSOL"
+symbol = "AXSOL"
+mint = "axso1MBZ8Hz3RdBGeyDcvc3xP5R3YNfLYqREHRvwY2t"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://zoxs7wphh7wnfb6jpcy3zoaxmb3htn6po4xeneg7icwaqthqio2a.arweave.net/y68v2ec_7NKHyXixvLgXYHZ5t893LkaQ30CsCEzwQ7Q"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "EhmfESAfGaRDpKRE3FZ7fkx51vH7qnsCfWmxtXFFu8up"
+validator_list = "65aGdcJca96cYke9fpxz3fgXev6MDzGCAhM4LSCyAu79"
+vote_account = "axyQeKp44XqUnvC1jVHoeuAJ3j8wVnGeWtddeAcNYcF"
+
 # Creator Coins -- S upgrade path
 
 [[sanctum_lst_list]]
@@ -1219,6 +1232,19 @@ program = "SanctumSpl"
 pool = "EiUp5pUAHvDy28onm32bk8VecFQnQ1P4E2YrZPkGcAmf"
 validator_list = "38iq14ULYLi5m7jkqNPtQFkjqbQnijGxiUvDuJtjbaDC"
 vote_account = "6oscGUEkXE8fyWoC4czRKbM1cuLkJNtgRsX1Un6w88Vf"
+
+[[sanctum_lst_list]]
+name = "badSOL"
+symbol = "badSOL"
+mint = "BADSoLWCBhpaSEEZYcFTn7mSLAstdNh5FvgMduapTdVT"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/bandit-network/badSOL/main/badSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "JCcavStCZVbYGFJ36rpu59draiKWy5R9Ap4jadRjnw88"
+validator_list = "EFqSX13C3W3oYhxoUttWAtnUCZBDQE6fyTsE3SLx8EAY"
+vote_account = "J1to3PQfXidUUhprQWgdKkQAMWPJAEqSJ7amkBDE9qhF"
 
 # Spl Single Pool
 [[sanctum_lst_list]]

@@ -10,7 +10,7 @@ use crate::common::{find_sanctum_lst_by_symbol_unwrapped, SOLANA_RPC_URL};
 
 #[test]
 fn verify_sanctum_router_fee_token_acc_created_latest_batch() {
-    verify_sanctum_router_fee_token_acc_created_by_symbol("espresSOL").unwrap();
+    verify_sanctum_router_fee_token_acc_created_by_symbol("badSOL").unwrap();
 }
 
 // Copied from

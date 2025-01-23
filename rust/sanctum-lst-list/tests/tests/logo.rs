@@ -9,7 +9,7 @@ use crate::common::find_sanctum_lst_by_symbol_unwrapped;
 
 #[tokio::test]
 async fn verify_logo_image_uri_valid_latest_batch() {
-    verify_token_logo_image_uri_valid_by_symbol("espresSOL").await;
+    verify_token_logo_image_uri_valid_by_symbol("AXSOL").await;
 }
 
 async fn verify_token_logo_image_uri_valid_by_symbol(symbol: &str) {

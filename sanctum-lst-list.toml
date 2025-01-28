@@ -197,7 +197,7 @@ validator_list = "6zJV8Nt3hAfAaVEYeRoK6VbvRB3NsqLbw71rkdLbkCrq"
 
 [[sanctum_lst_list]]
 name = "AxSOL"
-symbol = "AXSOL"
+symbol = "AxSOL"
 mint = "axso1MBZ8Hz3RdBGeyDcvc3xP5R3YNfLYqREHRvwY2t"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"

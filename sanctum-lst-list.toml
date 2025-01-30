@@ -208,6 +208,19 @@ pool = "EhmfESAfGaRDpKRE3FZ7fkx51vH7qnsCfWmxtXFFu8up"
 validator_list = "65aGdcJca96cYke9fpxz3fgXev6MDzGCAhM4LSCyAu79"
 vote_account = "axyQeKp44XqUnvC1jVHoeuAJ3j8wVnGeWtddeAcNYcF"
 
+[[sanctum_lst_list]]
+name = "Definity Staked SOL"
+symbol = "definSOL"
+mint = "DEF1NXSZ8Th9n28hYBayrFtx9bj1EwwTiy3mhHEB9oyA"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://hv4gxzchk24cqfezebn3ujjz6oy2kbtztv5vghn6kpbkjc3vg4rq.arweave.net/n3W2lUNPCJpX9WXjXEl0Tx0hB57BvioKUG8pixx1A4o"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "Bvbu55B991evqqhLtKcyTZjzQ4EQzRUwtf9T4CcpMmPL"
+validator_list = "98BPxQ3qwLDQWRcuvWwFbAabJSprANhiUPuHndv3VP8M"
+vote_account = "56CV9agH7K12coC6aiTqgprWcbxihGu1GCw6mwd34YhQ"
+
 # Creator Coins -- S upgrade path
 
 [[sanctum_lst_list]]
@@ -1245,6 +1258,19 @@ program = "SanctumSpl"
 pool = "JCcavStCZVbYGFJ36rpu59draiKWy5R9Ap4jadRjnw88"
 validator_list = "EFqSX13C3W3oYhxoUttWAtnUCZBDQE6fyTsE3SLx8EAY"
 vote_account = "J1to3PQfXidUUhprQWgdKkQAMWPJAEqSJ7amkBDE9qhF"
+
+[[sanctum_lst_list]]
+name = "Luminal Staked SOL"
+symbol = "lumiSOL"
+mint = "LumiP8p22hsa6jNHDMn85xCM4Hpyzoy15K1rLgFB9eG"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://luminal-solana.s3.us-east-1.amazonaws.com/logo.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7ef7tkPqGehLZA1fGMB4jVsngyNadnxsHfvHRkDDbEU9"
+validator_list = "ET2u8LacHEigvXezsd7qud47m1n4FKmHzF7rUGGdqeR7"
+vote_account = "LunarE7WQyxpPwKo2hkEZZquu6UDWMNjvf3JyzGmdfp"
 
 # Spl Single Pool
 [[sanctum_lst_list]]

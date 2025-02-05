@@ -1272,6 +1272,32 @@ pool = "7ef7tkPqGehLZA1fGMB4jVsngyNadnxsHfvHRkDDbEU9"
 validator_list = "ET2u8LacHEigvXezsd7qud47m1n4FKmHzF7rUGGdqeR7"
 vote_account = "LunarE7WQyxpPwKo2hkEZZquu6UDWMNjvf3JyzGmdfp"
 
+[[sanctum_lst_list]]
+name = "truthSOL"
+symbol = "truthSOL"
+mint = "truthMz1n1fzkRrSK2xdS4FBaPmvkihxa8asAYcDMD8"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/qVSa_5XP_5I512IJ49pVnufowHfZRTZ4VzKpNky9z1c"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7ePUk6bLa7Yx9eYMARGNZFPoqJqcjTcE4drLmFkPcFNJ"
+validator_list = "HaNMsgSjvGyNQFhvrHr5dcSK9v9eVC4svotutmqBJAmK"
+vote_account = "TrutHUEykD2UsmAq7W3hA4r3XiQxGLqhENAwo9522xa"
+
+[[sanctum_lst_list]]
+name = "Paw SOL"
+symbol = "pawSOL"
+mint = "PawsoLz4VaXjb9jFTp1UF6qvYQ2qmxipZuRJuG16sVq"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/r3LNyiCfKcVLMnACWF7RcDALpdOkZWG9ERss9dbH5UE"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Gyu7jVRXaBSWy5CPApsXa4Yat85F5AkcpC4JM5Z96shD"
+validator_list = "4N2CT3jq82quQiS7xy7G2fmX8sAcrq2mr8zAejd2RDNB"
+vote_account = "3ZUQekqiZoybB57y49eqtvSaoonqDwuNbeqEGwN88JkQ"
+
 # Spl Single Pool
 [[sanctum_lst_list]]
 name = "Cogent SOL"

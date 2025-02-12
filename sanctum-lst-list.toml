@@ -9594,6 +9594,1956 @@ validator_list = "7BK8bkyksnonU8mxbyXmNiiTdqBB4BWhN8WYknF3wzU8"
 vote_account = "DySC6eaUthvVVzu4s8GFupm4PzYLNvq372AYnNrKP4xP"
 
 [[sanctum_lst_list]]
+mint = "sctmktdf8oZCkNh612GfnpMcJzVajvKQBGEN9CUMdjP"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9YDu5"
+symbol = "9YDu5SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3FBhCpFYkYHaHC9P26U9JCSHsGKifuSjsZ5QFoZoCudX"
+validator_list = "AwNu4HZtz4P8t4nFoAKrYWXAq9y4R7DPXjk4JkcS5Xq3"
+vote_account = "2oxQJ1qpgUZU9JU84BHaoM1GzHkYfRDgDQY9dpH5mgGn"
+
+[[sanctum_lst_list]]
+mint = "sctm7LRik1KddvJb9RiGHWJ1Y7DtT384uYhVpcoLQDD"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9Xm2W"
+symbol = "9Xm2WSOL"
+logo_uri = "https://i.ibb.co/NCSncWN/Venus-2.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9KAu7DF9cvVMkfNvbmwGxLrTMgXk3XKKQZFBXkyCQyra"
+validator_list = "73W7cRG9N2dBaKKiEd9L7orgSzUje55gFu1gJbeTBWDx"
+vote_account = "CtiiCQbRh13cqorWaEimroRznTL2qTytNhzYz53BCnbq"
+
+[[sanctum_lst_list]]
+mint = "sctmtRSTTbuTahMADCzmkKZhF5qyqhe8RAPkLP7EoPD"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9Wmaz"
+symbol = "9WmazSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "EwD4MRX48x28oV2rYsnimV25dNEo5DUVB3J7MrhNkgzg"
+validator_list = "CMJXcaHpn3mRxXFEs27TazuExGEr9uWhT1rQM1y4azuZ"
+vote_account = "3Z1N2Fkfha4ThNiRwN8RnU6U8dkFJ92DH2TFyLWJf8cj"
+
+[[sanctum_lst_list]]
+mint = "sctmjDN6R1et5rbvfrBNoBBUetEFx3r7VEUADMxtkUU"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9Ukj3"
+symbol = "9Ukj3SOL"
+logo_uri = "https://infstones.com/InfStones.svg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9c9yF6YXzqVaYKSptpuUC12W2B6bejpp5HzFN8i4WjNY"
+validator_list = "89BLEEbBBVZf3Jk9jFHQsrGdZAJ1UUkFej9ikWFNyjaq"
+vote_account = "37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ"
+
+[[sanctum_lst_list]]
+mint = "sctm7emYtCR1HkBWEqco7pq5junnKp5MPDuKHKnDg3W"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9T6SN"
+symbol = "9T6SNSOL"
+logo_uri = "https://neuralnode.live/img/neural-logo.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "43kzmN6DAbRK6ENQRmbJRu3fz3MzyHMdDYxGYDRt7z6D"
+validator_list = "HU12dowG8ozzBSW2qxbwoer4TY5GscSqw3oviYrMnQwH"
+vote_account = "5cYwwC8dmQ2tvtjDueHrU2B6NvmTHmoimsNGeGXVbkP8"
+
+[[sanctum_lst_list]]
+mint = "sctmDSFMx6engM9UNYb4GBEbztrrAGLenn9aP5xgd6s"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9SjGU"
+symbol = "9SjGUSOL"
+logo_uri = "https://i.ibb.co/KrC4SNg/2.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9fUYnJnzL69RnHwMj7VtdJacm8XciMCzNyc8iPrQsSZT"
+validator_list = "5VCaCT3wceUqZviKYNkuiTNdBanpi9n6vqaqc3E6geA2"
+vote_account = "HG574XwiowrjLx8h91KhHUhPeMfmUPBLfC9XrXynj9x"
+
+[[sanctum_lst_list]]
+mint = "sctmBNQWjKCTymM2qpAq9PboE6rX2kzwDQnjVzi11Si"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9QA1f"
+symbol = "9QA1fSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "2WXQDuErACuoicGApgGLDF8QQWHTCGAykjrdTHCx5j2y"
+validator_list = "4rKbJ3NSZAQHYA5KiU22sPY99ztcwkfpAEZg7FCf87YL"
+vote_account = "EsELtZoep4TYcugKyMnB4ZWZYxn99V5Vb1TwexDzFey"
+
+[[sanctum_lst_list]]
+mint = "sctmCY8zbrxoQwrTgyPgj1w3H7fXxrdPGqVhDD4TYrz"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9PViH"
+symbol = "9PViHSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "69p8zMXJnAfRfUi4S5WknmoJeERxmrTTUcSpFu7EPnE5"
+validator_list = "6PjYMMwcoCpXLD9M9fAzYo6DY7j7jMXGEwKstpempaPv"
+vote_account = "F1emDGY23U6YpJj4H4af2CHcHUmiDGgAWs2xvWYZHWdR"
+
+[[sanctum_lst_list]]
+mint = "sctms1rj5DdikAFKT5ZXFcsPm6eAXGh3UZ48aKCYpdz"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9PRr9"
+symbol = "9PRr9SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3f6avHKWzGwMjkBk8ViRHiUecrSvkEgxKH1V4CtcUByp"
+validator_list = "D3TTuYY1msmyMMQRLAGg8CJuLK9wZhfgYwHnfYaFh1yP"
+vote_account = "7obieMdVPKKcwEhhKizSkpdLaW1HMZh2ENrUDUhdGvVr"
+
+[[sanctum_lst_list]]
+mint = "sctmWqCXsiaN5mTF35SUSZGKEpUv6ZtHyMf4A1odh7D"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9Nbub"
+symbol = "9NbubSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "2h51h9qtpFyxJJKcUMRDT6or5B6Y5feusifzbQ7rZmsB"
+validator_list = "2Pa3QW57zodPKxz9uvTNpAypPdhhkViKXcb2npRvntvp"
+vote_account = "J1iPFXVJrvx4DuGvgUJeBicnvxTkroisx2Lbeo2Q4aA2"
+
+[[sanctum_lst_list]]
+mint = "sctmb3hpzhGBRQDE2EjzPHAro2WZQKDQ2QrMGfHgnrz"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9NPYT"
+symbol = "9NPYTSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FPED2VR2GexpFU3RUMtnsxEj7vEudgDqAq3jWSiFz7bY"
+validator_list = "HhR8KuiYRNqNnALYZDw76cw4WsetG89LpedosfuU5C2b"
+vote_account = "Hsk4q3CE6h7N4ryjMxX1ixUSaFrrAFZipu1w7p2ijokY"
+
+[[sanctum_lst_list]]
+mint = "sctmMmJa9msNRtb7s7bqPkvx7S2SDZgMx9uhNVNHjXv"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9NEsa"
+symbol = "9NEsaSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "SDgm2zMtj7ie3tadTch99mH7AAym3MkgyispPd8TT9o"
+validator_list = "EWMxTNMfheiMApoheq3GezEhYmgb5EHdjozXCxHKnyFx"
+vote_account = "DLMhVf7xXa8R2D2y1fZSRVQwXdup7EfwBFbttzn5ppnC"
+
+[[sanctum_lst_list]]
+mint = "sctmsbkSHRVbyQxYXZVhp6bH2dV7zfn8PFwTGpVafAe"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9Mo3a"
+symbol = "9Mo3aSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3G9ueECp2VsNTyEusM2NFST2bJTCBb31hGFNt7K1CjwB"
+validator_list = "4MnHiE44XNd1UpWUGZaFJufczRMJEFcpVKXKSyzY25y5"
+vote_account = "9K67smfw8hDXmtnR7uvP62WrKUcB7oZ8cvpsB1hmrCzf"
+
+[[sanctum_lst_list]]
+mint = "sctmF7eqUUqCQeZGUGTVxkAFGkEM6hMYsJ8rPrS8KGJ"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9Mgsq"
+symbol = "9MgsqSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "6w95D9HMTGF6RATAEE4GgZV98i84wDg9iP2fkDN7w2Gm"
+validator_list = "EGrRrizkFQd2uovxe3mS6LRUmSLE5b6D5G1Tg7j419tb"
+vote_account = "EBGfQMkRqBZ6mj2AJ1UxwKD7MbiuMGJamzKZe2UZrG6B"
+
+[[sanctum_lst_list]]
+mint = "sctmCaaDU44mfKdxJMATTyPTqoEmotjT8sSc9VmwaUz"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9MYPY"
+symbol = "9MYPYSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8YEowib9hUUhLD7SsMHxjRn58dtoQjnS9XP2uCk7HHxw"
+validator_list = "2BJeQxusjbLviKBsLCizPLvLTCDoigsc7ZcSZCjG8Esa"
+vote_account = "696fkFqwiLxsDG8Jr5MvU9kvGm9uuMuTPh3rn3ybRNQm"
+
+[[sanctum_lst_list]]
+mint = "sctmCpwtYy8kj5Gw3pp7k7aKrUfA2BcFKKaWNMxibAv"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9JdZL"
+symbol = "9JdZLSOL"
+logo_uri = "https://dreamstaker.xyz/assets/images/my-avatar.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "94zxRDtokXnPhQ8Be4ZcVj9YBFpnnVtdfmThV6egDxF6"
+validator_list = "2N1MG8DvMNrBFrk3hGYjMR1X8j2MP1gaGKAG9cCEo72Z"
+vote_account = "7r1g7s6UjYuosRCHwedpGRCbJhZqM2LhUPxgoayRE6Rm"
+
+[[sanctum_lst_list]]
+mint = "sctmhF4KaMCbj2BEWr9NGnZygxwDp3jT2w2Lm4cYLv5"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9J2PT"
+symbol = "9J2PTSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DhFKtSLHvAFVPFLJXc9MmUnFoxF32wJG5GJAUUrtJDci"
+validator_list = "72PzmPbjZp1pkUrUUYzAhbuZZeh2y34CZWPfvrNL7V8n"
+vote_account = "5nqCxM3G1FKEZ4gUirNfpVoZSV8csVFXxbq382DdMHPd"
+
+[[sanctum_lst_list]]
+mint = "sctmJ3ZwjUTn2fhDTCh3Su6EX8zvoV4jBzN4zfqc1ij"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9Hzxq"
+symbol = "9HzxqSOL"
+logo_uri = "https://i.ibb.co/1QZwQpX/solidarnosc.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FPrtfHbDgviWcrQtAJLtWqjHGcYZyqopqAJN4xtcLAJC"
+validator_list = "7BKkjf7wMbqPfj1ymQujcfW9cramSZdfzceCBPiGZdmr"
+vote_account = "2WKHhJ34gNkw1G8iReLXn8roPfQUjsLyzjWHspNdvbFw"
+
+[[sanctum_lst_list]]
+mint = "sctmsCgqWG4Eyo15RC5DtN99CgnEagU742Y36cjrDPn"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9HsxE"
+symbol = "9HsxESOL"
+logo_uri = "https://raw.githubusercontent.com/kilnfi/public/main/solana/kast/logo.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "59uZfUo6AuTVaoamWybpMFHzuAR8q1i4SJkCQnENsPK7"
+validator_list = "357oZ6PjZTTFdR6AQ1tigg46WXMyetmY88NzTJtr3oxV"
+vote_account = "9RXDftY5xyhtYyzk4z7U9ddvBF2Z8DMfXmV6P6du9dxS"
+
+[[sanctum_lst_list]]
+mint = "sctmkiUfrH6Hc3Nkh1rFgmhvWq2fUhHQd1AG5A3w8JA"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9Hk5R"
+symbol = "9Hk5RSOL"
+logo_uri = "https://i.postimg.cc/7Ysjt9xC/Abyss.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "6NyDrMN7rFNLSJncH1Fe3gr8xpt7GQf5ArfpGZNjpir6"
+validator_list = "ADcqciofg5dfEkFtV22UrenVdXc9pyPiL7pXo2ZHSofc"
+vote_account = "3JadNLK7V9NNzC9a1jRAZQXExT7mBtBhcjCaaaRE7B3R"
+
+[[sanctum_lst_list]]
+mint = "sctmvYc2KzJX22uavVbBLjsvMS3FZyQUu1K1ofw2gVR"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9HiuH"
+symbol = "9HiuHSOL"
+logo_uri = "https://i.postimg.cc/wvt0zt8c/solwave.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4PkfA7Fi3oL8bmDDL15E7WQrZLMSDpRLVm98LuADvY5F"
+validator_list = "79GsK53z6cjg5A5ko7KfaKMkGPfdCbxBVPyaoJ7Pd632"
+vote_account = "GwT72fNWtBrFa9GsBru2kPso1NEw3AnzrjPwprVAv32X"
+
+[[sanctum_lst_list]]
+mint = "sctmVvSJQY9DnKaMpzEi3sAM4hrocD2keAQUDQ4MXvL"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9FXD1"
+symbol = "9FXD1SOL"
+logo_uri = "https://grassets.tech/wp-content/uploads/2021/09/cropped-logo.jpeg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "BKu5tbJyfMS68TwNrdEPPD9BcPyRwAr7HpczGhSGiiGF"
+validator_list = "ENbgTzXQKkzPw1Q9XnvAKhWJg9ScYnD4P4tQwafp1rno"
+vote_account = "2g2QU1NDRax6i2mKzRwgRfdBFoDkMC6bj7Zp5Q3i8sCq"
+
+[[sanctum_lst_list]]
+mint = "sctmQfhuEFqKhoNiRHZvJivhHkigLtMYd8ExhmD3Wb6"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9D3o3"
+symbol = "9D3o3SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "BJAk2rmEaGLjYSAhi5uUmUmZDzE3jyuTNMUjbQU7mbvQ"
+validator_list = "AppMrdNbPMxNcniCJxc5Qd8g35YFL4PK12osaaWNyp9Q"
+vote_account = "6yg4Usyr8VkvY8m7wrbLHegKVnKaAQmEwS6cuGnwB6wT"
+
+[[sanctum_lst_list]]
+mint = "sctmjZXVfwY7HqTNdXR2JpMnKBMHU9ts2U41a1SmsMZ"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9CqDv"
+symbol = "9CqDvSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Bse35s2iBmcnLBnaCxyYcvUf1SbBaoFjbtztWhnZyk17"
+validator_list = "7xzgYaTip6sYC5rPutKkUrHJDFPhA69y6qLPsCc5LjeR"
+vote_account = "DzCirYWNsCECVHgSaMVg1mqMzKwtGuN2Pqm2a4HqVpTE"
+
+[[sanctum_lst_list]]
+mint = "sctmzpVT7hzMD9DjuoZLPZCc6UjSmKmBT5x52dCSPDu"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9Cjoq"
+symbol = "9CjoqSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "HJPucVX8pYatMuhUEw5sU9cYPyUbazMmt1Sv9WR6c6Gf"
+validator_list = "CwMEHs92sfiiSJKHAnvBKkTYGQDCACLsTSRpPWyqyTUV"
+vote_account = "5wP5Qm9frQfXY9QadZZHqgy6GEvqtHjpJ6uongxdb5gJ"
+
+[[sanctum_lst_list]]
+mint = "sctmmoKMsa3rkLX68WxSVL8rm5TwhUfMmJxRAqjF3U9"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9CJKN"
+symbol = "9CJKNSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DevVcoizQjVuuMyBCs8n3cXrn6Q3xM8yKqNneoydkkBn"
+validator_list = "FKkURdD8mFciu7S5juN4cHiU3Y8grNNy21XgCsWf5y6E"
+vote_account = "5bjKPhoQDcpPVeMhu83SEtXqXA9vw62k7KhL9zpsK31b"
+
+[[sanctum_lst_list]]
+mint = "sctmBvhSVHiogGivGwNgQRe1KqbTBkDFRiPxKZx5W2f"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 9BTM7"
+symbol = "9BTM7SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "B1Lfa63cwjkr6MqiKBwAfUJRcEbU68ZpqD7njskSzkaw"
+validator_list = "6YU7R61GJ8UtEi1MBBAhs2GibDobk6kotJs3E3nZmeVQ"
+vote_account = "FVhMWs3bbayWpUqDAbWUPH813gzFzJEo8fzhLhhkGstp"
+
+[[sanctum_lst_list]]
+mint = "sctmq6aNnkj4roLZcg2s1NBxtQR8tGfgBUix23XZAnS"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 97MtL"
+symbol = "97MtLSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9EHLy2NazWxJ7niK8ktRsqPEPPBsyk7jfV4eqKR3ovWb"
+validator_list = "7y4XtmtJxxghnGZnTwK6taCrmQqcxkVWFFRruyZnxQkm"
+vote_account = "Fgevrsfh8KsFN7eomRWS3N2bjKvqRBGMcEo9oQbT1ikX"
+
+[[sanctum_lst_list]]
+mint = "sctmXXQC6qyxm5e14WV4uxdx9SLQQh5PNMkd4U4D4xd"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 96XWb"
+symbol = "96XWbSOL"
+logo_uri = "https://raw.githubusercontent.com/Nastyniaa/ValidatorInfo/main/nastik.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9Lyg6WzSVJMCvYARW5uu5YAWXD73srPhJnNCFRZR62MQ"
+validator_list = "85s2gASdyyA311GcuvE1CfWC46fc1ydYoU8aEkd5yhV5"
+vote_account = "3Qvmhayko5Yn3sSXDsHsMzS8QjdU4CshQF2y6L276kgi"
+
+[[sanctum_lst_list]]
+mint = "sctm7famrsEtcN1MH31otPAwhqnrKQTPsRLe2P2SVNz"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 94nRf"
+symbol = "94nRfSOL"
+logo_uri = "https://prnt.sc/8CaDMzYg_AN-"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Denmyej7iRrPquqHsjsDT3BhG3oXU1JN6Vh8cvDEpaos"
+validator_list = "3VW1nbtxUPBbNEgYLMVfWQKXoQhTA9UGiVDf1JvDJU4b"
+vote_account = "3YCCGCuCicRggDgdK3ixZWXNPVRYfQxvytDUgHFrRFJ4"
+
+[[sanctum_lst_list]]
+mint = "sctmKLftvwNNWPFAHio5XS7Yqg1jsGLEbdMNtWvKjrW"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 94HgF"
+symbol = "94HgFSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DzioWtx5gwdP6LA1sQ1JJs5p6GfEuthUZdZMytySEH8i"
+validator_list = "7tDTsn4juJm6ev8VdYpc25ya2PfNtZKefHhz7P2cAJgw"
+vote_account = "J6XZBDuUpuBzgcVGmY8NgHQYKbGZegoYmbpadAKo1qRw"
+
+[[sanctum_lst_list]]
+mint = "sctmBbr9jTwcpWL29rxBcBL5AH33RArvZrCkUBuyjP3"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 93fX4"
+symbol = "93fX4SOL"
+logo_uri = "https://raw.githubusercontent.com/tenerifka22/my-images1/refs/heads/main/te.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7XqUvX7hVpQVZKFLL8ow82S8mtP9isDrC72aCk2jtjTP"
+validator_list = "82jLSprYZBLuyvBy8BwWPZfcUkQYyo5UFuK5fRWt8dpD"
+vote_account = "BJipnsRJCxgcMoYc7Env7ee2YASTtwLuyvD23AsJ3E6U"
+
+[[sanctum_lst_list]]
+mint = "sctm9vMKKBbDMhrpe4LkpwpRjseiowKsiGDi5bQFxpW"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 93Q99"
+symbol = "93Q99SOL"
+logo_uri = "https://raw.githubusercontent.com/STEVLTH/solana-validator/main/icon.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Cr8pgDctyvESFWrdv98FrFbCXUiiDmJ11vYog1zVUx17"
+validator_list = "EpKFMW8R9EneiSHwhxWdPVZN1GwTNNNfecZWd67NxwCM"
+vote_account = "8D8XL6ovqx15RKwC1XtFyTz6H8JYF2fUsxTnsY4b123P"
+
+[[sanctum_lst_list]]
+mint = "sctmitqNbrZgQPvyStMVDp6743q2RZ7LBNtQPusYrid"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 92VEP"
+symbol = "92VEPSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "5mS4mH7oW7w7Jdmjbahjv4HtoNmsnfNqj2CyjVxvwudZ"
+validator_list = "Cd5hNHXekaqE9ixCyWkEKzoLGMNTD1QHUjF9dwWLUT49"
+vote_account = "4VgntoyhaZ9TFXCJ73xNSon3sL4ieV2yrACRFSCnzf6i"
+
+[[sanctum_lst_list]]
+mint = "sctmFMS7EaK91uTQyUGKDN19PH4CrRRSndR35aKEnT9"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 92RWs"
+symbol = "92RWsSOL"
+logo_uri = "https://i.postimg.cc/5tcs2y7W/logoCr.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7aUtNjYY6v194sE1fEVJh4NLPbaYQxFDbmUM8g3rBLmm"
+validator_list = "HHTvhuPvZ4LMj8jUB2i3pM9G8gxKuJWZ8FN7x1ui5rMD"
+vote_account = "FSwhPiYebzF5nNGvWbUUZ4SxGx7kw2QcA7A6xgYz1PZJ"
+
+[[sanctum_lst_list]]
+mint = "sctmkw8f7GmUYbmWy1cPhpaHHHRU21jKW7EbAxfCn5u"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8zgT2"
+symbol = "8zgT2SOL"
+logo_uri = "https://trueimages.ru/img/6b/4a/73de4866.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8hjuUahdY6yMeL3QNmhfqgHa8zMGuRDc2r22MM82qW8"
+validator_list = "4fxRSct6bNz1rqvpn78Be1CZFRxx6JmBJzTMduFi7dTg"
+vote_account = "7LR33GiYcNS333LpdccyytkfPUytcZt3ZnVn7CRvW4pT"
+
+[[sanctum_lst_list]]
+mint = "sctms3vPgh1nNg5XtjkM4Wp8DnGuuto4nAN3ozbC5Jd"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8zCvn"
+symbol = "8zCvnSOL"
+logo_uri = "https://cs8.pikabu.ru/avatars/874/x874139-165708301.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7QCjY7EYuCzbqiZ1qJEWwMDpiwKGejDj8UCpCjhoHe4S"
+validator_list = "AmwpugMQwbREQXzL7mCj8r1HCVBTatMNf9PXabeWvNGv"
+vote_account = "4MMaBHtwEFhhrjptoHnh628sm4JjRqUYxTsQd9xuVZMU"
+
+[[sanctum_lst_list]]
+mint = "sctmrpmKaHYBZUmypRSumdd8gA6suGApacs7rsEBLdd"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8ypig"
+symbol = "8ypigSOL"
+logo_uri = "https://ibb.co/xXzBhZD"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7Dx9SnXa2NKbfDgRjfaAkx7AiAHTV5hrtM8MXoRN7Wrh"
+validator_list = "2oPJBM2VB8T96WtYiAxWifRwYQ6xUG2nk55NdP1tZkbm"
+vote_account = "DsT3eKbWAaX9wVZQYBsbkDwpFA9NTDtXfsYc9wXUEWpn"
+
+[[sanctum_lst_list]]
+mint = "sctmVPMLFzM9qjqtA626dr4hm8Bse1SSy9y7jck9vLN"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8yjHd"
+symbol = "8yjHdSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "GT3fWqhmewx8poMUopduqcd95vAcUUaxs5vGy7SxEYbM"
+validator_list = "7XqvnoYJtbdP4R1KHksJzqVxxp8dg6LkReiPbzbU5bLR"
+vote_account = "DPmsofVJ1UMRZADgwYAHotJnazMwohHzRHSoomL6Qcao"
+
+[[sanctum_lst_list]]
+mint = "sctmcGzBKJisPR5t5QhDk2pzeZvkteB5T5EJU5xMSrZ"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8vwn3"
+symbol = "8vwn3SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DEWgqwEq65aSZ2wyMzgThqbJjWHrVbZfmNgBJQtPR9KE"
+validator_list = "8GHtoQiJy3LuEmgezZomdUnFYqP5zFs8VWk3qB6p7Xo2"
+vote_account = "4hZueUrKETMSg3k94JihgbyCdc8nma3GcvdeKBrtWamQ"
+
+[[sanctum_lst_list]]
+mint = "sctmc66C1KcNGVD1CBcVcin3txk7bDZaRapvRS8tKJv"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8uPW9"
+symbol = "8uPW9SOL"
+logo_uri = "https://prod-validators.nyc3.digitaloceanspaces.com/q5i3tbvzgm9zm32d8mmhf7qjr644"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9ztKfb1ac39JB4Vk48FJjAizTmgR7tH6ftRfBALEiUQ9"
+validator_list = "ENGdSVmNsS6ehFHzZikLpwcr2fnVR2nDRmbyJ28o7NCk"
+vote_account = "5daP6pZoPSak6UEKuRg2HHjvTPpqqwB113oNamGNKuuZ"
+
+[[sanctum_lst_list]]
+mint = "sctm7BLv9U66GzZPneXREVrZTVMiaBFPxu96u7PkEZL"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8uJiH"
+symbol = "8uJiHSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "KjKcsH2NXBtQ7rMjHciv1SWppNGu5LKnBK3YWYK5RQV"
+validator_list = "EF96fLDG46kvwFEvscht4zc3t5JNAVrHgZEAAdejJNys"
+vote_account = "5sMmkL4BXjU6vZXQxE3RquH2CR8v8Zbfi1EAAFxLfxMx"
+
+[[sanctum_lst_list]]
+mint = "sctmrMyrt4gzjaYFNzAD6nBY7hSkNisQ4GmtkfaoFtu"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8tw4e"
+symbol = "8tw4eSOL"
+logo_uri = "https://i.ibb.co/HzPm66s/SBG-logo-512x512-white-clean-read.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4Nigdj2EdUmWpjf9pWAWFwMyZQVxuAyWHE6qAeViQSQ6"
+validator_list = "KfL7HGxAreSdQkAbY59mmE1PEBdpZUq2Atdt7Ymv9HD"
+vote_account = "UVxJgkAkEiu5wqpR8JkBsF6yV3CPMfPivk8nUpCDKw6"
+
+[[sanctum_lst_list]]
+mint = "sctmYPZWxgzv2bSVsff1VSq4wpvGNgsU3cxjXxEDtas"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8tjFe"
+symbol = "8tjFeSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "D2V5azKiLVJrPgTpeuc3vJ2cekmRsVFci3NwCW8xjrre"
+validator_list = "13GswioJuCy91dByCgA3dWyZYhhipiRqP6dEu697oDai"
+vote_account = "AtvnDGvf7Dd4AUA7iihx3hV8598skHejZTn2YTNV6AMF"
+
+[[sanctum_lst_list]]
+mint = "sctmmKRnpqHzzmfg2PNHpbeioVfHPjP5dn2VtrzzCaj"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8rWDb"
+symbol = "8rWDbSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8ueXMSQmXxWikQsQXUjyeALt5x9zkLsvrsZnC2WLoJz5"
+validator_list = "3TzDdJv2FyK9c3hz2qNDCNghf2TDC3azoSwyrC86wsw6"
+vote_account = "8ZfSRfAuDLV86PaKSCNfgx3AU1w6Hp8sGrEgFTkHViCt"
+
+[[sanctum_lst_list]]
+mint = "sctmoneTWTq4ESzQNNC1mVWEV1vc8Afu1Ki9ouVfkiB"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8quza"
+symbol = "8quzaSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "EanzP1UfpiaqBBKv7WNyd8t3RqVRTa7ryCtPBLXwNEsW"
+validator_list = "4Lu6qJu5CdRAQR6m1coSWFRxfFGTepedvcg92PLVxcKe"
+vote_account = "CJ1GZixWD1WzozqZMm3v9dY2xboRYZfQuuEHzawAthen"
+
+[[sanctum_lst_list]]
+mint = "sctmLGWaqK8Zvo3nevjPnN2r9PPFk1VwDc7yyQvs5bM"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8pyp3"
+symbol = "8pyp3SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "2SEj4e2X2JCzV7BmYxGjdMPZxUzSssidzumVyFqV8mh9"
+validator_list = "CZRVnBvGBX1yr9GoguAwiyUXVX7aX7LoJtWfvBRdhqjp"
+vote_account = "GB44NXtM7zGm6QnzQjzHZcRKSswkJbox8aJsKiXGbFJr"
+
+[[sanctum_lst_list]]
+mint = "sctmQo1qjrPVNVJE1sqGmyP7rexxG76dN2LvH6qL7FA"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8o5Fe"
+symbol = "8o5FeSOL"
+logo_uri = "https://iimg.su/s/16/th_nkI7l4LTGYtqPL0NfjKfQ4pTHhH9sjKzEa8LFMAZ.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7Qu5jLmnzLPN47xhn7GwF46q1Wfjxe6czWzXoKNus54z"
+validator_list = "3qNULGX6Dc3SpdQi5saP12oVEE2uNXCWXwqswHXkyTBT"
+vote_account = "7StQWSBg1tCFRqQ2GUEUn9owmZuyacUiD3xQ2djXDFpd"
+
+[[sanctum_lst_list]]
+mint = "sctmfhoxCAdbnS5MBMzSKArYqTUaXmJ9ENoK27Wwgir"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8n9KR"
+symbol = "8n9KRSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7Vn7RqdZwT76HppRFdhmEuSrbZMeEtDuF83pk6zB9Hpv"
+validator_list = "3mFfX8vz1eF2EhYEcPGmZc6BMJvG37sdqP7pKbEYaGvb"
+vote_account = "xSGajeS6niLPNiHGJBuy3nzQVUfyEAQV1yydrg74u4v"
+
+[[sanctum_lst_list]]
+mint = "sctmfMq4oPCiDpSKwGrUNQdHV9tpcNBVwHPA7L682zu"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8n4pc"
+symbol = "8n4pcSOL"
+logo_uri = "https://i.postimg.cc/HxCP6D0S/zm.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "GHkicUF4w6pxtuJicSTsfKx8vfm5Dhm2ausCG1bg6GHJ"
+validator_list = "DQzVRsmVcznLBnAxkckkpiJNwwFDG1t5L2gqpBTNpNY7"
+vote_account = "FnAPJkzf19s87sm24Qhv6bHZMZvZ43gjNUBRgjwXpD4v"
+
+[[sanctum_lst_list]]
+mint = "sctmKmVk7wojfj8K7WxZadqzvZ6p1DuNSoSn23pfJ61"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8mhdb"
+symbol = "8mhdbSOL"
+logo_uri = "https://i.ibb.co/XktG1S7/Piranha.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7CCyLo26eMfLBZnx8DquSJ2XUTzihBXbt9w7MA6bKtZF"
+validator_list = "HhUnMFi7xJQgVNNSXwcD15LPF7gJS1pz3T5K8ysktz2W"
+vote_account = "1eufsJbqNgMProke17FLSw7JrD97fYhGggrnH9zyWnG"
+
+[[sanctum_lst_list]]
+mint = "sctmvXT2mfmBzwTiWEV9KdbBXG2jDwrWD7PY9c94gto"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8kKWq"
+symbol = "8kKWqSOL"
+logo_uri = "https://i.ibb.co/WGkTYbB/logo-512.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9VtvQuYuf62MfgSr1KEaCji2cGRtVVjgCiEeaJ7NZYGS"
+validator_list = "2CxWzDrFeVnBEBeYBt7FFAvgsypf4otNsV441CqipaTb"
+vote_account = "AumDzwu4mvm8TthHRcKjCGAWMBbEutMYE3tsPqArue7g"
+
+[[sanctum_lst_list]]
+mint = "sctmqz4URW8N1bBvNSSU7AydN7ZHVwuNJmeVWCKrb3s"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8jAft"
+symbol = "8jAftSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3DdczTW8o5ee8rjYhzStJra3HAcnahFSqiTxfFf6kMna"
+validator_list = "F8cqttRnYz4cHyJWmNnA1tuUA5YrbfbYvSRCHpZvcNrJ"
+vote_account = "37Fz6yZjFdZS6DDsJSsswX5kSvunaZQtQ5zusC3y9V7S"
+
+[[sanctum_lst_list]]
+mint = "sctm3sEU2znRJ9w97JqMZFT578dXt4ewFZ137ct5uBc"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8j5kj"
+symbol = "8j5kjSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "HGuVhXc8osr4jUBoYyAmo27pq68r6ShmYSysqwyWF21b"
+validator_list = "yTrZeDzhC7Ge52E1dQeFojZxYjkFy2HgqKvQ4QepWnt"
+vote_account = "6V8U2Fkwworj6xfFukBBVHgvgcXWXo8ghghCpsYUSgZJ"
+
+[[sanctum_lst_list]]
+mint = "sctmekhpZaUaGcXWr7N1xqxArEEjjPVY5JoLv2yWeqM"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8ixYj"
+symbol = "8ixYjSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4RAXu7c6hbRrasCGctWQuGvSrTaT1xmnbvVBpWdEZQFJ"
+validator_list = "EQtVZQx1X8sbMJFrQ2aA3R4grf39AWfqRXbLLzsycgAX"
+vote_account = "Cc6B7VmLhvqoBghrPwKTkZScC1fcXB15zkSGVBM6pTSS"
+
+[[sanctum_lst_list]]
+mint = "sctm8JnxqtZbF8ZdS5MT4Zaeyi8Makf8dsLiDVPGXj7"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8iiLH"
+symbol = "8iiLHSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "AJnNSAGtqYCimEsvHW91iBbzj4spRj5ywYDnKR1Sni7w"
+validator_list = "6teJo6xG6tywU6L5Uzx3n7GfkPhGss8BZvmLR4gXE29u"
+vote_account = "HdRcSKhqD4iG91qtsFpgATit1vZCcJQgbjnZoNdHmnC5"
+
+[[sanctum_lst_list]]
+mint = "sctmyz62WH8dZiYbxTkYD22Hs32T5H5wFUJm3V6QnVF"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8hTi1"
+symbol = "8hTi1SOL"
+logo_uri = "https://i.postimg.cc/pTQd06pv/x.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CDipfRGgz7B2uwo3BKyXhwB3UbQLo6pAytzq2i1N2GZf"
+validator_list = "4ZsEb92KUnBT1Ajdt8ZYdoLkQHLJWvgdMj4sA7jiFKWe"
+vote_account = "3XDZhoRESsx9bU9rdX94qrtLL7YCxhgX3dKmXFRV2vU7"
+
+[[sanctum_lst_list]]
+mint = "sctmA6tmihMqJjBVf9MuSVp2GnU8K7ywBogTkskxaCH"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8gcMm"
+symbol = "8gcMmSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8HZ9RBgGVmSXPZTArvpLEzJnAFqShn8Q8cNCTr36HVPk"
+validator_list = "7WgVcBkrwc4dKjKo9EG4zThDh5AMfWkuMDwVVrtzdygN"
+vote_account = "LneJvrSDJGqfpbsKHPfyaxSPecBtqRHTJnwyBzG4vPC"
+
+[[sanctum_lst_list]]
+mint = "sctmz91BTTVMZ2KR9mcAtLmPp67EDZXMw4jyzKhsVp3"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8fp2i"
+symbol = "8fp2iSOL"
+logo_uri = "https://alex-s1.xyz/alex_s1.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "6RwvFsqwm1pceDEWse9L9fzgp4ToN4vGoSfgNPCuVy9"
+validator_list = "HcjQFkZUaMWWvETZGvzJPDMRUGnkTby7FvyYNPUEE6Ra"
+vote_account = "Cc7UtVq4G25VbC3w6Ccs2XL2xikjc926q1sHp8zfddoL"
+
+[[sanctum_lst_list]]
+mint = "sctmxrRyNetLRj2cmBV1vRJy24obHzMRPdYgH3cDmXL"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8ebFZ"
+symbol = "8ebFZSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "B7g3kfB3imhebvpRcgMTvMTS8EBCnYJCECGu2CbNN6zG"
+validator_list = "Fxo5ubzNhpnk34yrUPdj7TpYkJai2jSmgQFu8nNuxfMB"
+vote_account = "9tedbEYypEKXAMkHcg42rn3fXY1B8hB6cdE3ZTFouXLL"
+
+[[sanctum_lst_list]]
+mint = "sctmHzp3oVkXG1FZ1AbAgL1bvYFJdtrtgxoHYycbybm"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8cnks"
+symbol = "8cnksSOL"
+logo_uri = "https://i.ibb.co/mGsH27Q/stake-wave.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7b641iNLwLFcBt6kryhXaVgevyLnPetqStYqBTPW6vgn"
+validator_list = "DpGuSXsD6KWkQcaWJkesqMFeh5wEf27oc5RaLFXDKYZL"
+vote_account = "EjyNztuWsaiVFnEB3M6NSut6p6e8UHsUdE8BkmRLMHWp"
+
+[[sanctum_lst_list]]
+mint = "sctmVkJYg89bg3ohvw5cy1aZ4Bwrxq7kzHSs3c5Nf83"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8c9dY"
+symbol = "8c9dYSOL"
+logo_uri = "https://i.postimg.cc/4Nn26xZW/S.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "39EFULFF78fPt3Yn4pCZS4mpH5RanrdiNKHRJSkzrbsR"
+validator_list = "3Fznddj9Ru7LSubtXqc2oU2KZhmU1GZvnV1nczopdKYN"
+vote_account = "GiXx1mwSR44Tz96CaDqoadzAhZgZv7e3yZshqUwiEwwh"
+
+[[sanctum_lst_list]]
+mint = "sctm4cMnPFWbjF4cMnknzZ6aSBn7TEdePxAe36SbkT9"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8buJs"
+symbol = "8buJsSOL"
+logo_uri = "https://i.ibb.co/wsyP6mM/mazayperded.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FuAEsTCnjrWAcPjrAXsX8BsvW26wgeoGGyH19SDnUXZS"
+validator_list = "3TXhVYDtfTNJxWMJGn6CHByLoFBGLD1hh9AhYqwC74N9"
+vote_account = "B191sdbDFjEmLLNixWEfjsoxoYLbr5hnpT39KKoqgkUp"
+
+[[sanctum_lst_list]]
+mint = "sctmnmpgVWtTnBtNPmUckDRCcY5huUaZzeHPmgfsPDM"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8bYQF"
+symbol = "8bYQFSOL"
+logo_uri = "https://t.ly/3HrvU"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CsXckEk1kGFqsW743ARe2EnAdD5yyWgJj341L6E6rgx5"
+validator_list = "HAiusfZ83eXPPmGi3sXE2BpqHCPWoFUWtZRkTiJjxJsn"
+vote_account = "725My2yzg5ZUpQtpEtivLT7JmRes2gGxF3KeGCbYACDe"
+
+[[sanctum_lst_list]]
+mint = "sctm6LdUCxA8K7B1izSVTe9oSo3cJh3jQtNBcrPs6Cb"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8aySX"
+symbol = "8aySXSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4sQSDVncVbowN8LNXaqvFczLYYjZdhC8D91ai7HXpgQR"
+validator_list = "xu22nnhX9kTvCNDYeWeYHY9TvzLKbGaA42hi5RdkyjQ"
+vote_account = "A7uqmajxP3NdzbYDXiGQRGTL8d3dZ5pjS4kR9NTZcxtg"
+
+[[sanctum_lst_list]]
+mint = "sctm8gzpp63CS7EKmSEJKzWV18hRkjwLAx2ZbBQdbc6"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8augx"
+symbol = "8augxSOL"
+logo_uri = "https://i.postimg.cc/QxzSTYbT/stake-cake-icon.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "G1RVNeHTdiCWpsttVLopcm4aQmkMppj1YDNt2LCFbSow"
+validator_list = "EH9eEZjbEgk2FmyY4J5sYiJwBTWcFiJ1QAyWRRvVdkHY"
+vote_account = "o27rnqfNHPwHsRp2xPXXwWzn2q2dGxn6UD4Rt5KMU5h"
+
+[[sanctum_lst_list]]
+mint = "sctmkfejDrdXhZm7KbnUMcXRqcvoT8kJyCYHFSpXsVH"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8aqTS"
+symbol = "8aqTSSOL"
+logo_uri = "https://i.ibb.co/XsnZqyy/Sol-Scout-Space-Suit-682.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3DvXGcs1sucN8651qGEMMcLsfDDFFmkykC6RzyHo1XZa"
+validator_list = "7obiYYmQthxSoMHeDfaj3ZbMiQLbZjSFEzDm9sFgyJcz"
+vote_account = "FXNqhTvgZmPTkVCjuevHtJySegyWMBcRVmitxi8z4PzK"
+
+[[sanctum_lst_list]]
+mint = "sctmLjBEGciMH1rjgA2cHqECihKap7xkuMG3jjqdeaU"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8aPHv"
+symbol = "8aPHvSOL"
+logo_uri = "https://images.moonlet.cloud/tiexo.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4WPe5SvrD1biCZ7EN8S5Rm61u1gXkGLukMV8hFare8n1"
+validator_list = "HG42yoCadBS45VoBwwcZaEceYJ8zi5paoH78vYzmhHpy"
+vote_account = "7zKQnt19j7aZ1YjzBk6UUUdr5dGb65A36kW1TYAbB6b7"
+
+[[sanctum_lst_list]]
+mint = "sctmeKUyHUccB7Vt2KoXCaZQgPqFS8exH1GHdV7omcZ"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8a5oK"
+symbol = "8a5oKSOL"
+logo_uri = "https://race2space.xyz/lotus.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CpZLXGVScpam2ibmE5ZX4BK39HNguDFEfCouH821vMHN"
+validator_list = "G6MhDzZg68SmjHPMxQeLRDytV72tNS2khcy7UaXy27Mb"
+vote_account = "2uXoWb4tuNZ72wAdQDfGn42PzRQ2kZD2x6ZDt3urwPrv"
+
+[[sanctum_lst_list]]
+mint = "sctmwqqW7jLxbDzvZYPbjkhTta2Ty4PL8xtjPpuWoMe"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8Zh5A"
+symbol = "8Zh5ASOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3eXNgLPSf7E8Hb62nRGd6Eo3CyzhGL5MjXyqeoK6GBk4"
+validator_list = "9Uiji2knY6NypKTtewfrYPyJhoSnMkwEzhQfPeL6Kz8n"
+vote_account = "3P2Fq9v1NwtrVTnwPGj2qVdVwnSvuNovZJWGS7nRvoin"
+
+[[sanctum_lst_list]]
+mint = "sctmK3toxuWwbq9AJmMrKcifHDvhyYpb5nv5XYGXZJY"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8Yq98"
+symbol = "8Yq98SOL"
+logo_uri = "http://prime-numbers.org/moose.jpeg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "27srAb2a8zsu8eBQFotDqpHpE8x6rME4pK2UJBp1b7MW"
+validator_list = "38gCZqHzphtq29ekm9B5uKi4zpN2crAS3G9AiVYAP3EB"
+vote_account = "EGg6LTZDgV9CgpPZnpTTzmebSSyaH91cQ2eoiDxiJPvm"
+
+[[sanctum_lst_list]]
+mint = "sctmmgwyDji6Cu5aipBqgaZv8ozZZwPXtfQRFbSZHRa"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8YZpv"
+symbol = "8YZpvSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7o347GFFeDvUdXiH1HS9ZUX7Esrs7kULegjwhMXqzQjz"
+validator_list = "5oPUZ6JS2fp6TuyUXPsAKwiN9WTZEhAWAaP5vRPS3yFv"
+vote_account = "NipDoZC37aMQvv2fFq2moUyyiApQxszc7X4mvWHP2pZ"
+
+[[sanctum_lst_list]]
+mint = "sctmg7umSBc7KoNK4ZSwwPVnzDcRykbp6wf8Z51myx3"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8Y7SL"
+symbol = "8Y7SLSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "E82T9deDyvvnkPiNCUy3s4egzcH5aM6zDZq3Mc8Yobam"
+validator_list = "6ggdspr2CnaZie5N5cNFp2qkkJuFtD4qWXDrgFyXoAqC"
+vote_account = "xnYks8B2TPLRumBHQSocoXqpH6fmDxTStVQvhZNf9D5"
+
+[[sanctum_lst_list]]
+mint = "sctmX7ZQcSqyYf45kA62e9vEGQUJD35oYpvVhKqHA3R"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8WKbF"
+symbol = "8WKbFSOL"
+logo_uri = "https://raw.githubusercontent.com/12wolverine21/1/main/SolarazLogo2.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8WtJzBAUxCY6u11hYToVPGHPmeKnGWnCVwRTFJzjXjgC"
+validator_list = "6irXciDe2hrhhHUjsbyo6Gk9RkvTymPQsCeSMhZ3YQdd"
+vote_account = "A2MtELFxn9wAiUrobrZ6vsypQtGHdH3ZesEnvAogvuFZ"
+
+[[sanctum_lst_list]]
+mint = "sctmGAsLDhRQo9o2ZhkGjtM7oBvm7kUehrfcneJJWMJ"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8W5yW"
+symbol = "8W5yWSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DbPaXWNytFdytKYcqgjX2zN5JBjByNbPeE3p2QUChDTU"
+validator_list = "jPLTwgQfiRPbeMmjKLvUT7mgANPSDyE4fa9tykoGjJz"
+vote_account = "C9YVc5dBPRbmyi8tPJKnrBuVwXeULby1eGXWvUVv866a"
+
+[[sanctum_lst_list]]
+mint = "sctmmDrVC7GPbMheHzbEB4oFe7ycPiTrdW8kAi4Kxbt"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8Ua6Q"
+symbol = "8Ua6QSOL"
+logo_uri = "https://pizzapool.s3.amazonaws.com/Pizza.256.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "53azLHL26pQL3oH8T3ck8fAhGf9NJBAYWe6GLmzdwxdJ"
+validator_list = "AGuUmYMzuwiRtk15fXPpZJkDVgSefjUZzboW12mB6Ygh"
+vote_account = "77vww1KxwCCsVRFioJbV4CGwTVyeyrf3KRC9SZdbHwtc"
+
+[[sanctum_lst_list]]
+mint = "sctm97PABDoekbrSwWxnQhoVNgJP7iCu2PDVnVGuoFp"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8U1oT"
+symbol = "8U1oTSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4UXnfvvTrSFmbXw5fn9q3cjKPTZttjQBtA48Qb2i7tnq"
+validator_list = "5YTEEZLGrZwtJnvexoziyQzz6ne9mxBNFbkN9Dn6fDH9"
+vote_account = "GC8W2uHZ9UyrmgoDGsuFt322L18cRhsbKxWiZ579aLM6"
+
+[[sanctum_lst_list]]
+mint = "sctmT4VMexF8vWSNcMJKqfY1Fhff9sdn7vP9UWw2Cak"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8TmL4"
+symbol = "8TmL4SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "AJqCegD52d19jUS87oecNs8qyTZT4DNVKzgpYDNtLYKG"
+validator_list = "HcLVN4puF3H3cG2FFKooBxcRRsAdQSZiW3eWKepz7x36"
+vote_account = "FqhGYvSrTwEnJv4VHJZx1oEtd5fewYcdi2CPsbKnSYhy"
+
+[[sanctum_lst_list]]
+mint = "sctmKsGiycd3nzAKTXSknPy4Erhyxi5VYdU2X8xwzib"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8SoTW"
+symbol = "8SoTWSOL"
+logo_uri = "https://img1.wsimg.com/isteam/ip/b40154cc-bd9a-4498-986f-dd22050dbeb6/mp.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3upNykGgaxAg8wy1TsxpkjdEBRXjYbmMS7J2LzryWo65"
+validator_list = "3QB8ZMYy9APpKEbu3MR7wStLT7uxYqns36EUCHuMN9Ds"
+vote_account = "mnde2ZW5LdekuDB9ywYsKeZvpNUqRXACnGks8d6TShC"
+
+[[sanctum_lst_list]]
+mint = "sctmWNpB8FSReYWxtd5yR9FrQNGHWRSndU97P2Mrjrq"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8S1VX"
+symbol = "8S1VXSOL"
+logo_uri = "https://raw.githubusercontent.com/Pavel7972308/my-images/refs/heads/main/t.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "5g2hEEwCKn6fDUx9g4fpNqEGBXtAgD2mcjbdP36hSpQC"
+validator_list = "DZDrV83AJFn3gSWmQASdeukjvYmt3h73SBhv9Fs8or49"
+vote_account = "DggvF7asrbjrqvcvPPRKovy3VVvjCgvc2GnWVusxq2MP"
+
+[[sanctum_lst_list]]
+mint = "sctmvwyhBgbtMYStJSx1nbFy6JM5c5sHKmgXQALZtyA"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8RsF3"
+symbol = "8RsF3SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "HtErCpBohU2m9qyX2HAGArzPWS6zhwQHQ19z5ZnmHcHD"
+validator_list = "7ipqMbSbfbRoCvtDw7S98eYHr4xSLonpVWQn7rm3L9x9"
+vote_account = "HE1zd4TpbDuKzg6cqbk91XjSZELL7F33eqDinxj5hLfG"
+
+[[sanctum_lst_list]]
+mint = "sctm1Vb1A5WUTQT8uBynq31VcHs59ceeNBUrNdaKaML"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8RXYL"
+symbol = "8RXYLSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "46hXefzqEEBtMbm5dvuaNjpMaNAf9VUvNSP6B2YHF8T8"
+validator_list = "DvcckEVo2P34GfvkxfsrdpGZb5iH5sYmLV15zhngGubV"
+vote_account = "AAfutJ61CwSB4Y1t5iBPVRRaq33nCDEot4WxbdQ6Bahn"
+
+[[sanctum_lst_list]]
+mint = "sctm576N53dnkfMG4wQeG66fiK9aJQqwsSSaeZF5iBF"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8QQn2"
+symbol = "8QQn2SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "HFW1go1BguWizcsQ55foRSi1ffydBEfLYR6NxpHM3tbd"
+validator_list = "4w2ijFn9HzSQotZG7WW1vW9LTEYFXgDbA9rJ6SdyXaiY"
+vote_account = "GQ8DSRSNCFGEdCEwc6em1ma18qSPc5cXCSDnSPSznWBP"
+
+[[sanctum_lst_list]]
+mint = "sctmWsa7zn5wgiXap4Nv1W7VfKdUD5wrKb8Pgzh1452"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8Q7K2"
+symbol = "8Q7K2SOL"
+logo_uri = "https://oharanodes.com/img/logo.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FUUuf45WiJJqEMpToZrSaEVr5ahw6PMQ8GSh1TzX5vsw"
+validator_list = "8pnM6iFoBD8DEGetmVSMymFwMMpUfspzDfKdJ2nEFSJC"
+vote_account = "3zEbnWKibg574DaGC1EA3zLNwBK6MGQxEySUgQWKBaYV"
+
+[[sanctum_lst_list]]
+mint = "sctmLE8YwNXRkKXrGGbb7XdAWb3VD6Vz7eVqUsu65iu"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8MZFW"
+symbol = "8MZFWSOL"
+logo_uri = "https://storage.yandexcloud.net/storagekim/log0.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CAvZt92hkYtvs8LSCEieUQFomGFNPqwhDhfs9XGvLWLa"
+validator_list = "8ZADxAkkQAhLbEw82UcQi4tke1Fjmv7mv71qTiBL9fDt"
+vote_account = "DSRnpPkLWLA5V2TZo3AJwe2eGfkZ4ZaCwRf2v7e4aXg7"
+
+[[sanctum_lst_list]]
+mint = "sctm2GaYLuMwQqbh5LhiCty9yNMXtcA8KE5EpJzCCQk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8M2DJ"
+symbol = "8M2DJSOL"
+logo_uri = "https://i.ibb.co/84bsTSf/1.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4wNjbybz1ZpLgD59rBbDfgPqoJwiVptVcwx5bskNGjH2"
+validator_list = "4UoyxCVdwVwJJJiwzY5RNqNZegT4VPkb6mHMfDZMYnVf"
+vote_account = "EQahA1H9zQDGTHzt5uGq1YXoiFSaYU8WxjtfCCGjUAv1"
+
+[[sanctum_lst_list]]
+mint = "sctmD4cxD1iHJkTN6s1iLoLaR8D8o8QfH1ZzARhim6Z"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8KtF9"
+symbol = "8KtF9SOL"
+logo_uri = "https://hopik.ru/solana-validator-info/1.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3cVZoCt8tZgijsKj9ZR12mCPFR57z9Spj3rBJBeT7Bar"
+validator_list = "5kGVEppkJrgxVU2eJxWSV7xtypsqDhF9i2FsJUvUpCFc"
+vote_account = "8Bsn6atd2NRbtRvkotzM8aLa8PXWv56SQF6bum2advGF"
+
+[[sanctum_lst_list]]
+mint = "sctmYGW5p4MdHRUf3qXjqzGap9Yb6xgpUeWYcMwHnK1"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8Jpfp"
+symbol = "8JpfpSOL"
+logo_uri = "https://i.ibb.co/LY9FThM/ARCHER.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7pTisuHyvJF52PSzQE99GkAbcFj1WxbHPrvgDfUACP7s"
+validator_list = "ENKDzth9eTaUzr2wqnTjYPpxqVfeSHziMDn8xCNG3Y6H"
+vote_account = "DUCKsGEPEdNv9QeskPNwoJdWgAXjxUFrkNDEKjAnLWyY"
+
+[[sanctum_lst_list]]
+mint = "sctmgeADSWmteryQBGoYVLicoLTcTwk5be6dQXPqjwk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8Gr59"
+symbol = "8Gr59SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "H463uE5c9EH4PrGJqQ1yNYDTaMSgrVTfYa4tDiq5pUSe"
+validator_list = "HLsinrFNAUMRgzSSukCGzD4bJzQMpTt636g9uh9T5pzc"
+vote_account = "9w3YAf77BSGLQXahTpwAe9U9mNdCXkqmxH17uCyN1wyH"
+
+[[sanctum_lst_list]]
+mint = "sctmbZQT2hFN8sZgfS8QMJV15LPEiL4aHJQdKM4ukZV"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8Go6m"
+symbol = "8Go6mSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FuCBoHtmSbHGWnBW9oSLtNYQ4VCpkvJ8g3hw3cDTeoJM"
+validator_list = "DvpaGbFgbtW3hJBPEpJLqnQ6B2g6eHYHN3aUQ9gw1yh3"
+vote_account = "6FMaXpe2KWDeqzKVuKBAJRgG79zARSLsFkwYyKrij4vX"
+
+[[sanctum_lst_list]]
+mint = "sctmP1p4DpzHCBuXWB7gFe4YsQj6m3z7XrEvZfztSnV"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8GLRb"
+symbol = "8GLRbSOL"
+logo_uri = "https://github.com/syncnode-srl/syncnode/blob/master/logo2.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7sfg2h7S7sMEeMs5FBb54KH11TeviJZPRLjTQwrzfsKy"
+validator_list = "FgboCD3jfrYhexoywYxa12QAsT98ADFL9Yk81hzGJVfL"
+vote_account = "7PmWxxiTneGteGxEYvzj5pGDVMQ4nuN9DfUypEXmaA8o"
+
+[[sanctum_lst_list]]
+mint = "sctmSqTMXXnmGFFyEXAXuJqu7Hz6iXSV9vRTBWS1kzp"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8Ey5F"
+symbol = "8Ey5FSOL"
+logo_uri = "https://i.imgur.com/7LLiNz8.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3Vyq15FSbJF3trDWTCgUnqokiYrsSabiP3WtYig7Cr6e"
+validator_list = "4sjZZg4uPcSen5aDM7T38A6eiB9dvdwhZFa4GMuPxdDT"
+vote_account = "2YnL16L174Tj8awY9FfRfR5odpGNEbLnx3dM6CRt9L81"
+
+[[sanctum_lst_list]]
+mint = "sctmJvndvaB1481dUZzw1SDSZNvhWjRHtDNq85Xx4Vz"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 8AkVj"
+symbol = "8AkVjSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4RMiXXczDFsPgRDh7EWHvrk2LxyjgN1yBpugYVcZuL7P"
+validator_list = "5xBabjGodM75v7ZQ2MtyX46vTj32ngGNqaUzt8yPmPEV"
+vote_account = "CV7uvPY1Hk5Avb2NvkGJoUzGnipZrEZK27j5rQJoUae9"
+
+[[sanctum_lst_list]]
+mint = "sctmwfpEGiUGrrqdDtfrvAAiqr1n3qWjS5XsnAA5Asc"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 88K3v"
+symbol = "88K3vSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "28HLCeP96S3Apgekng5bdDaHeHPU5A4XbEE41qwm4sY1"
+validator_list = "GahZiscag7W8hg5YagLy5bMQska3WVzqEE6b2bmzYC4y"
+vote_account = "EbWmbjxUrq8uifB4gCJLaxv7joYmsXL4qVpX26xYMFBh"
+
+[[sanctum_lst_list]]
+mint = "sctmoG18zx7aW93b1pA6ccSwRL2pnv4BnLN9HJMaoUg"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 87sZB"
+symbol = "87sZBSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DBYVAiFpVGT9oaAntazSNHwpkxu2zPTCGSeGuH2MTZvF"
+validator_list = "D7MoWFxoPwXWmayyFWxbR4URTPZ5Rku2rzpw3PH1GhYn"
+vote_account = "jKDESr1NRt5frYqhBfBZdEJezXfuWifjfTaTWRZFvW3"
+
+[[sanctum_lst_list]]
+mint = "sctmM1KtkCFxEs1zrUsRhR1BKQQLYJ2sT5inC8mcTZB"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 87fX6"
+symbol = "87fX6SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "BvZ8es3L6ejWrrr5bUnkUPX2vjpPxjZenYSxhydoQbtq"
+validator_list = "92HrBsRnz86bTJXzJYUc33eUjapgSD1DxrkZxSPrTLZb"
+vote_account = "4GAmUQ8FvKcTzeYGqxu2oSBMStYNwDTmBo7LC1Csg6SE"
+
+[[sanctum_lst_list]]
+mint = "sctmkBKY4PbCZ46hvuXpvBVDhPHZo8potpiXuyfPJxC"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 87aa8"
+symbol = "87aa8SOL"
+logo_uri = "https://monkeykingdom.s3.us-west-2.amazonaws.com/icon.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CtNS1yGK4DMTtFKx6yKCbdFW2WJQH4byUKsEcjhpgyYw"
+validator_list = "8FhQRASf3uTHuZBZ4aFmkjaVzkA8D3bbeP4XBmyTstTt"
+vote_account = "62AZkVfjLRXmNtW3guA2nsXv7MmzQsCWmscwkFzwts1k"
+
+[[sanctum_lst_list]]
+mint = "sctmbZYRAPoGQGrxuDCSoKx8PRKXQ6NDpEf4uJVJK3i"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 86ajw"
+symbol = "86ajwSOL"
+logo_uri = "https://cybersol.xyz/logo.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "2DxWWjQgfYFakhiFVXNqv7vYSMBtfn4Yf32Tn2mjQCYE"
+validator_list = "AFSRjb4hxVvnQ6j3TGy7suDyHEWvfnQBby3UHw3Y9Jco"
+vote_account = "8N4nic4yCUbHf82FCJfM51XjRDhhFA6C2ghiPfZLjAkL"
+
+[[sanctum_lst_list]]
+mint = "sctmMfreSZNqryw6TKBX8ygtcQQwcwcWn6U9WqcEgg8"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 85yWe"
+symbol = "85yWeSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "EhjLE4qB1LuBFbKqARQLT42GpCgdAPf1wPxHjxPbJPKC"
+validator_list = "5sFGwgNvkKdxe9tcwJSFunvSCtBceve6BhyMCKyT5KXV"
+vote_account = "9yn8kRqgtYsAV5Pg2YTmu3PCmnm4yXFE3cRGZ2G6WFho"
+
+[[sanctum_lst_list]]
+mint = "sctmAKHktfHAhkiRuP6Dtxm2RWBmhfCFqUDuyALrh4T"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 85YBD"
+symbol = "85YBDSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9rBWc961RehAeAoMTgcia38wWm6tEXUGuMsWEk9mwsUK"
+validator_list = "DqEA2Nkw2PD2TW2rThJm1zsaS5oLZHYeeTD4Ckjv8ZXq"
+vote_account = "8XPteKmVNkkAwESc7b68BLKLLfHfBwKrag9jk2JnotqM"
+
+[[sanctum_lst_list]]
+mint = "sctmphDWQkrRZAYwgBXy2odQsnngnWGCeirG8rwoiZk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 84Za5"
+symbol = "84Za5SOL"
+logo_uri = "https://i.ibb.co/jWRRcTJ/notapotato.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7qLJ5aVG4autxXXjU52GRUM3Pg579v19rhoBCSQDRjpz"
+validator_list = "68fnLJWnyFuRRuCC4GQ3Ua2e88Gnc8QjHFRTyxW5daqi"
+vote_account = "9KCBBdzx4cGZg14YaqBuZd1tGUvo9ohYnW7KEqQes1E1"
+
+[[sanctum_lst_list]]
+mint = "sctmNW8dFyz1HnWJZnNzJpWnXays1h64Uzo8n9mstG1"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 82vuc"
+symbol = "82vucSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "AP1NUrS3KV2GcRkaYLWT4Zk5aiBs28vfp97tP8SDzFvr"
+validator_list = "w77hLNEm21DkPzPTLhZrpfexeUtgJTVpcqGnnAuZXAg"
+vote_account = "DLKjd8DJc9NajCaHPeQL6BnhPi3a4BZm7zCdVF3MzDRZ"
+
+[[sanctum_lst_list]]
+mint = "sctmJcYh8Krd6XpgWTok8v8u8TWmY6pdLxUEbrXtySg"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7zrq7"
+symbol = "7zrq7SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4a6oxMnZCg8Ujjm5uWDmHniNZ7aj8nvScGkkCjpvkYJm"
+validator_list = "DVprePaax8bgf63onwfmN9AdRUsQn4sdEefrMkFgTraX"
+vote_account = "3w5guZWHiP1A1gSnhksgtTXejAYUnTQqWvXWd9BfSdUL"
+
+[[sanctum_lst_list]]
+mint = "sctmpBQCYK6DMYs5jgGN3bZjRQRNdY1qAqSt7LtGk2F"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7zAHb"
+symbol = "7zAHbSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "29EQtjBu6cehC4sggZUR9WWonuFkrJy9WqHeicevNHk3"
+validator_list = "Bt8q4DNLD6fKzpNx1WFMLGsfgAYwTL1jyuKMQSJqwE8M"
+vote_account = "FXRu5NA4ouLGFuZNNWZFwwnvQz9zE7JCX3D23RJTc2NU"
+
+[[sanctum_lst_list]]
+mint = "sctmKtQWJHRDdvek95ug8quThK7q7oiiSuaooip4uss"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7yUBt"
+symbol = "7yUBtSOL"
+logo_uri = "https://stakingmev.com/wp-content/uploads/2024/09/stakingmev.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "41oYAdpVaAqFacjLyQYDE2b2RjfhXgFQbf92ehBxsBdn"
+validator_list = "2tMtDaKw7DwzvDYLsBVL3PmjUmJkyxjPLXAosMFR75Vy"
+vote_account = "H4UcftxDC72MW4WYcXuyYmfSQMo9hDXpkGBxycBMVbEi"
+
+[[sanctum_lst_list]]
+mint = "sctmybZ7hz2m2iGUrTqeedEcbk2ssGQLnxBQ55GXzcB"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7v9hr"
+symbol = "7v9hrSOL"
+logo_uri = "https://i.postimg.cc/hjP84Z4q/logo-1.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FR1pxx4tuKHGQtFwfjnwDBgm19KHqTwJULxPJZxbC9h7"
+validator_list = "4aVUPHRP7trPfKSfFZ7aLfa3qF64D1AiAULdvcLPNUjz"
+vote_account = "6thJCXmoS2EEgKxiub4ekWysjKWPDc5kAtuMgSui694H"
+
+[[sanctum_lst_list]]
+mint = "sctmFSdmu1z5p2qGtyZTxZ69hdtwshiURrcbsCNWu6e"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7tUdS"
+symbol = "7tUdSSOL"
+logo_uri = "https://i.ibb.co/dBjFDxf/image.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "J3st4jjDvHddQ17xMRkfffHZAqYmbXaTRzVGNFG43omv"
+validator_list = "5Jwcd2JFU3UBTdcR9VHBwr22TBPYotaSNaLFmjMkQpDa"
+vote_account = "D7rALJCR3KUMhTwtmjvk4ursBLbDNvAVRf2FwdQtbVF9"
+
+[[sanctum_lst_list]]
+mint = "sctmkpT4HF1o98KCAifd9MqLhmevngw5jcuH6M5mCJM"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7rJbC"
+symbol = "7rJbCSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "AnY92EGqkmTijZCPLJvdUAxbnFkd31c9Hg45TDAdNQsj"
+validator_list = "47USaXa7BpHtmfDcvtAV6vVGPg4Dg6SRNbsjPtBLSU1j"
+vote_account = "C9t4MQD7GGidZvdy9AV8Nwmnoou1jZEa7ZsEZnw5BncX"
+
+[[sanctum_lst_list]]
+mint = "sctmwNvctQnwt6x4jPwZGtoP9DW5WyscdFfcPJorDYy"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7qhVd"
+symbol = "7qhVdSOL"
+logo_uri = "https://ibb.co/dbZpHzw"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8TknEt5278yVWunbnmF5rQjmbRsCGJkoStC4DJYYL24t"
+validator_list = "HdttLfdqaY3SkYgxXsQkEWgSTRgfSNzs6nZE2P86YwpX"
+vote_account = "6bb3VS1Mx1UBEiyFbrdh4QeB4FRVCBwreL3C9mWvKWiH"
+
+[[sanctum_lst_list]]
+mint = "sctmPRVwDCdmUD9mABcu8MBMpWLC7pQbDFBthXHXLaC"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7qGNn"
+symbol = "7qGNnSOL"
+logo_uri = "https://drive.google.com/uc?export=download&id=1cM1qs_zOK8n6E9ypg4BNUZNVPXahBZl2"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CWFATNgcoWnvDE68XtbhWNk7WNKRwnSv43dVVTZeo2Se"
+validator_list = "6wHRLYV6i1JqTYzJLESR2Zf3x5Pifg5SpN2MDxuv7ZCA"
+vote_account = "JEJzKYzyYJJjtn6Yb1P7r6YV75TdSNmmJT49sgDoHvmk"
+
+[[sanctum_lst_list]]
+mint = "sctmTgSqXz1uMPu8ViaE71EQXwNRZTkeL8w1Ch8X5Ai"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7pR7t"
+symbol = "7pR7tSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CUUUsUMXoTkY1T1m4MyG62Q3zAhVqQh9fsA6ZeSu6rVf"
+validator_list = "1iHMUseMPdbeP8AftJrWKPTWWt75rJXkCBf5JjzpmQr"
+vote_account = "59k9CiZ7L1bpEivLrAtaMPMgw18syZ4RQsJUo3hbbj8x"
+
+[[sanctum_lst_list]]
+mint = "sctmfnpdFmiG3t2VinHTLYakA2qYY1FEakdJ7HPu67T"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7nngV"
+symbol = "7nngVSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "BZZPSS4drfXfUfrNhdNC8iw7yq1FfrVBsAG9ituKG6G2"
+validator_list = "DTnXC8mBc4Sep8zdbAnzbeVuLbV6tybaJCWj9wUNHEkW"
+vote_account = "BbEcnQJRYUpnABxwQeHK2DQ9yCEdMAfJFxzZeNM4e4vS"
+
+[[sanctum_lst_list]]
+mint = "sctmpnYAf8jE5xkvC54azu5TRUHpCQfrqGgRbz7EBaU"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7mcgH"
+symbol = "7mcgHSOL"
+logo_uri = "https://p2pstaking.org/wp-content/uploads/p2pstaking.webp"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "V3FZxMKsXXfAv8oqsybAPVoHxYRjRC1BF2zUBwZ4ceG"
+validator_list = "FtWFTJvXsfPaUCVYUuUXjDU6f6WTG8Z61iqA2iuWBoAr"
+vote_account = "5cXLZKeTuRm95ng96K2qCdxB2kSU1ajW291HmEkNpXkM"
+
+[[sanctum_lst_list]]
+mint = "sctmUXJRdT4aqBStAzykjQpqndTss5MiDrnuyhakn1j"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7mYeu"
+symbol = "7mYeuSOL"
+logo_uri = "https://storage.googleapis.com/rio_testnet/u410-square-black.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "HU7cNoGTKBeVEXAkw3yoEDf1ZqXsNt4PMW8HqnLod4CM"
+validator_list = "F9V6LcozFvpbMNmhgNgJChKhAMrg5g5MwpbcrYZJRyEe"
+vote_account = "EwsDhgfbT6H4FRC7AHdhXNBxfBSbWCbDfknrw6g5Dph6"
+
+[[sanctum_lst_list]]
+mint = "sctm54gpkpijTCxurETZTgCt7yfFLhxHULHuMmnKasa"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7mF8N"
+symbol = "7mF8NSOL"
+logo_uri = "https://www.meria.com/images/meria/branding/icon-logo-orange.svg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3i2nFm8uwuCqshUfYFhmtQE5p2pAzk6xpddK8zo1TwjW"
+validator_list = "74cyRXE9crzueQXeekNy7AjXWMRmhzSJkHg5jo2WP9Vs"
+vote_account = "H2tJNyMHnRF6ahCQLQ1sSycM4FGchymuzyYzUqKEuydk"
+
+[[sanctum_lst_list]]
+mint = "sctmKReQ8CZRcRMnXZFyqWe6An6Vk1Ze1tdh7DXAiPB"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7kwZc"
+symbol = "7kwZcSOL"
+logo_uri = "https://i.ibb.co/mc2Tvvy/kitty.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DeB8TuNe3UtAiUR92q37R1ci13XMM1sFLn42egdqKMHh"
+validator_list = "Ac9TY3k6mhAyFRR8mPtfBM8Fgokb2svao7sNNp9uvMwb"
+vote_account = "4k4op6epymSYQkuJoX31azW2bdXh3exmEsj7wLCRKaPB"
+
+[[sanctum_lst_list]]
+mint = "sctmPRkMNJNEk6HgSPVCZQCRHD8tzXLEVvp61uScb4a"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7knvB"
+symbol = "7knvBSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "5gedLExn9Ty5jnGYXzMCnX56S6t623YJThjMnofW8iRS"
+validator_list = "2MzPfV2rGVwSVA86k949TWYWG5CJagdiTgwYny5pStdt"
+vote_account = "D4mLBafAJjpRABT5Tyj6UhuwJ8DLRk74JzyuTMUdU9Fz"
+
+[[sanctum_lst_list]]
+mint = "sctmkDwxDijfaG8LCKADLucYg8oPcKCEExXkR9QLZK5"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7iKjb"
+symbol = "7iKjbSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "F7JY817FRbiJirhWdjwR1ZHv6vziv79im8gzBq6NehFf"
+validator_list = "AWXYyh97kj9XuKuCipqyqKPHALbGG6eX2d7kn9JYpMNm"
+vote_account = "EFeLsLsrLhGqy7LSdws4sKvinvCohBBAda2q4iHBrrss"
+
+[[sanctum_lst_list]]
+mint = "sctmPM8d9aRjqpUsvxe9JR3jRFLvryfHBTi25XtJYKm"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7htu6"
+symbol = "7htu6SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "B6Jkose3qvNR7nkLipibnHtPqLB74u8woddHd95H4hYA"
+validator_list = "4SLpa8gSXLrMTRfpgnXjkc1GuzyifjfjW8NFDqqTZa1c"
+vote_account = "DimavhUqvCpWjUZqSFZGLqBiUVUYQ5jZEaCHutKKVs45"
+
+[[sanctum_lst_list]]
+mint = "sctmhuajPvqSQE5cSdULXuDLDYCNdSSwJUa1oTHHMnj"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7hnfZ"
+symbol = "7hnfZSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "HFX7iyc5oQZ2A75M6xbYLtKdcC3wUjgZsnUPc8qboAfF"
+validator_list = "HGzcyv2LX1sFx6UqEcRMusPKB4WozSvbZMXrcQvdWNr8"
+vote_account = "8PMeDKfxUKv4KJBBQJYPmfyZfoYYnMju6fnokRR9uT2w"
+
+[[sanctum_lst_list]]
+mint = "sctmGNvRmnDJx2unkEoL2R8Cspu1Y2bdG61Tkyy3odq"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7hMD4"
+symbol = "7hMD4SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "J3bfmDbzqQ38wKwKzYDG4pD3Qn8D8AitEwPG5MWUeDnD"
+validator_list = "2fkCDavjfQ2rqGDBFGaDN2Hyk1gZaoPudQkAXznAfFgM"
+vote_account = "C9pfCHG1zx5fTtmbsFwLG6yFoztyUVXoCmirUcCe2dt7"
+
+[[sanctum_lst_list]]
+mint = "sctmQLZ2w3rn6Qu3bRy65pJEwZawU4ZRgpZZn9oGYz8"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7ek3C"
+symbol = "7ek3CSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "GbwEftJimr4TkkhxmhFGCizSTQbe7eVuJMmtMyo6guHf"
+validator_list = "51M8fG1YU8SNas8hK2Mod8m9nTeaty8v8JwavNvhSx2j"
+vote_account = "8vqRKnHH77FdrBxSDR9KozJE98R1ETUJCSrFYqoYmbKh"
+
+[[sanctum_lst_list]]
+mint = "sctmtYKhtZfLVrJLxekA4KEPZR2dfFF54JgnTc32Bpe"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7cvpk"
+symbol = "7cvpkSOL"
+logo_uri = "https://stakesol.web.app/ss.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7mKJdoif89MDQdTx9MBd13T86WuuVKxN8zmYWdccoUs7"
+validator_list = "4c5J7wxh48VHwUBrKedgNyDc44uU9CYa9Wc5mSPnWUCq"
+vote_account = "H5oqciP46Ls3mJZu334niaKMcVWjsC7JKULLCZHxT8hr"
+
+[[sanctum_lst_list]]
+mint = "sctmaVGRdDa1zz8wxw5qXHHxhEqWVgnrRvHCnRGQ5wq"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7cVfg"
+symbol = "7cVfgSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3nSZ5mpnbibDf1FQMrJbVLKHxafjBfnCGrrszQs97bcA"
+validator_list = "Lp1nf2c9eLdo1HUaYCNqmzZwTHkWj6miQfQw1vwc5Fp"
+vote_account = "FQwewNXahV7MiZcLpY6p1xhUs2acVGQ3U5Xxc7FzV571"
+
+[[sanctum_lst_list]]
+mint = "sctmJ3ifzWdn3Skp3yVgt3WDfwkBiV1L662qx2HfxJo"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7cJB4"
+symbol = "7cJB4SOL"
+logo_uri = "https://i.ibb.co/XV47VsG/glory1.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8mZU9bnmo9NyYMn1m3DNhgiY2vKSPSuaNFHQw9uJJXVP"
+validator_list = "3PdbR4BvMzQkX2wBMPkbhw3tWikr4xGYEqPVdK2x5z65"
+vote_account = "9Lp7PzvKVMhjqyQfJwxyha5P6thNWMmVDuVVyqqSaK7b"
+
+[[sanctum_lst_list]]
+mint = "sctmqc9xSb83WQMMqpWdE5MwrsE2Ukjqnue7XYarQk5"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7b7Vu"
+symbol = "7b7VuSOL"
+logo_uri = "https://i2.paste.pics/da10f328057c42a68b32168c09b93589.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FD7Y4xtdd4CvQMfDaZ5zcqNbSoj3YFU7LFd318aA9AAE"
+validator_list = "9GgUwkCevc6xgAKY7kZPLBsqyZHvS5CAaPfApPbWQqs5"
+vote_account = "BG43US2rrtZggEPtXuVnabwp9FbKCuyZDASvJ1EsNAHF"
+
+[[sanctum_lst_list]]
+mint = "sctm7YKuwPrBBw3X4qtyWCFE2YHWQCbZa2j411NnDcC"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7aR6A"
+symbol = "7aR6ASOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "2kpYvWutSqPq8z8ohyASSx7wsVz8uhaLYbUPc3PQs3BQ"
+validator_list = "Bziy6CQDCpW8sjykckm4zZc9KydouGjzmP44poQ3Qe48"
+vote_account = "B1UaJwhZ9rmB6rUwCikMCkYEPVgpGYgmmrKqfAHCZanw"
+
+[[sanctum_lst_list]]
+mint = "sctm3kzegMDktCfQB1sEjbgPNACrTigcKPJK9678VD2"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7aL9c"
+symbol = "7aL9cSOL"
+logo_uri = "https://i.ibb.co/xGfhNRw/htwtech.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "6Tm6d3ocaHVctPL7scnNr1AFEomHqv7xnEt2bU5twPJs"
+validator_list = "CRYD7oTGM46wqhj9ENdAzjedQXTBED12UxPdiv6Boa4a"
+vote_account = "FKSXgi9YVuMwUzc4miWhFnJPMTbjJ53XMFgyoCZCo8c"
+
+[[sanctum_lst_list]]
+mint = "sctmAQg2tKVHSXNexcsJ4wQJScComc6JsQibxYZC6od"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7Zm1p"
+symbol = "7Zm1pSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4xahzYBrrrGXjg22cXRBN5uQP5nMtkarfFqH9rTkz9uN"
+validator_list = "DYv5ce6mbrn3obBpB78nNWSFTgC2Ftny8C2YUGiCWLzx"
+vote_account = "XzMLju7T6BSSngmsPogeuryd6uswiimkPU87gB2chho"
+
+[[sanctum_lst_list]]
+mint = "sctmAna7GEP3zfNYzurnaRAv4cfRqz7W1a8XDpMiBiF"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7ZSVb"
+symbol = "7ZSVbSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8u8wq3gyCvwM1gh6U4pG51UYwQScwbd8L2mw9oTXJTfa"
+validator_list = "2AGeUw1XXqehAW6MGKVHhJNh8iLt7ghG6s7igvTKu91r"
+vote_account = "CviQXDMPZPVAZ5qgVGN2gSBSD9GqqwRt7VZidoHMpArr"
+
+[[sanctum_lst_list]]
+mint = "sctmPZRm37C7WgzptcDVyaJBGihVSGARfbJ3DgaSfZe"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7XCbY"
+symbol = "7XCbYSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "G3XFkjHZU2GR27hpUqktn8JakkSm9i4bUHfj7jyeRvLa"
+validator_list = "H27HWL7Ru3a1GyiL7sgSLHPy6y2HKzccGXdgVNnDG8V8"
+vote_account = "AUTnPgB8m6qsctP9RRAcmnVrLSpZbBYB8nQAzYUN5j8q"
+
+[[sanctum_lst_list]]
+mint = "sctmBzHNzm2dVpQ8aSh3mWJG8yQQaLeK9htJULVwtmT"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7X1kg"
+symbol = "7X1kgSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "BVQFArbBrYuiTC6qmEUpGagZ8PwqtDCdRN4V6zdkeA5Y"
+validator_list = "FdmV6cR5zqFuVqAc3oZPV9DgbtYr3xENSpUcUz9eEkmX"
+vote_account = "5TkFPZf79rezPXzCTP6DjH4NLb7Hw3jRsAme1fv431oz"
+
+[[sanctum_lst_list]]
+mint = "sctmLCXvwRm9gGqQddaoygkivz52hKvwLTqXBYArYwE"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7VZM7"
+symbol = "7VZM7SOL"
+logo_uri = "https://www.blocksize.info/wp-content/uploads/2024/12/Blocksize_Icon.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Aiih6VUWrjfe1sqRQ1LT6ULiJAebXm9FD9ZwYRDD7XUf"
+validator_list = "4DwEsaBqxv6kbLtaxUvZRTfxw7eMo2wkVXz5vLfQUrsh"
+vote_account = "HMk1qny4fvMnajErxjXG5kT89JKV4cx1PKa9zhQBF9ib"
+
+[[sanctum_lst_list]]
+mint = "sctm3YjVNRpWt76mYMaatBvrS3gRPU5vErL1Xq95qEF"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7VAxh"
+symbol = "7VAxhSOL"
+logo_uri = "https://i.postimg.cc/nh9mRb2P/photo-2024-08-28-11-40-42.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "BymMnDzMN38oHuX8BiuCias48gnqvsEcQ4ByLbbAQmRr"
+validator_list = "914PAEKDkKByVctUkQLF5zfKdbCtMHUgqJbt5BxufKAt"
+vote_account = "Cn9bZCGSYN57GsTfJ5YLCy8HMejHZqrBQkv99eusJtEH"
+
+[[sanctum_lst_list]]
+mint = "sctmnTF4rHiSgZb4xnVhuwjfKPRQugZteFdojENRcYW"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7V9we"
+symbol = "7V9weSOL"
+logo_uri = "https://ibb.co/mBgkb4b"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "76KB1qR78gyiNbYqaQSnq6RHsbThD5XkhFFPmWzqp6n2"
+validator_list = "9r1hkDGDBnj87todfstEgtpEtV8XuZ2LJdxgyABdbwwW"
+vote_account = "CxH3t2tDrTRAoxLceM55SPyENDh4bi2Bwqk7wNGsRNAC"
+
+[[sanctum_lst_list]]
+mint = "sctmXpxCzeQSk7bNrgqbj3DvQdYJqCR2uAnMnYZb48Q"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7U68W"
+symbol = "7U68WSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "JDhiQKNLex6DKFVKDsSimXoFUCpyzRDmYRm581dQmE6a"
+validator_list = "2MkqkyETQYGjQcXausAZtzAAag2GrtnFBbVCHUgDVnVg"
+vote_account = "3pBPy27F1Wz3iVydZnGkdvefStrFm8UMCDakYZii8AUZ"
+
+[[sanctum_lst_list]]
+mint = "sctmkHvtbhpXgkdpmdY7LDXMAPvJitcWhb1kwmVW6xq"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7Ttbo"
+symbol = "7TtboSOL"
+logo_uri = "https://i.postimg.cc/nh9mRb2P/photo-2024-08-28-11-40-42.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "479RtoCvbHs4MND55cvykrvrgvSB1dJ2EUv6wjYPd85F"
+validator_list = "7hYfvTyDt8ztggtAB5MmPcYpcwEZKud7Y3rXpv1ob8LY"
+vote_account = "4v2os15BGgAnqiy76YvPmAywp5xKh9jfBPfnQGzUVc9c"
+
+[[sanctum_lst_list]]
+mint = "sctmCQ4BZa6AYHvUVyQoUJ4pryyz2uK5z4TmP6PDpVP"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7TYbd"
+symbol = "7TYbdSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3QS9D3mTy2Y7cYRAjCRViWFVM1fRmqEg1UHNpLr8jkTY"
+validator_list = "8pmWiJ8aTxdUQ7ok2N5qU5KgnCWC3kjdwvAwMeWeAj5z"
+vote_account = "7YCDRyGNn8g3WgZg25JLB9wKuERMkj99AFc8zHAQVwSt"
+
+[[sanctum_lst_list]]
+mint = "sctmfkpheAxntGwfwaqWwChXzwBw9kB6wGX6MBynTMx"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7Semr"
+symbol = "7SemrSOL"
+logo_uri = "https://avatars.githubusercontent.com/u/15308726?v=4"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "E54jSUcbQdjjkg2F5ieLpL3MFMuztc5MjJ2Gbh5SFNV2"
+validator_list = "FfXvseFRqEvs3m7iyqCcewak6AiRoDQBDyEWAiWkwNTC"
+vote_account = "CrLn7zEBytbmRBUGhkDyyUbGCa6H7bMCnw94Dip8QbcJ"
+
+[[sanctum_lst_list]]
+mint = "sctmmEfpUe9LJ6ifGLUwd4GXVYsN4QJMqwUvwoTqywX"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7QGea"
+symbol = "7QGeaSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "EmQpKkHvT76mYwdSKLj48mbzuexc6Aah59oZWt7vMnrR"
+validator_list = "2wAMfamku4x4MNg2uQd9pWfz9SZ5A7eXDrgJ2rL8gyf5"
+vote_account = "EJEsgjKdxKPe5mRaepH6bT8Q8xfSo7Lr9G7iEi6AgZMR"
+
+[[sanctum_lst_list]]
+mint = "sctmqJ5C2fnH1xvRLHSqY7MES9zb2srbjSERmnjSncW"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7PdKh"
+symbol = "7PdKhSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7W2zUD9typ4myRUNKEPdF2UxmpRzVRfBQ3t1qshE1btp"
+validator_list = "4wQ5Rc2v6coTFV3RXkixN15h5ByY1LsjznmjNdD5JzLB"
+vote_account = "7opSZGmevWhRDyLt5Wu38FZFjUyredGmMki4DNmxDnjd"
+
+[[sanctum_lst_list]]
+mint = "sctmr8eNbuWj6hwPaALfvAN1DhdTmUzbVmR2iuppwdo"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7P5Gv"
+symbol = "7P5GvSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FfKPMVFoZ23bu7wY7qee2D2tkeaUeHUsrhS37HFaazJe"
+validator_list = "74FR6iPvRVDsL42Tn4gi7XsqasLA7KRasyEV4KUSGfwH"
+vote_account = "137MRxQWHC47fFiT1F6vDsTBzEuZJb9SwTt2rm3nHLYM"
+
+[[sanctum_lst_list]]
+mint = "sctmtXAKBPtZz8EzdZnz8nL2J2rFhX3a4r8gZtFZuCo"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7Nu9c"
+symbol = "7Nu9cSOL"
+logo_uri = "https://arweave.net/WAWZ1Vv51ho0sbb8L91bMA4VLlqHnHLEmhQGM4UDc_o"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "BpryNVXz3HCymmNaNiyfqL5cRAXmozUf4G8G4En45xTw"
+validator_list = "9fjxZdZMUxshbSxvMafqP3itZym5kZqZs93Yyw9weJH4"
+vote_account = "DPhzpiNGU9C6576uLsNSHmdi2AxwxpjMsRdh2iVC4TPh"
+
+[[sanctum_lst_list]]
+mint = "sctmVjV2WC3m1kY83xfrnJNnwq4azLKQ2ZL6o7oozun"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7NU7h"
+symbol = "7NU7hSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DrCuCNCN4ujj6cU1YveFsV7fKmc8VnSZSk4d1E3HuQR7"
+validator_list = "HNMKNFsvGNEwfQwyun9jrFxA3RjnKgKY95manUxgNgCW"
+vote_account = "8e8QYWHrPEEpAk7rDJ3BSKm9YGnfb8cwmGzo6EMb7tYb"
+
+[[sanctum_lst_list]]
+mint = "sctmrKYM4Z46u9j8ZQyzFdPvG9FaBk7AdorWSUxaXf1"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7MuF8"
+symbol = "7MuF8SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DchyNruzfgDD7cCBWtWo9mzQLsWxEFD2cgKYzHgxuTc7"
+validator_list = "6fRf6j5Y6ngQkFMVQ4xyrASPYLsba37nJdjcJUDNSTp8"
+vote_account = "34nZYTMHzQcrWFQ7v47t34B7AzSbJgwLVehaZxTRPQwn"
+
+[[sanctum_lst_list]]
+mint = "sctmw62cWYu3mNutErWePGJcfSMShV27FbmTWDFMVyy"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7MTjm"
+symbol = "7MTjmSOL"
+logo_uri = "https://aviasim.com.ua/wp-content/uploads/2023/11/web.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "HaL473nfSMk2xieU1jtap1KNG4kBzKSWvfJUo7JCRYDz"
+validator_list = "GC6VY935QkQk6DxqMJs3P27nBDEyJ7FsWJHmtz5QFuTN"
+vote_account = "ENVaKoD7ytn58xJ8s5htFfQ8hqQt1G9dcPUDqbSwVcgB"
+
+[[sanctum_lst_list]]
+mint = "sctmU3KZdQuvJb49T4tSHPmGYC86XHwAYj9o7pz3f6F"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7LuMj"
+symbol = "7LuMjSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FiXFH6NBjnkpm6HxoUU4w1bL2CJiDxZKnve8r2YQrrCE"
+validator_list = "HrmEbF9mMX37BLGg2oae3cLS9CakKFenUVLwrZEzH5Kv"
+vote_account = "5KgAGvMLZogKnDGKGgn47xY6GaTwQ3WBbGPoBxW5nDqp"
+
+[[sanctum_lst_list]]
+mint = "sctmyCPBv9QLCPJujDC4uygyS9wamB7cV96SM8DeRvs"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7Lp6s"
+symbol = "7Lp6sSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9Cikc34NUZAd8qoznEHkEkgAU75pNEJ21dCwVig9HMb8"
+validator_list = "CxqGQxncEreVGbTnzHe6JmbMKQQRy4MruuZ1gvAkrxQk"
+vote_account = "97im1Mxgn8FFcwhoVoqgGc7QegAokpQS2sxzrPVggKA3"
+
+[[sanctum_lst_list]]
+mint = "sctm9iC2ZBRAqTz8emNNMCZDaLyS4B8sxpJRaAgiJzS"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7LMg8"
+symbol = "7LMg8SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "2p69UpCHZ2sxM1sYLkWWs4Pns5nRPHFt7RChh4GjwzAL"
+validator_list = "EM8S758mYHdAnTzfJb6Zn7qWJPBqtsDKt4AyorptUfyB"
+vote_account = "8SRc8gaFpmnb2behQp6KXZxrt9KcV56eFTzUDhzk4qei"
+
+[[sanctum_lst_list]]
+mint = "sctmDuqTvCKaQsuBoRAuhJKH7ULgKAFURU11c8fhyrd"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7JCgn"
+symbol = "7JCgnSOL"
+logo_uri = "https://i.postimg.cc/Vk17wqFg/jubilii.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8WBCdPL8pCDpegHFF9Nkmt5xbBpKfe9tJSXADY41KMhd"
+validator_list = "2E8EpGwtvFJi268sD2vtoepvNazs1NbsshdoAteExXTu"
+vote_account = "76j8TGM73QzGLd2KATNsCwewPVESCkVpkePQdm5PwQXT"
+
+[[sanctum_lst_list]]
 name = "dogwifSOL"
 symbol = "wifSOL"
 mint = "Fi5GayacZzUrfaCRCJtBz2vSYkGF56xjgCceZx5SbXwq"

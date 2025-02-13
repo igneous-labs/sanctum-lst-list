@@ -15613,6 +15613,110 @@ validator_list = "GmRSt5UvZujZoHv2rDA49efR2ZeiGCTjdkZNvTd7kPvw"
 vote_account = "ASfKFAKz6fH4eip1jdLGt5Ym954kU9KYnwq2Csn9ogSz"
 
 [[sanctum_lst_list]]
+mint = "sctmVnNeGVk3HGvE24gXBSXPCJ7qGFQ4sHv2APrsK6V"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) vu1sG"
+symbol = "vu1sGSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DUoFTSm9YJHbBYwyMBWDi6CN8hGnsN9LqA1Rcfm4k9We"
+validator_list = "FMEAmPUsTv78ztE58ayjjvZDxLzMH3r94ZSsBtrQYnNT"
+vote_account = "6F5xdRXh2W3B2vhte12VG79JVUkUSLYrHydGX1SAadfZ"
+
+[[sanctum_lst_list]]
+mint = "sctm58k57tAYDaMkezjAhCF4oDnJoct9d5oktPnMEeF"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) GX6kC"
+symbol = "GX6kCSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FdPWkUtVyr8kXw36oCkh73BtZxAEcXH1TVb8QcDZLxzq"
+validator_list = "EoeKBbcg6mfYkrqrQH6DoYwn9NGx9QPqE4XPM4mqrSvM"
+vote_account = "4CaonBV9LeqJ2oGhTdbNMWKFcHMbLmCnpCyvrRZtLkz3"
+
+[[sanctum_lst_list]]
+mint = "sctmZwoteQic8iDzz7apRMDNX3NETMB9FieqUCi2aAv"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) DQdBr"
+symbol = "DQdBrSOL"
+logo_uri = "https://i.imgur.com/K9ilmt3.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8c8cY7ZSekjrP9XNUgVhRr7oMdJSXdkh2LqX1rQ59AuL"
+validator_list = "78s9BsjCWmbzQc7QFvcqxgRSzwKbwR2hKUBaSQt3tLCi"
+vote_account = "BrPtQfUipB1yV2kMXPeQsEKERy4uZAX21t2ZMb2Ee48M"
+
+[[sanctum_lst_list]]
+mint = "sctmTH23o45aALySdnpxcwkSZatq55QYiHNG9EjMbLh"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) C6nki"
+symbol = "C6nkiSOL"
+logo_uri = "https://i.postimg.cc/ZnYN83TJ/logobuildt.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7YkfZBapahyw1bceg8afWanJM4fg2S8aRU5aD7WefToz"
+validator_list = "9vWNsSkSxXC4kEHemisRyNMZ5q68azzQh5Wwj1GBT6Ra"
+vote_account = "4XRkaMPQnpAncWVZxAw1NfiqGiAX7oa4Ccg8mTD1JMn3"
+
+[[sanctum_lst_list]]
+mint = "sctmMSgmLs5EcHk9qqFs11NZjQC1CNBmd41zfM6D2cg"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) By8Ms"
+symbol = "By8MsSOL"
+logo_uri = "https://github.com/ABEF/icone/blob/main/Waveic.svg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "HgQtzd1YUwtZ3rHZQU1pFvWwLXrNkWErXYW113fPJH1N"
+validator_list = "B4VjiPLLX5Va8WVsnh5QKQVqRgBSMLfPry1SVSC9QCD6"
+vote_account = "H1kyn75BFTXr8QRmToRRvuEEmYan5n6M5APyfhMLau3b"
+
+[[sanctum_lst_list]]
+mint = "sctmgmLcPgWiATLjJVgjkNfq3GNqK63PZ81rY8CeacY"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 7ERj2"
+symbol = "7ERj2SOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "AagWphmQmrKDYKvBkYDVEwvDAJBDV2ay7KPcN8mnYDpf"
+validator_list = "82aHLRo7GmmL4E2hLqfxKHPWWNKA9aiNq1fqKdUzjLDL"
+vote_account = "C4UD55ynixANA7brHZTyBwPN2uL3YYRwn2d1x3TgShvi"
+
+[[sanctum_lst_list]]
+mint = "sctmvRxtf8rkAa36xbTi4hvfLdP6m5kp4w9xzKtM6Ae"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) 2xKfu"
+symbol = "2xKfuSOL"
+logo_uri = "https://i.postimg.cc/RF0zWNLc/xXx.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "HoF95oQ6thpLPbdpvD6rRZfvz7ufNxeGhPoFYaCadZmZ"
+validator_list = "7fwBzkiuC85HMZHfEGewoHP5WFUk8bqKgeupCeqMDWPd"
+vote_account = "6p7SQ6D3ACRYDM7x5Pjb9xa6sChaD3ZBoZxXpR2LyUZ7"
+
+[[sanctum_lst_list]]
+mint = "sctmQgpYoxeKfq9F4AEdDK27WTorr1FwSnP4sxjohEF"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "(Sanctum Automated) C64HQ"
+symbol = "C64HQSOL"
+logo_uri = ""
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "68zrBh1rAs3nE7QCZ8jhcJbmfveCrsvKfMp2b2HCgFeL"
+validator_list = "HRbUPFkmLccDADc1fjkPKYz4XEUutd7t6E8PxrH3Nekg"
+vote_account = "5WF1VwByGfW31Nmk1xcfz9k5YyZLskX4659JXyAA3rpb"
+
+[[sanctum_lst_list]]
 name = "dogwifSOL"
 symbol = "wifSOL"
 mint = "Fi5GayacZzUrfaCRCJtBz2vSYkGF56xjgCceZx5SbXwq"

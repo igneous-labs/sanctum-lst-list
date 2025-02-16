@@ -1,6 +1,6 @@
 {
   "name": "sanctum-lst-list",
-  "version": "0.2.52",
+  "version": "0.2.53",
   "main": "dist/cjs/index.js",
   "module": "dist/mjs/index.js",
   "types": "dist/mjs/index.d.ts",

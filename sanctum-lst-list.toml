@@ -444,9 +444,9 @@ vote_account = "SBLZib4npE7svxFA7AsD3ytdQAfYNb39c8zsU82AA2E"
 [[sanctum_lst_list]]
 mint = "sctmqBfQtZj76PaLmepQ7Xskpu8LNMyWsXqFYAuihML"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) sTEAK"
-symbol = "sTEAKSOL"
-logo_uri = "https://arweave.net/DgIjiyeYrwBpHUVEm2UJBEJgvf0-Pskw-imu0UPUAB8"
+name = "STEAKNET Staked SOL"
+symbol = "STKSOL"
+logo_uri = "https://i.imgur.com/1M3hyPQ.png"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
@@ -1549,8 +1549,8 @@ vote_account = "A9V5e8ZLwQ2ArKZnCcrmz9Q92pDCkUXE5tqJmJDZkCMo"
 [[sanctum_lst_list]]
 mint = "sctmhS2Y9LpnxfBDaNZ4CcPXKDXZ4FTir6DVQd84JEv"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) Tri1F"
-symbol = "Tri1FSOL"
+name = "Trillium Liquid Staked SOL (Tri1LST)"
+symbol = "Tri1SOL"
 logo_uri = "https://trillium.so/pages/trillium-logo.gif"
 decimals = 9
 [sanctum_lst_list.pool]
@@ -1601,8 +1601,8 @@ vote_account = "8qPCNWqVehF1Sc7YgUKUr7DUZtt514WHF71Wah8ZTkgR"
 [[sanctum_lst_list]]
 mint = "sctmWXGT7L75psrUHV2xxyTQKndE7ZcCQRHy2z6D5ER"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) THWsL"
-symbol = "THWsLSOL"
+name = "honestSOL"
+symbol = "honestSOL"
 logo_uri = "https://pbs.twimg.com/profile_images/1888100598412709888/51244Jr1_400x400.jpg"
 decimals = 9
 [sanctum_lst_list.pool]
@@ -1809,8 +1809,8 @@ vote_account = "SFund7s2YPS7iCu7W2TobbuQEpVEAv9ZU7zHKiN1Gow"
 [[sanctum_lst_list]]
 mint = "sctmWrWMqZnxgYvgS1CPAoN3Pvu3JdYsihN4YWxCnaF"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) SDEVq"
-symbol = "SDEVqSOL"
+name = "Watchtower"
+symbol = "wSOL"
 logo_uri = "https://solana-validator-website-italo-casas.vercel.app/logo.png"
 decimals = 9
 [sanctum_lst_list.pool]
@@ -6749,8 +6749,8 @@ vote_account = "D7ZCDE1PHe8duMjNpxwHrYbrRzcnsS7p4nD2daLzWwtr"
 [[sanctum_lst_list]]
 mint = "sctmPQsBHbpnxF6CQ2Hzv6Hn1egPb8LwBTWYLLLKAbB"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) Chaos"
-symbol = "ChaosSOL"
+name = "Udder Chaos Staked SOL"
+symbol = "chaosSOL"
 logo_uri = "https://shorturl.at/cmnR3"
 decimals = 9
 [sanctum_lst_list.pool]
@@ -8088,8 +8088,8 @@ vote_account = "FdGcvmbpebUwYA3vSywnagsaC3Tq3pAVmcR6VoxVcdV9"
 [[sanctum_lst_list]]
 mint = "sctmWyYurh2M4pcLA9p7P68DvYkJ16Vw88RcU3a1pXD"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) BCS95"
-symbol = "BCS95SOL"
+name = "Kairos Research X Firstset"
+symbol = "kairosSOL"
 logo_uri = "https://www.firstset.xyz/kairos_360.png"
 decimals = 9
 [sanctum_lst_list.pool]
@@ -8114,9 +8114,9 @@ vote_account = "FgiteGaHbA22Wt4Quzv3muscQtvX7gzVwvUHbFnb3rTJ"
 [[sanctum_lst_list]]
 mint = "sctmikcgutp2ybJA963zkb1tp8Sdbxr52qm4o3yjjVH"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) B8m79"
-symbol = "B8m79SOL"
-logo_uri = ""
+name = "Palidator Staked SOL"
+symbol = "PalSOL"
+logo_uri = "https://ibb.co/Xr1Pb39N"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
@@ -11442,8 +11442,8 @@ vote_account = "137MRxQWHC47fFiT1F6vDsTBzEuZJb9SwTt2rm3nHLYM"
 [[sanctum_lst_list]]
 mint = "sctmtXAKBPtZz8EzdZnz8nL2J2rFhX3a4r8gZtFZuCo"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) 7Nu9c"
-symbol = "7Nu9cSOL"
+name = "SoLyrae Staked SOL"
+symbol = "SoLyraeSOL"
 logo_uri = "https://arweave.net/WAWZ1Vv51ho0sbb8L91bMA4VLlqHnHLEmhQGM4UDc_o"
 decimals = 9
 [sanctum_lst_list.pool]
@@ -13457,9 +13457,9 @@ vote_account = "DzGHc5pLJACrLNrXQqvhoLW5cyEDQnuRcP4QDEhumkpG"
 [[sanctum_lst_list]]
 mint = "sctmkMjFpG6vPx1FP3qgovfejXKvwXHnzajufon6upN"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) 4Vrjy"
-symbol = "4VrjySOL"
-logo_uri = ""
+name = "Vault X Staked SOL"
+symbol = "vaultSOL"
+logo_uri = "https://i.postimg.cc/X7N8SFFN/img-vaultx3.png"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
@@ -15667,8 +15667,8 @@ vote_account = "4XRkaMPQnpAncWVZxAw1NfiqGiAX7oa4Ccg8mTD1JMn3"
 [[sanctum_lst_list]]
 mint = "sctmMSgmLs5EcHk9qqFs11NZjQC1CNBmd41zfM6D2cg"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) By8Ms"
-symbol = "By8MsSOL"
+name = "Wave"
+symbol = "waveSOL"
 logo_uri = "https://github.com/ABEF/icone/blob/main/Waveic.svg"
 decimals = 9
 [sanctum_lst_list.pool]

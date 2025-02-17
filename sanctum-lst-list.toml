@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "sctmadV2fcLtrxjzYhTZzwAGjXUXKtYSBrrM36EtdcY"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Staking Facilities Staked SOL"
+symbol = "sfSOL"
+logo_uri = "https://qhjltejk67zo6ukqnzawkds5mqox6qudob5ihyy6rjg4fmrvc5oq.arweave.net/gdK5kSr38u9RUG5BZQ5dZB1_QoNweoPjHopNwrI1F10"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8iax3u8PEcP6VhBtLLG7QAoSrCp7fUbCJtmHPrqHxdas"
+validator_list = "9Dw7uVsuRCNxKXGap8jbx6BruKg4MmTjxkx3uejSWkrB"
+vote_account = "DumiCKHVqoCQKD8roLApzR5Fit8qGV5fVQsJV9sTZk4a"
+
+[[sanctum_lst_list]]
 mint = "sctmLHsNRyp3B7Qp3wqfbw7ubkYKxfM1a8jyonstxPu"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "(Sanctum Automated) zeroT"
@@ -327,9 +340,9 @@ vote_account = "a1exajFBsggm7R7ydb4LwyEAdsLCUKNAiUrre9B12kV"
 [[sanctum_lst_list]]
 mint = "sctmrhJBNtmx8ZZ1sKnqWCMpm7JVuvTK6gnAiJE9J1B"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) sh4rk"
-symbol = "sh4rkSOL"
-logo_uri = "https://i.imghippo.com/files/WYNa2105CgE.png"
+name = "sharkSOL"
+symbol = "sharkSOL"
+logo_uri = "https://quicknode.quicknode-ipfs.com/ipfs/QmPtNPLWqHiKMdR5JdNyvCBxw1o7keTTrKQZWGsrDu83ak"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
@@ -16883,19 +16896,6 @@ program = "SanctumSpl"
 pool = "CBhqBAnnUEByPRwGZ2oCcrda7hV4QmkSYQ9Edy3zkqKi"
 validator_list = "7TaKXkbUKnc6ne9QGzJXUjzyhCPxEuwBs4aueCi4nSfF"
 vote_account = "EJHf5N9is5spAF5Kz384tTvTV3CwTka6qzUoZrYm53SV"
-
-[[sanctum_lst_list]]
-name = "SharkLabs SOL"
-symbol = "SharkSOL"
-mint = "sh4rkTurELZMx6YZgoPyHoa2JADwpEVk1RZgzae1p3b"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://quicknode.quicknode-ipfs.com/ipfs/QmPtNPLWqHiKMdR5JdNyvCBxw1o7keTTrKQZWGsrDu83ak"
-[sanctum_lst_list.pool]
-program = "SanctumSpl"
-pool = "7Q22ssZvtKuagdsjVzpyo2MjY8mMN1f4EpW41TGgLrds"
-validator_list = "42RDhNRmYkeiMBTN1Q73kgJhUvuoPgHtB2DEsthjX8dH"
-vote_account = "sh4rko7QjstESbderAwDEGitkXuuHdXLK4h8BQkr81i"
 
 [[sanctum_lst_list]]
 name = "risk-freestacc"

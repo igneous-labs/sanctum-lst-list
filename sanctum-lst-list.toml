@@ -1796,8 +1796,8 @@ vote_account = "SNPWYSmpVdmFyzEm2bgQw88qZQc2bCXoH4s51SFvgsV"
 [[sanctum_lst_list]]
 mint = "sctmpFDKXZPEfTCEgDHqwxepmorCpYA5Q2CrYUytGDU"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) SLNDC"
-symbol = "SLNDCSOL"
+name = "Save Staked SOL"
+symbol = "saveSOL"
 logo_uri = "https://solend.fi/apple-touch-icon.png"
 decimals = 9
 [sanctum_lst_list.pool]
@@ -2186,8 +2186,8 @@ vote_account = "8iQ1B7D8eUpiJonRswHTBoy1WUEuj4JtPk4BzZqG3SD4"
 [[sanctum_lst_list]]
 mint = "sctmAy9zFfZznZUWxEMgGtF6PHZ3gwoiCGcfwRua1AZ"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) LSTQq"
-symbol = "LSTQqSOL"
+name = "Sanctum Staked SOL"
+symbol = "sctmSOL"
 logo_uri = "https://solana-validator-website-italo-casas.vercel.app/sanctum.png"
 decimals = 9
 [sanctum_lst_list.pool]

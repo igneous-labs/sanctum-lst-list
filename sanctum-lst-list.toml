@@ -15682,7 +15682,7 @@ mint = "sctmMSgmLs5EcHk9qqFs11NZjQC1CNBmd41zfM6D2cg"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Wave"
 symbol = "waveSOL"
-logo_uri = "https://github.com/ABEF/icone/blob/main/Waveic.svg"
+logo_uri = "https://raw.githubusercontent.com/ABEF/icone/refs/heads/main/wave.png"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"

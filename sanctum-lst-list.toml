@@ -8129,7 +8129,7 @@ mint = "sctmikcgutp2ybJA963zkb1tp8Sdbxr52qm4o3yjjVH"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Palidator Staked SOL"
 symbol = "PalSOL"
-logo_uri = "https://ibb.co/Xr1Pb39N"
+logo_uri = "https://i.ibb.co/cS091CPM/icon-palidator.png"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"

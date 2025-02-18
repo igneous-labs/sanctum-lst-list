@@ -8129,7 +8129,7 @@ mint = "sctmikcgutp2ybJA963zkb1tp8Sdbxr52qm4o3yjjVH"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Palidator Staked SOL"
 symbol = "PalSOL"
-logo_uri = "https://ibb.co/Xr1Pb39N"
+logo_uri = "https://i.ibb.co/cS091CPM/icon-palidator.png"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
@@ -15682,7 +15682,7 @@ mint = "sctmMSgmLs5EcHk9qqFs11NZjQC1CNBmd41zfM6D2cg"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Wave"
 symbol = "waveSOL"
-logo_uri = "https://github.com/ABEF/icone/blob/main/Waveic.svg"
+logo_uri = "https://raw.githubusercontent.com/ABEF/icone/refs/heads/main/wave.png"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"

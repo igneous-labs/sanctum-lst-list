@@ -1798,7 +1798,7 @@ mint = "sctmpFDKXZPEfTCEgDHqwxepmorCpYA5Q2CrYUytGDU"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Save Staked SOL"
 symbol = "saveSOL"
-logo_uri = "https://solend.fi/apple-touch-icon.png"
+logo_uri = "https://save-assets.s3.us-east-1.amazonaws.com/SaveSOL.png"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"

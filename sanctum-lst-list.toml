@@ -949,19 +949,6 @@ validator_list = "BMK6WJCHNjPyFpgojKxuswqeN6YT8Kqn6fniJ4FHTGWx"
 vote_account = "3ucuV6s4F3jvhvMrx9hz69abis2Q6P14aDxpdtP65kCc"
 
 [[sanctum_lst_list]]
-mint = "sctmr3Wwt2Jt2SisCrG3bwkXrgDCZAD6BvRN5meeDpX"
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) jagBN"
-symbol = "jagBNSOL"
-logo_uri = "https://www.jagpool.xyz/images/jagSOL.webp"
-decimals = 9
-[sanctum_lst_list.pool]
-program = "SanctumSpl"
-pool = "EJVmYMmjSHAVdCezudZom9vtTraQtSc4W3JC1raff3Vj"
-validator_list = "2gKWTTX2Mua3o1nNzEzHR21XEL3rMfkXyH4fNuwJ6j79"
-vote_account = "jag77EXci8uf5uGmKE5izaYvxBCS5H9U2rxWYh8BUUf"
-
-[[sanctum_lst_list]]
 mint = "sctm4BnewhPQixtsqPgq3GhidieNtHnPM5Lzu474LAA"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "(Sanctum Automated) indMG"

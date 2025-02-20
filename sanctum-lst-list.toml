@@ -1,5 +1,44 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "ppSoLdZK74To6yDydEPh57dcCDEFnCSsm8MPRz5Wi2V"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Pesky Penguins SOL"
+symbol = "ppSOL"
+logo_uri = "https://cdn.pesky-penguins.com/artwork/platonic-noot.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "5DBJXNN3dsCr4VaniqoNNpnMob85249wtbRJj1D1418U"
+validator_list = "3Esp99tQJFEkdPv6BoK9KYJ5oRR8UNEYcoxzSPBwqPHb"
+vote_account = "vvvvXsU6iG2enDVvs4KeVqS4YrZczTujSv5p3dSeNHx"
+
+[[sanctum_lst_list]]
+mint = "HALALGvdNJ8u1J3uFFSsba1tyYPRF3vnYfCQ3CpJasfD"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "inshAllah SOL"
+symbol = "iASOL"
+logo_uri = "https://xuc3mbv42u5h53lqxv3dmanqs7rexotek3jedpy6wb2yjhgadsvq.arweave.net/vQW2BrzVOn7tcL12NgGwl-JLumRW0kG_HrB1hJzAHKs"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "C5jSbkdn83TK2ajtsAdK7T1gzH2NugZk4VoNSem2qjzR"
+validator_list = "FrCrdDTMj9MkudbuyeUCSk7v5NmiGNYyKsDAnDoJfufF"
+vote_account = "SANDhe6azby4EMLJd8N77QTk5K92n2tCi4NXba7iwuc"
+
+[[sanctum_lst_list]]
+mint = "sctmZbtfE4dBNBEqBriQQVZLBrTaTjiTfKNRzKUcSLa"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "The Chimpions Staked SOL"
+symbol = "chimpionSOL"
+logo_uri = "https://v2.shdwdrive.com/GYYAp8xjsPMNTbSrs3KWpkmWwnzYsnpvo5aymDzauhan/hMGpLXFx_400x400.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4cLLFNT2WAoioAYXfEF8rqgg1gSW4kNN3y8qyTz1kPmh"
+validator_list = "3wHPUKW4Ei2B4ceoQ8wvYdJCAoHsdM265BjMDGkCz3Bf"
+vote_account = "CHiaohVV2SQCFhiYP73iQzWT6HxnZqnAZJJqAYTeLAo"
+
+[[sanctum_lst_list]]
 mint = "sctmadV2fcLtrxjzYhTZzwAGjXUXKtYSBrrM36EtdcY"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Staking Facilities Staked SOL"
@@ -28,8 +67,8 @@ vote_account = "5BAi9YGCipHq4ZcXuen5vagRQqRTVTRszXNqBZC6uBPZ"
 [[sanctum_lst_list]]
 mint = "sctm2Wht1Wq279cLMVP9y7PCmWY5rpVcaseDmh3u25J"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) zeiUD"
-symbol = "zeiUDSOL"
+name = "richandhappy"
+symbol = "RICHSOL"
 logo_uri = "https://richandhappy.tech/logo.png"
 decimals = 9
 [sanctum_lst_list.pool]
@@ -459,7 +498,7 @@ mint = "sctmqBfQtZj76PaLmepQ7Xskpu8LNMyWsXqFYAuihML"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "STEAKNET Staked SOL"
 symbol = "STKSOL"
-logo_uri = "https://i.imgur.com/1M3hyPQ.png"
+logo_uri = "https://vg2375odczoslu5xk6xumcgzf73dxyb4lwjzgbvdzbbrkezojyia.arweave.net/qbW_9cMWXSXTt1evRgjZL_Y74Dxdk5MGo8hDFRMuThA"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
@@ -4045,8 +4084,8 @@ vote_account = "9kkP5sRnyHD3qkyHykyWwbP9pQQcTWnzLPHtDcRxaE16"
 [[sanctum_lst_list]]
 mint = "sctmwWNTAMBRj8k9pgbY5SkrzwsfZpCBb4RSmAHLS44"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) FjYEr"
-symbol = "FjYErSOL"
+name = "Easytoken Staked Sol"
+symbol = "EasySOL"
 logo_uri = "https://easytoken.me/logo.jpeg"
 decimals = 9
 [sanctum_lst_list.pool]
@@ -5397,9 +5436,9 @@ vote_account = "DyDjFYB6i51FMHQvB4eKSwGHmgMxVf1i3FWwANAngqyY"
 [[sanctum_lst_list]]
 mint = "sctmAttpaQiYq2eJTJ3CpkZaXPPWzP5Gw84DESaigZV"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) E99w1"
-symbol = "E99w1SOL"
-logo_uri = "https://www.project-super.com/supers.svg"
+name = "Project Super Staked SOL"
+symbol = "heroSOL"
+logo_uri = "https://bnbmaa3acszdk6yqrqfilqkekfcu6fn2pq4yumcmho2rllno3veq.arweave.net/C0LAA2AUsjV7EIwKhcFEUUVPFbp8OYowTDu1Fa2u3Uk"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"

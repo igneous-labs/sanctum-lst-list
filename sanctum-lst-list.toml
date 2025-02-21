@@ -29,7 +29,7 @@ vote_account = "SANDhe6azby4EMLJd8N77QTk5K92n2tCi4NXba7iwuc"
 mint = "sctmZbtfE4dBNBEqBriQQVZLBrTaTjiTfKNRzKUcSLa"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "The Chimpions Staked SOL"
-symbol = "chimpionSOL"
+symbol = "chimpSOL"
 logo_uri = "https://v2.shdwdrive.com/GYYAp8xjsPMNTbSrs3KWpkmWwnzYsnpvo5aymDzauhan/hMGpLXFx_400x400.jpg"
 decimals = 9
 [sanctum_lst_list.pool]

@@ -16565,7 +16565,7 @@ symbol = "rkSOL"
 mint = "EPCz5LK372vmvCkZH3HgSuGNKACJJwwxsofW6fypCPZL"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://arweave.net/INyKzzPVD4BUqqMgQbd_QxmhmPJq-NrLHujNTouwD4g"
+logo_uri = "https://r44mixlzslkraelqcaoex6226bmz4mcglehjauf7r33aqosl7cxa.arweave.net/jzjEXXmS1RARcBAcS_ta8FmeMEZZDpBQv472CDpL-K4"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "6LXCxeyQZqdAL4yLCtgATFYF6dcayWvsiwjtBFYVfb1N"

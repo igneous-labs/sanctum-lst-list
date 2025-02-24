@@ -1,5 +1,44 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "BPSoLzmLQn47EP5aa7jmFngRL8KC3TWAeAwXwZD8ip3P"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Backpack Staked SOL"
+symbol = "bpSOL"
+logo_uri = "https://bpsol.s3.us-west-1.amazonaws.com/bpSOL.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "ETVc1GBAiKzv2gNaA3Hfq4hsS1Mzh1NwQSxRFst7k8vz"
+validator_list = "A2fm8gqbBHDcirKM2Ciqo7h9dg9FJeJZqpLGGJdDhBJq"
+vote_account = "bkpkQKgJMQXqwZL5dRX9LMwnsz9zkZZqCtqWfnBcwDx"
+
+[[sanctum_lst_list]]
+mint = "meme9VKXNNxquqQgvXTAauiHYP6giqrZHA2Tjzf9umy"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Meme Staked SOL"
+symbol = "memeSOL"
+logo_uri = "https://raw.githubusercontent.com/cook-meme/metadata/refs/heads/main/icon.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "6uYGNQo1jotWKAcXMUpbtSbVRKuoj1RqMDTb67X3W8Ln"
+validator_list = "9oUd4jiDyLFE77Rzh5x2uELkVEVcQ5M341SHTecoZKyU"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
+mint = "BULKoNSGzxtCqzwTvg5hFJg8fx6dqZRScyXe5LYMfxrn"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "BULK Staked SOL"
+symbol = "BulkSOL"
+logo_uri = "https://arweave.net/rkggtSA6GAA_nDd2-oXgwJIDWiEw0YcJLBz95I4ERek"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "3aUmJDNpMHjkxunQEkHTj2chzyryKoH2uQj6YACLD174"
+validator_list = "3HWetaAVhfEjZxhHfxYbd1FbPD9koVaGbvw9mwoZ62y9"
+vote_account = "votem3UdGx5xWFbY9EFbyZ1X2pBuswfR5yd2oB3JAaj"
+
+[[sanctum_lst_list]]
 mint = "ppSoLdZK74To6yDydEPh57dcCDEFnCSsm8MPRz5Wi2V"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Pesky Penguins SOL"
@@ -9271,8 +9310,8 @@ vote_account = "HimWQUK61d9wxhw7EYu9jUje7xQiDs4jKexaTSvuCmXE"
 [[sanctum_lst_list]]
 mint = "sctmB7GPi5L2Q5G9tUSzXvhZ4YiDMEGcRov9KfArQpx"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) 9r2Cs"
-symbol = "9r2CsSOL"
+name = "BullMooseSystems Staked SOL"
+symbol = "bmsSOL"
 logo_uri = "https://i.ibb.co/0hqsN4N/bullmoosesystems.png"
 decimals = 9
 [sanctum_lst_list.pool]

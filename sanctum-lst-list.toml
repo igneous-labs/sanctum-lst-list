@@ -16765,7 +16765,7 @@ logo_uri = "https://raw.githubusercontent.com/Guardian-Validator/gS/main/gS.svg"
 program = "SanctumSpl"
 pool = "6KrUyxQR9ia4WCozrRzwkqpFrh9jzsmzrrEypfnz6bqh"
 validator_list = "oEiWyLLiafFksCtcRfDcTfgkFa5sEPxrYMGtFHgSWRF"
-vote_account = "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL"
+vote_account = "gVot34jauJpexBL2YUSPBKsmZ4V2ffmDcRk4yfSEnx8"
 
 [[sanctum_lst_list]]
 name = "BybitSOL"

@@ -2082,8 +2082,8 @@ vote_account = "H3GhqPMwvGLdxWg3QJGjXDSkFSJCsFk3Wx9XBTdYZykc"
 [[sanctum_lst_list]]
 mint = "sctm5UZGhFWnYgfrBBgipMwy43xDsm3USNDV9eSdN4E"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) NLMSH"
-symbol = "NLMSHSOL"
+name = "T-STAKE SOL"
+symbol = "TstakeSOL"
 logo_uri = "https://t-stake.com/wp-content/uploads/2024/10/T-STAKE-Systems-icon.png"
 decimals = 9
 [sanctum_lst_list.pool]

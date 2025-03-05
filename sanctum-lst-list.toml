@@ -8595,8 +8595,8 @@ vote_account = "3S5Pw4wiwvF3B5pXQVzraiFUF2iQUDnowZDTCXBmE33k"
 [[sanctum_lst_list]]
 mint = "sctmbTGNCTe9YxTr487W7dfrqJkNJL4c8CyJb7us2iN"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) AccRe"
-symbol = "AccReSOL"
+name = "Accretion Staked SOL"
+symbol = "accSOL"
 logo_uri = "https://accretion.xyz/logo.png"
 decimals = 9
 [sanctum_lst_list.pool]

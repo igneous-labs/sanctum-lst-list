@@ -1445,9 +1445,9 @@ vote_account = "akVU92YQV5hNTuzLBkF3RZCzKydZokyvzL7WdPF3D57"
 [[sanctum_lst_list]]
 mint = "sctmY8fJucsJatwHz6P48RuWBBkdBMNmSMuBYrWFdrw"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) adram"
-symbol = "adramSOL"
-logo_uri = "https://pbs.twimg.com/profile_images/1734608542622236672/PzSwqj4J_400x400.jpg"
+name = "Adra LST"
+symbol = "adraSOL"
+logo_uri = "https://app.adrastea.fi/adraSOL.png"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
@@ -1978,9 +1978,9 @@ vote_account = "RBFvvcGPBpgkBYmJGsphoDQJD8sszSuorM7TorWm12Y"
 [[sanctum_lst_list]]
 mint = "sctmYgvuDE71ZMmm1x5QdXcwxsBjouS7GGioUTYa1d3"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) Pid6H"
-symbol = "Pid6HSOL"
-logo_uri = "https://pinestake.com/logo.png"
+name = "Pine Stake SOL"
+symbol = "pineSOL"
+logo_uri = "https://amaranth-effective-earwig-743.mypinata.cloud/ipfs/bafkreictcteok3ix2sohpp6ruqcceiyuxu7aicbpxv4ufz4regdlscqrr4"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
@@ -2082,8 +2082,8 @@ vote_account = "H3GhqPMwvGLdxWg3QJGjXDSkFSJCsFk3Wx9XBTdYZykc"
 [[sanctum_lst_list]]
 mint = "sctm5UZGhFWnYgfrBBgipMwy43xDsm3USNDV9eSdN4E"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) NLMSH"
-symbol = "NLMSHSOL"
+name = "T-STAKE SOL"
+symbol = "TstakeSOL"
 logo_uri = "https://t-stake.com/wp-content/uploads/2024/10/T-STAKE-Systems-icon.png"
 decimals = 9
 [sanctum_lst_list.pool]
@@ -8595,8 +8595,8 @@ vote_account = "3S5Pw4wiwvF3B5pXQVzraiFUF2iQUDnowZDTCXBmE33k"
 [[sanctum_lst_list]]
 mint = "sctmbTGNCTe9YxTr487W7dfrqJkNJL4c8CyJb7us2iN"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) AccRe"
-symbol = "AccReSOL"
+name = "Accretion Staked SOL"
+symbol = "accSOL"
 logo_uri = "https://accretion.xyz/logo.png"
 decimals = 9
 [sanctum_lst_list.pool]
@@ -8959,8 +8959,8 @@ vote_account = "HCvnhbT3Sn5RsueDisWzzn5FkW8tAqoQK1dr7cvAVzin"
 [[sanctum_lst_list]]
 mint = "sctmkfwq8ePJwQv19eKEy8evykNSHvspkTRrKzDpGLv"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) ACTGY"
-symbol = "ACTGYSOL"
+name = "Flipside Staked SOL"
+symbol = "flipSOL"
 logo_uri = "https://res.cloudinary.com/dsr37ut2z/image/upload/v1710195685/external/fsc.png"
 decimals = 9
 [sanctum_lst_list.pool]

@@ -1445,9 +1445,9 @@ vote_account = "akVU92YQV5hNTuzLBkF3RZCzKydZokyvzL7WdPF3D57"
 [[sanctum_lst_list]]
 mint = "sctmY8fJucsJatwHz6P48RuWBBkdBMNmSMuBYrWFdrw"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) adram"
-symbol = "adramSOL"
-logo_uri = "https://pbs.twimg.com/profile_images/1734608542622236672/PzSwqj4J_400x400.jpg"
+name = "Adra LST"
+symbol = "adraSOL"
+logo_uri = "https://app.adrastea.fi/adraSOL.png"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"

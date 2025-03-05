@@ -8959,8 +8959,8 @@ vote_account = "HCvnhbT3Sn5RsueDisWzzn5FkW8tAqoQK1dr7cvAVzin"
 [[sanctum_lst_list]]
 mint = "sctmkfwq8ePJwQv19eKEy8evykNSHvspkTRrKzDpGLv"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) ACTGY"
-symbol = "ACTGYSOL"
+name = "Flipside Staked SOL"
+symbol = "flipSOL"
 logo_uri = "https://res.cloudinary.com/dsr37ut2z/image/upload/v1710195685/external/fsc.png"
 decimals = 9
 [sanctum_lst_list.pool]

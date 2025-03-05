@@ -1978,9 +1978,9 @@ vote_account = "RBFvvcGPBpgkBYmJGsphoDQJD8sszSuorM7TorWm12Y"
 [[sanctum_lst_list]]
 mint = "sctmYgvuDE71ZMmm1x5QdXcwxsBjouS7GGioUTYa1d3"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) Pid6H"
-symbol = "Pid6HSOL"
-logo_uri = "https://pinestake.com/logo.png"
+name = "Pine Stake SOL"
+symbol = "pineSOL"
+logo_uri = "https://amaranth-effective-earwig-743.mypinata.cloud/ipfs/bafkreictcteok3ix2sohpp6ruqcceiyuxu7aicbpxv4ufz4regdlscqrr4"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"

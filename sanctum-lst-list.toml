@@ -17323,18 +17323,6 @@ program = "Spl"
 pool = "po1osKDWYF9oiVEGmzKA4eTs8eMveFRMox3bUKazGN2"
 validator_list = "nk5E1Gc2rCuU2MDTRqdcQdiMfV9KnZ6JHykA1cTJQ56"
 
-[[sanctum_lst_list]]
-name = "Paladin Liquid SOL"
-symbol = "palSOL"
-mint = "PALNtRwesFEUW6y4Hu45eA23WSSsttoywEjioYv3xuN"
-decimals = 9
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://pbs.twimg.com/profile_images/1880032707524100096/L_9yTMkA_400x400.jpg"
-[sanctum_lst_list.pool]
-program = "Spl"
-pool = "PALdfXCXcDFkcjkLyN7XTsmY9YSSUP6M74nSeCuVNWS"
-validator_list = "PALk6VrRBTXXNTsxozirvQ9SgxysrS1J6tB72fuibRF"
-
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

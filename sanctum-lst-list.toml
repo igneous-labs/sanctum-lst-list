@@ -1,5 +1,31 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "1oomLFXUDhFevXGr8cPvxyQYMEHjy1WeudLouu1a6oC"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "loomSOL"
+symbol = "lmSOL"
+logo_uri = "https://validator-info.s3.us-west-002.backblazeb2.com/loomSOL.svg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "AF8TiRooQnVZjQaNQUrSonc2ampHWrdvktcpMb1R5E1E"
+validator_list = "52Ec9hhuvaiF9JH7XE94vFtSMyKZjYzga7niSsWV3Yjj"
+vote_account = "EdkhvJYa3kWQkFJAPzmGsQyi1D2JA5a7vwWw4hDuwbt"
+
+[[sanctum_lst_list]]
+mint = "roxDFxTFHufJBFy3PgzZcgz6kwkQNPZpi9RfpcAv4bu"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "RockawayX SOL"
+symbol = "RoXSOL"
+logo_uri = "https://skvhuly6ck4wrxttavfrh4462xjwm55y6f3p3jsko4mfv7dpjk4q.arweave.net/kqp6Lx4SuWjecwVLE_Oe1dNmd7jxdv2mSncYWvxvSrk"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "BuMRVW5uUQqJmguCk4toGh7DB3CcJt6dk64JiUMdYS22"
+validator_list = "CRWVbGVedpw6n3yeHWRyQUMAoZe2pdz3VfEiiptgKDo2"
+vote_account = "RBFvvcGPBpgkBYmJGsphoDQJD8sszSuorM7TorWm12Y"
+
+[[sanctum_lst_list]]
 mint = "BPSoLzmLQn47EP5aa7jmFngRL8KC3TWAeAwXwZD8ip3P"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Backpack Staked SOL"

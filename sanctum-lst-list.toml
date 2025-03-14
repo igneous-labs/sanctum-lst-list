@@ -562,7 +562,7 @@ vote_account = "SBLZib4npE7svxFA7AsD3ytdQAfYNb39c8zsU82AA2E"
 mint = "sctmqBfQtZj76PaLmepQ7Xskpu8LNMyWsXqFYAuihML"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "STEAKNET Staked SOL"
-symbol = "STKSOL"
+symbol = "STEAKSOL"
 logo_uri = "https://vg2375odczoslu5xk6xumcgzf73dxyb4lwjzgbvdzbbrkezojyia.arweave.net/qbW_9cMWXSXTt1evRgjZL_Y74Dxdk5MGo8hDFRMuThA"
 decimals = 9
 [sanctum_lst_list.pool]

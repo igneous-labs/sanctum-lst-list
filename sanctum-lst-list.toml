@@ -16625,7 +16625,7 @@ validator_list = "EomwHLMfpzFLTxBzQbrf23e4TKhQgHgceHdFPDwaHhpo"
 vote_account = "CQr9DJLMeYqmXcfG8Z8cgSFw7ntXvVUamBM3dMVzWiJz"
 
 [[sanctum_lst_list]]
-name = "StaRKe SOL"
+name = "Starke Staked SOL"
 symbol = "rkSOL"
 mint = "EPCz5LK372vmvCkZH3HgSuGNKACJJwwxsofW6fypCPZL"
 decimals = 9

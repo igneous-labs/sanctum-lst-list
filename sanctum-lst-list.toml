@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "sphSo1j2eTLa6AB5Wjrmap8VbQoZKccCpqJ7gV5pqGM"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Sphere Staked SOL"
+symbol = "sphSOL"
+logo_uri = "https://spherepay.co/sphSOL/logo.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "5j6fSany8ATpKFPwvc7us2AQGPohniA9sSJdwm3BGpCu"
+validator_list = "35A4Ro3rbMmrgFy9AGWEiBkjPzz5wHwua8FHL4KXxkUg"
+vote_account = "SPHEREcukWjz5VUiGU7Kh3fWeN4neyNw1ma2qQHXmrH"
+
+[[sanctum_lst_list]]
 mint = "1oomLFXUDhFevXGr8cPvxyQYMEHjy1WeudLouu1a6oC"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "loomSOL"

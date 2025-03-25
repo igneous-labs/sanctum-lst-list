@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "4dFaRDBmqUJA7FzWjuoBWpDetNFfNmDyjgFjdH66JjfC"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "4d Staked SOL"
+symbol = "4dSOL"
+logo_uri = "https://raw.githubusercontent.com/danieljao/4d/3fee70171f2c497ce2871017d76c60a8f82433a7/4d.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9XxNaLCRgVDitiopA9qVKifU1p5F5ur5j5Zu7nD5mcnw"
+validator_list = "9VKrK2fYZ9iXVsyWBmuW71y7EoLsDLqLGbTaobG2prwC"
+vote_account = "B38JgkTi7Fu2Uxk8JzNw4M7aMhVxzGu2fsRqHNScPkCQ"
+
+[[sanctum_lst_list]]
 mint = "sphSo1j2eTLa6AB5Wjrmap8VbQoZKccCpqJ7gV5pqGM"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Sphere Staked SOL"
@@ -2199,9 +2212,9 @@ vote_account = "MNDE6ueF5uMvyk3ohq7wWZ8H749pbpj1yHj2MvMRCJM"
 [[sanctum_lst_list]]
 mint = "sctmo6CiYwj19x7jSTXpXSbepeTiJBVRaD2JDB6q6WT"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) MCFmm"
-symbol = "MCFmmSOL"
-logo_uri = ""
+name = "MCF Staked SOL"
+symbol = "mcfSOL"
+logo_uri = "https://t5m72qjulat4mf3yxxjkzxbcuubfsf3rc2n6v52orvyzyh3q6jsa.arweave.net/n1n9QTRYJ8YXeL3SrNwipQJZF3EWm-r3To1xnB9w8mQ"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
@@ -17361,6 +17374,30 @@ logo_uri = ""
 program = "Spl"
 pool = "po1osKDWYF9oiVEGmzKA4eTs8eMveFRMox3bUKazGN2"
 validator_list = "nk5E1Gc2rCuU2MDTRqdcQdiMfV9KnZ6JHykA1cTJQ56"
+
+[[sanctum_lst_list]]
+name = "TruSOL Token"
+symbol = "TruSOL"
+mint = "6umRHtiuBd1PC6HQhfH9ioNsqY4ihZncZXNPiGu3d3rN"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://trufin-public-assets.s3.eu-west-2.amazonaws.com/truSOL-logo.svg"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "EyKyx9LKz7Qbp6PSbBRoMdt8iNYp8PvFVupQTQRMY9AM"
+validator_list = "8M7ZbLikHJdeU6iKzZxWJ8zHy1ozX65Zk2GBVcmFVnXe"
+
+[[sanctum_lst_list]]
+name = "odySOL"
+symbol = "odySOL"
+mint = "odcUHUtic7JVf19RPCdLpZtHZ52eYvN8dRAKsaansed"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://i.ibb.co/zHFMvzRL/ODYSSET-CAPITAL-PFP-3.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "odc3Lq1tQ495b16WwnndwtG1fhgv6C77pGohL6Vd6xJ"
+validator_list = "odcskS66Pm5s6Y5adpDQnp75qwtc5wnt7NtARHLM6Em"
 
 # ReservePool
 [[sanctum_lst_list]]

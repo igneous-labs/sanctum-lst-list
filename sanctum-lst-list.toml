@@ -1,5 +1,31 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "ExtG6GryEe8nkjLv957BwFXopfVYwNv5utd4aKetwMD7"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "SteakStache SOL"
+symbol = "stacheSOL"
+logo_uri = "https://7puntyiy75xs4y2sgfen6ha5gs26ha3ure7e3mlbqtokppchbtba.arweave.net/--jZ4Rj_by5jUjFI3xwdNLXjg3SJPk2xYYTcp7xHDMI"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "6F9ikeASud7fyra9kEbukLwjcjdLMKZxXjZPXrgcbanJ"
+validator_list = "4y8Daw5KmAWHWsiwnohBV7mJaLWoAGoynhWwkcQsLUav"
+vote_account = "sT34kbaqmHWbPwjhyeG1GnjoX82KpXawFsnzUkzJpYX"
+
+[[sanctum_lst_list]]
+mint = "HAY3ZXFGUEaQLM1rnxHATU64n7c32PAyQ9CnvYxfZR4Q"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Hayek Staked SOL"
+symbol = "HayekSOL"
+logo_uri = "https://team-supersafe.github.io/hayeksol-lst/HayekSOL.svg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8un9sEAuriMS1UZhZ2dtf7EW2a5x2kRtFPcSbNyG7g6M"
+validator_list = "GtbCt4cXxsRgN3RBeanyrktpiHFMeSiTjYNCe36KMAka"
+vote_account = "HAYEKSWg2EY21k38St9X5yM7QMW6SunKDefs5SqYSFty"
+
+[[sanctum_lst_list]]
 mint = "4dFaRDBmqUJA7FzWjuoBWpDetNFfNmDyjgFjdH66JjfC"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "4d Staked SOL"

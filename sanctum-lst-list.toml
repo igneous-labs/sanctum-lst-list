@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "MonkeD3uUj5c1w5tW8tJeTe5fX1jkpkdtD3dTibnidx"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "MonkeDAO Staked SOL"
+symbol = "MonkeSOL"
+logo_uri = "https://fzu6dgxlin6o6ql72lompima7juck4g5nli44yk4monpkmsnhqua.arweave.net/LmnhmutDfO9Bf9Lcx6GA-mglcN1q0c5hXGOa9TJNPCg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "HkjvNm1oUC3uySVukuGzEdHXsD19Z4SzGMhdZHhX9D8T"
+validator_list = "BoS7FW7TxDRuM9E3yppGxqrPehf1NdW9QWF5RSEKeohL"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
 mint = "ExtG6GryEe8nkjLv957BwFXopfVYwNv5utd4aKetwMD7"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "SteakStache SOL"

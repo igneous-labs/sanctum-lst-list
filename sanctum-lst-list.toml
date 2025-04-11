@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "SoLiDpvVqZPQ3TyG2EGsYeEwwv7RU2DF7WEqpm6sGy9"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Solana ID Staked SOL"
+symbol = "solidSOL"
+logo_uri = "https://arweave.net/DoW2h0aZyuFn-riGH_2LwXl-CX9qEnPbV3pKpA6nGsg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "6KjNVjhX8gF8VivL7QUpYK7au7RaCqdE4faaQhp6jbED"
+validator_list = "HgWpLAhwwDh3eS8Q6RKjczTTHF7D1U25hLxuSiuby5zX"
+vote_account = "SoLiDDVm88uWUMk2rQpG7B9wC55a6xveYEz3JnS6tzC"
+
+[[sanctum_lst_list]]
 mint = "MonkeD3uUj5c1w5tW8tJeTe5fX1jkpkdtD3dTibnidx"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "MonkeDAO Staked SOL"

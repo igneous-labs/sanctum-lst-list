@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "RaTeYdg18revmyFHy8iUwohk6Ey5XHSwMauCTGdng1e"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "RateX Staked SOL"
+symbol = "rtxSOL"
+logo_uri = "https://raw.githubusercontent.com/RateX-Protocol/Mediakit/refs/heads/main/rtxSOL%403x.svg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4kKmTzBLyoYrhnHgkFasBdaeM1tLC7KKhF1nTUauifqw"
+validator_list = "A2aGGEFjkEtHjU3AMGNzK8vKR4ptRgGB42Y1GJAoTuCF"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
 mint = "SoLiDpvVqZPQ3TyG2EGsYeEwwv7RU2DF7WEqpm6sGy9"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Solana ID Staked SOL"

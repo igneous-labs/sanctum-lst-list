@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "2FRdnCTkMjS9fKQvQMNJDvxVNjhw8f7Ys3xqBrkNr2zQ"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Vorkcoin"
+symbol = "VORK"
+logo_uri = "https://vorkcoin.vercel.app/logos/vorkcoin-token-logo.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "6ryC7fG6khA3NYijJJU1GTVe4SpDeUbyZWyBA7na2ENQ"
+validator_list = "E3po6ufUbvBV9XcuYn6JFHYL9uogtXA6M2sfgpnW5A7L"
+vote_account = "eondcw2upjH14EuvBzmn6HfGEGo8t9hG9JbXtPj6cym"
+
+[[sanctum_lst_list]]
 mint = "RaTeYdg18revmyFHy8iUwohk6Ey5XHSwMauCTGdng1e"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "RateX Staked SOL"
@@ -17476,6 +17489,30 @@ logo_uri = "https://i.ibb.co/zHFMvzRL/ODYSSET-CAPITAL-PFP-3.png"
 program = "Spl"
 pool = "odc3Lq1tQ495b16WwnndwtG1fhgv6C77pGohL6Vd6xJ"
 validator_list = "odcskS66Pm5s6Y5adpDQnp75qwtc5wnt7NtARHLM6Em"
+
+[[sanctum_lst_list]]
+name = "charitySOL"
+symbol = "charitySOL"
+mint = "chrtyoZKhQ1Nxfmvpw8tGJ4hm91ZGYRFGKBrg5QEi1p"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://bliq.so/api/v1/metadata/chrtyoZKhQ1Nxfmvpw8tGJ4hm91ZGYRFGKBrg5QEi1p.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "chrtyCyyThdWjASoayBaQPiZF7QShNNu1zyeSRqmcv5"
+validator_list = "chrtytQEgXnAJbksxgBFbMdXF1FEgHW8dFj3wVBNGQm"
+
+[[sanctum_lst_list]]
+name = "dynoSOL"
+symbol = "dynoSOL"
+mint = "DYNoyS3x5qgbccZg7RPXagm4xQzfnm5iwd9o8pMyJtdE"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://ycfcqd4kivi3yuj7dy6djscn2a7mql24ntvvufef7ltbqri5fila.arweave.net/wIooD4pFUbxRPx48NMhN0D7IL1xs61oUhfrmGEUdKhY"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "DpooSqZRL3qCmiq82YyB4zWmLfH3iEqx2gy8f2B6zjru"
+validator_list = "6dcmsnbDr63BAfgTw6RptWfHQmH2xXULqNvkRiNEZh4s"
 
 # ReservePool
 [[sanctum_lst_list]]

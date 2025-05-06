@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "icyqZdmiJSpFupuwXhToSW6eEHhzW9cUowgE9xi5anf"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "icywin"
+symbol = "icywin"
+logo_uri = "https://d5qooml7rcmsfxz4f766yztuphbe5mn2ki2uutpqlpeyidpi55gq.arweave.net/H2DnMX-ImSLfPC_97GZ0ecJOsbpSNUpN8FvJhA3o700"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CGe2Z3rgqUT6P5YC9aNRutjayoMPLG55pbAbRnrMBZJ9"
+validator_list = "9Lt5KEo3DY1Nqw3hwJwFbDKLq4uHEu2DvmA7pfWGoTvr"
+vote_account = "votem3UdGx5xWFbY9EFbyZ1X2pBuswfR5yd2oB3JAaj"
+
+[[sanctum_lst_list]]
 mint = "2FRdnCTkMjS9fKQvQMNJDvxVNjhw8f7Ys3xqBrkNr2zQ"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Vorkcoin"

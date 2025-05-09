@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "ANZvHuXQh5DnBMzJ55MUyMtPxkdphgBwiPeYji2B3kxS"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "anzSOL"
+symbol = "anzSOL"
+logo_uri = "https://ipfs.io/ipfs/QmeQJTwKv5n44jdMBC1GVtSe1PiMh4Ts3Dm5hs3JTxfkR1"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3H3HdarAgasjCW8WfrTyiaVEGSLygdgu74gM3JjJhpB1"
+validator_list = "hSNFYSXGWipzmmYnRGJYDZRyBctPy5yLAty9Rky4Jjo"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
 mint = "icyqZdmiJSpFupuwXhToSW6eEHhzW9cUowgE9xi5anf"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "icywin"

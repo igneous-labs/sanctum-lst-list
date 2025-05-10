@@ -2015,19 +2015,6 @@ validator_list = "3NUhBJb1PPNxijknocYt627GTBr9jvxLpWfeQQwDCg81"
 vote_account = "SNPWYSmpVdmFyzEm2bgQw88qZQc2bCXoH4s51SFvgsV"
 
 [[sanctum_lst_list]]
-mint = "sctmpFDKXZPEfTCEgDHqwxepmorCpYA5Q2CrYUytGDU"
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "Save Staked SOL"
-symbol = "saveSOL"
-logo_uri = "https://save-assets.s3.us-east-1.amazonaws.com/SaveSOL.png"
-decimals = 9
-[sanctum_lst_list.pool]
-program = "SanctumSpl"
-pool = "DpufHXpzNWmbVUcemz8nFRyZUsFr58k9xw8L9CHJsWgu"
-validator_list = "9GcbLyLRADnq5BgDhMeNEDCgShABbtGG1kGaGX1cdWF1"
-vote_account = "SLNDoinxE7cCgE5ga6FJZ19F4FiUaEmtzSatbY6cjWy"
-
-[[sanctum_lst_list]]
 mint = "sctmaVStMRzow4bix6Q42LcERvSstpBaX75j5AvrvVm"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "(Sanctum Automated) SFund"

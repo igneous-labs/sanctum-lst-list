@@ -16443,12 +16443,12 @@ validator_list = "F7MiLkUWkBVee6d3Evppgcr7iNKgG94H5PMu9WCjj4mQ"
 vote_account = "R1vAoSPFQdCc6wsAEMtxWXjqptSeN1YUiq2Zni1of21"
 
 [[sanctum_lst_list]]
-name = "Juicy SOL"
-symbol = "jucySOL"
+name = "ProStaking SOL"
+symbol = "proSOL"
 mint = "jucy5XJ76pHVvtPZb5TKRcGQExkwit2P5s4vY8UzmpC"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://shdw-drive.genesysgo.net/5ohvXVJ7f3HxnwYGnXKdECWC3KFcU95dHu7S7x69Y1sA/logo_rev.svg"
+logo_uri = "https://bafybeigaa3mbr4qe4hgc55e6srfliawtzdebrs3lrieas63dfc4vdyhiii.ipfs.w3s.link/ProStaking-CircleMark-360px.png"
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
 pool = "AZGSr2fUyKkPLMhAW6WUEKEsQiRMAFKf8Fjnt4MFFaGv"

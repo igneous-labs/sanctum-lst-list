@@ -1,5 +1,44 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "chSoLyETGSZpdpAk4TKfRWw5kyuHkzt5WaQ2kiJYJun"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Chive Staked SOL"
+symbol = "chSOL"
+logo_uri = "https://arweave.net/AjN_vG5K_Z5Xjm57UmEXOK6nl1XJIW1GnNKmmCh9k1k"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "GA8X1dnaVmwyJ5R67hzqKvrVE3ZHi3dHHzbwNtAbYg5j"
+validator_list = "2AqLXrvCLz9WkHPgihGU1hEs24HRF38ueeQH8ChHg7Um"
+vote_account = "Ev3gPXRo6TJeQ2QhxfqWFoasdoGbmDytYvJbUabEHfLf"
+
+[[sanctum_lst_list]]
+mint = "4cXnd9vkCgGVqMnj66FXxL94SBFzS9uyortADymZWmEe"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "SanaSOL"
+symbol = "SanaSOL"
+logo_uri = "https://gateway.pinata.cloud/ipfs/bafkreicm3y3l7kbpke67ds6lymqlufz4xd5fufi5jpaqlur3jdq4hchjma"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Cook3zh16N1Ni2fnXMzsmhYkd6rGYkf5pFXfm9DhXEjK"
+validator_list = "F2MzmnoAvFBMymZo7kXHRWtNvofzfgQckXn2gm5UZZXt"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
+mint = "PtSuLFXfpRpe9wvsjQQyFTKv7oHwFaCfdP5dGHeJvqQ"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Portugal SOL"
+symbol = "ptSOL"
+logo_uri = "https://ywolvmksnruqxxlhn2bf3jiitxcnbf37kmbinvfv4dh572sdo4rq.arweave.net/xZy6sVJsaQvdZ26CXaUIncTQl39TAobUteDP3-pDdyM"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9ChUyBcPtRVgtTK7a78Zunx7LXGbMDWBFqHW8jDGV5mU"
+validator_list = "4chmqyG8fMJcgFWrkDc6Ng4QZDuvSwp54vTenv1KN7su"
+vote_account = "STPTPuWoyKzbWawom5DBndxkeRFAjW4PzJ2EjL1qeMW"
+
+[[sanctum_lst_list]]
 mint = "ANZvHuXQh5DnBMzJ55MUyMtPxkdphgBwiPeYji2B3kxS"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "anzSOL"

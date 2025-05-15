@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "FRAGME9aN7qzxkHPmVP22tDhG87srsR9pr5SY9XdRd9R"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Fragmetric Staked SOL"
+symbol = "fSOL"
+logo_uri = "https://xpczlfgxcfv2bdiwgb74biszcfbisupo7lg5jitoj6bc5yxvbimq.arweave.net/u8WVlNcRa6CNFjB_wKJZEUKJUe76zdSibk-CLuL1Chk"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "LUKAypUYCVCptMKuN7ug3NGyRFz6p3SvKLHEXudS56X"
+validator_list = "8okjaD4AYYG1QvVLYV4zg1GJSJwFL6v99pG5iKFf2h6K"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
 mint = "chSoLyETGSZpdpAk4TKfRWw5kyuHkzt5WaQ2kiJYJun"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Chive Staked SOL"

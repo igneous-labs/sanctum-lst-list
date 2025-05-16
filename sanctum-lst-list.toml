@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "rdLGtfDeqRBJS6h24oMypQApxqNRCmPeLkfhFDNFti6"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Redelegate SOL"
+symbol = "rdlgtSOL"
+logo_uri = "https://arweave.net/rlbozK9IaydrLJ3H5zNBDmgr3yl3CS4P0kPRetidcBo"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "cv8FyhC1Hizeh4nrXMRFWL6hhtimuALXUrkPLT59vJK"
+validator_list = "5GkXMxVxGL7xbffwhw6qjLfPbP3oKR8xecnNVxfKqMb7"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
 mint = "FRAGME9aN7qzxkHPmVP22tDhG87srsR9pr5SY9XdRd9R"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Fragmetric Staked SOL"

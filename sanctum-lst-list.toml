@@ -9518,9 +9518,9 @@ vote_account = "HimWQUK61d9wxhw7EYu9jUje7xQiDs4jKexaTSvuCmXE"
 [[sanctum_lst_list]]
 mint = "sctmB7GPi5L2Q5G9tUSzXvhZ4YiDMEGcRov9KfArQpx"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "BullMooseSystems Staked SOL"
-symbol = "bmsSOL"
-logo_uri = "https://i.ibb.co/0hqsN4N/bullmoosesystems.png"
+name = "DeFi Development Corp Staked SOL"
+symbol = "dfdvSOL"
+logo_uri = "https://pbs.twimg.com/profile_images/1897064824317861888/I02i5oX3_400x400.jpg"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"

@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "goSoLpeDU49kWPCt6pL4QQSPqns3c787uPTKpxH6LXW"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "GooseFX Staked SOL"
+symbol = "goSOL"
+logo_uri = "https://arweave.net/PsQtrXw9GWEZ9fjfgZE2JQaZBT8zAPzk4gI8WJHo5tY"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CZmVtFqkSqRAkV6Xq9X95asrW2hdBbc22Y6eLWSraVGC"
+validator_list = "65bcTsb1nbi3EbWwdaBcQihzxB7FqDkMWhJ6qJ4Enmb8"
+vote_account = "GFXVa1g8zzAVDRnSuB6o9PnHuyH25ADvy2YJPZLpATuP"
+
+[[sanctum_lst_list]]
 mint = "rdLGtfDeqRBJS6h24oMypQApxqNRCmPeLkfhFDNFti6"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Redelegate SOL"

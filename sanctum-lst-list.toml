@@ -1,5 +1,31 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "DcFRViuVnxu5n7RXTVWur3BBYwAiwo4DGrKyoFPm6pDL"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Bay3 Staked SOL"
+symbol = "baySOL"
+logo_uri = "https://mbpvetu6lq77hcxydey3nfwra4t37a4honsn4q33aijymrlgyyjq.arweave.net/YF9STp5cP_OK-BkxtpbRBye_g4dzZN5DewIThkVmxhM"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DNhxemjxWcFUD7eEBpxUg1ZTs4cv5QmxQCRMo6S4uo6R"
+validator_list = "ra8bQGkeTwKXZpyWWiWB9wiwzs6Ed2FBVeT2VKiDq6f"
+vote_account = "bay3rQMjiLPy6Nvi7tfNeVK26inBCxf88hKYyeKy64H"
+
+[[sanctum_lst_list]]
+mint = "MpsoLp1YBDqeiuSrVrYH4DoAGJ3myAMmMy6crYNVSTo"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "MoonPay Staked SOL"
+symbol = "mpSOL"
+logo_uri = "https://ih7bjzvm63tikcihhsjs62gsckvvivnp6sqzrcb5ch7aqjvwsycq.arweave.net/Qf4U5qz25oUJBzyTL2jSEqtUVa_0oZiIPRH-CCa2lgU"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4peTGNqmk2epWka7o4RmcgfsjbhZxPZ8ajyZmsNq4naz"
+validator_list = "8THqPYiMuormjxGqa9WgYVKiZznhbXktTPKtxqoTZ9NU"
+vote_account = "7k6puiEcBsMABVJPqF8dRPc2LG5H4ewBR9aDhRChxfwb"
+
+[[sanctum_lst_list]]
 mint = "goSoLpeDU49kWPCt6pL4QQSPqns3c787uPTKpxH6LXW"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "GooseFX Staked SOL"

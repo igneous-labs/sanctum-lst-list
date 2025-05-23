@@ -1198,9 +1198,9 @@ vote_account = "6zzAPhyFZgS6rdknHNZLcsoooZ744GtVmTDyfvRmN37Q"
 [[sanctum_lst_list]]
 mint = "sctmpoe8tJzrB6j2nK1gPiqRyugPSdNcprYPEqKkFAR"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) mastW"
-symbol = "mastWSOL"
-logo_uri = "https://masdefi.vercel.app/logo.png"
+name = "MAS DeFi Staked SOL"
+symbol = "masSOL"
+logo_uri = "https://masdefi.io/logo.png"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"

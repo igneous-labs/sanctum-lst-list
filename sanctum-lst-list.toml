@@ -30,7 +30,7 @@ mint = "goSoLpeDU49kWPCt6pL4QQSPqns3c787uPTKpxH6LXW"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "GooseFX Staked SOL"
 symbol = "goSOL"
-logo_uri = "https://arweave.net/PsQtrXw9GWEZ9fjfgZE2JQaZBT8zAPzk4gI8WJHo5tY"
+logo_uri = "https://ciq7iniidrkexwk2kizdkfp45jrbrgud6bnnoyfto5nviicixxsq.arweave.net/EiH0NQgcVEvZWlIyNRX86mIYmoPwWtdgs3dbVCBIveU"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"

@@ -4,7 +4,7 @@ mint = "AiSoLNmtvzgCMmLDumC1pnqxvyDrjBn3mzAq2QDbvVJu"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "AiSOL"
 symbol = "AiSOL"
-logo_uri = "https://ipfs.io/ipfs/bafkreih7yisdtsokszx2tonm6x7uh5hzln6kiaagmvbjbmtewpbxonu3fi"
+logo_uri = "https://57hhk3yjxagcfkxg3fgxpdvme77oytgtonylt7izalhfqoysecoq.arweave.net/7851bwm4DCKq5tlNd46sJ_7sTNNzcLn9GQLOWDsSIJ0"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"

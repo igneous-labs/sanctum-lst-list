@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "AiSoLNmtvzgCMmLDumC1pnqxvyDrjBn3mzAq2QDbvVJu"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "AiSOL"
+symbol = "AiSOL"
+logo_uri = "https://ipfs.io/ipfs/bafkreih7yisdtsokszx2tonm6x7uh5hzln6kiaagmvbjbmtewpbxonu3fi"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Gu1pn6CdFpD9LcXpsUFwrv81UeD87w6Z9V2uVGPtbj85"
+validator_list = "D1e5bw3TgaHHDZJfeNuyXBn6apL39ZTKbuiv9vU69Xru"
+vote_account = "1oH9rfyrbKoP7ucJ1Zr2HLHmDU8N6G1G6dEuruFsSqy"
+
+[[sanctum_lst_list]]
 mint = "DcFRViuVnxu5n7RXTVWur3BBYwAiwo4DGrKyoFPm6pDL"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Bay3 Staked SOL"

@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "9RQzAdfG4fPFYuRRFU8zwKFohEwd2jyUtfR2vCdiyMbL"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Nasdao SOL"
+symbol = "ndaoSOL"
+logo_uri = "https://yfiowmvm6aap33s5l2mrz4pwxsocv56u64c4nl3aw2bjwo4b5a4a.arweave.net/wVDrMqzwAP3uXV6ZHPH2vJwq99T3BcavYLaCmzuB6Dg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "GMrmRqtqHXXm2f5rkDJowxobPyzAEmgcsYqPtM9KmYP9"
+validator_list = "H5nK18Fw8aEGQKXa7A6X1i791CLnsMB8QcYZTyXkH7F1"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
 mint = "AiSoLNmtvzgCMmLDumC1pnqxvyDrjBn3mzAq2QDbvVJu"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "AiSOL"
@@ -1649,19 +1662,6 @@ program = "SanctumSpl"
 pool = "BxHN6YxZeRy8LRdjWkDTeogV3ZPYcbXffGJqhHH857dS"
 validator_list = "4itZGhD4nfJ61vCPCTB5SjPcZ1ykTPUXovXyf8BSe1NK"
 vote_account = "93jNtLuu5MF3Me4MGidwQFq8Pg7iVWiRHioXm3aYhsv6"
-
-[[sanctum_lst_list]]
-mint = "sctmS5MVwFexuhPsLig8bsJyaGYYnTKVHRBYyfXRC34"
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) bay3w"
-symbol = "bay3wSOL"
-logo_uri = "https://arweave.net/w2T4UJOmNdR1GjHYrqqY4PM1tesPueoXarNKTSfHRZ4"
-decimals = 9
-[sanctum_lst_list.pool]
-program = "SanctumSpl"
-pool = "GPBbbfwa3bAVqu2Ydf51P8pBCx7q7ZUcQTEPZ8AqE8rk"
-validator_list = "9Ht9LoN6t8aVTjVydGhBXu2xZAA35sYFKYfntm6HEGLx"
-vote_account = "bay3rQMjiLPy6Nvi7tfNeVK26inBCxf88hKYyeKy64H"
 
 [[sanctum_lst_list]]
 mint = "sctmCZtzdQCFs2JRZEHpRnurMSWGvy4onYnd7Q5sEKY"

@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "StackSo1AEyZM9Y3xKRQVviw3ew1jujbFs4VwqqQsHj"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "stackSOL"
+symbol = "stackSOL"
+logo_uri = "https://e7x3vsar7h2fa7g32yvcb4vr4tj4f7aj6xkfqkpyh5zeyx2waahq.arweave.net/J--6yBH59FB829YqIPKx5NPC_An11Fgp-D9yTF9WAA8"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "6RjUvqgnRNx2uuBn6hF8TMDZwYaqi5PYia6aH8EUmZoy"
+validator_list = "9o4PADxvHMAVX3xDv4XbJKAygY9Cd8Tj7AdEim9A8cvS"
+vote_account = "soLStAckuvkHtNzHF1cwmeSRG1FzVxKxwsdWZ1yrHrz"
+
+[[sanctum_lst_list]]
 mint = "9RQzAdfG4fPFYuRRFU8zwKFohEwd2jyUtfR2vCdiyMbL"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Nasdao SOL"

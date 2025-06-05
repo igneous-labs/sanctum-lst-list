@@ -1,5 +1,31 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "79bnSzQdKyqypcueaCErrMHosPgk7ZEVrLYrAXk8yk2c"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Rise Staked SOL"
+symbol = "riseSOL"
+logo_uri = "https://nodpeevtk2xnpyrnm7lf7zkt7fes37lzuq7v3d5v4e5yaewc7nkq.arweave.net/a4byErNWrtfiLWfWX-VT-Ukt_XmkP12PteE7gBLC-1U"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "7snAkZeMdg77L2BrDYKdaXiA4itam1kUGcLqD9GDLHGJ"
+validator_list = "6oDAQRzXU7z1DfX6fGzZhJgxJ6HH1q6SPanhzjdj6bdC"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
+mint = "7RN7JErHv958SNeYeCN8ihScnkyVtCahSaexfRP8Pw6s"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "starxsa Staked SOL"
+symbol = "starxsa"
+logo_uri = "https://2ictaui7l4dklizji22p3ev2bw5pepc2atfc6ytbp6abloqv233q.arweave.net/0gUwUR9fBqWjKUa0_ZK6DbryPFoEyi9iYX-AFboV1vc"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "2ErDD1kBrXyQmNWrojkgWKFDSsw2S1q55DXMmCT5bZnS"
+validator_list = "7terKDqcS37Pr3ooP6G8RsJcLHRQ2nguMUxzP42zbz6a"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
 mint = "StackSo1AEyZM9Y3xKRQVviw3ew1jujbFs4VwqqQsHj"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "stackSOL"

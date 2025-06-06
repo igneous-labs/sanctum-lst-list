@@ -15,7 +15,7 @@ vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
 [[sanctum_lst_list]]
 mint = "7RN7JErHv958SNeYeCN8ihScnkyVtCahSaexfRP8Pw6s"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "starxsa Staked SOL"
+name = "starxsa"
 symbol = "starxsa"
 logo_uri = "https://2ictaui7l4dklizji22p3ev2bw5pepc2atfc6ytbp6abloqv233q.arweave.net/0gUwUR9fBqWjKUa0_ZK6DbryPFoEyi9iYX-AFboV1vc"
 decimals = 9

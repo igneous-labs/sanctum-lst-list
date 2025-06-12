@@ -17683,6 +17683,18 @@ program = "Spl"
 pool = "DpooSqZRL3qCmiq82YyB4zWmLfH3iEqx2gy8f2B6zjru"
 validator_list = "6dcmsnbDr63BAfgTw6RptWfHQmH2xXULqNvkRiNEZh4s"
 
+[[sanctum_lst_list]]
+name = "SharkPool"
+symbol = "sharkSOL"
+mint = "BdMLRC2gKyFu8FRBErazzpEaKmB1jcVB9Eq1rXXFm4EV"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/sharkslabs/validator/refs/heads/main/sharkpool.jpg"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "HQLwnQJFH7t9nBTP4vbdW4eHy62aecfDnj8te8VzqkFL"
+validator_list = "3wPT5sf2gRPzGDwsjcr5gJeLksXPHvv2vmyksC4WchEM"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

@@ -741,19 +741,6 @@ validator_list = "Br56HFuE2xaCB2b9sUNefXw6t7k7uA4EXFaycBRmwPsg"
 vote_account = "a1exajFBsggm7R7ydb4LwyEAdsLCUKNAiUrre9B12kV"
 
 [[sanctum_lst_list]]
-mint = "sctmrhJBNtmx8ZZ1sKnqWCMpm7JVuvTK6gnAiJE9J1B"
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "sharkSOL"
-symbol = "sharkSOL"
-logo_uri = "https://quicknode.quicknode-ipfs.com/ipfs/QmPtNPLWqHiKMdR5JdNyvCBxw1o7keTTrKQZWGsrDu83ak"
-decimals = 9
-[sanctum_lst_list.pool]
-program = "SanctumSpl"
-pool = "8YDFbgW8J5hx3kUDCzzBMZRuBJHam4VTYLz4oiJ7287i"
-validator_list = "5MSEyJbtibeUfk5dBXyQwB2kQRCa4cjbZ6kwaNt7YFgQ"
-vote_account = "sh4rko7QjstESbderAwDEGitkXuuHdXLK4h8BQkr81i"
-
-[[sanctum_lst_list]]
 mint = "sctmGn8tK97vhCC8c5Y4D7nJAyxxKJxi1dYLRnUCnrX"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "(Sanctum Automated) scs2R"

@@ -17419,6 +17419,18 @@ pool = "Fu9BYC6tWBo1KMKaP3CFoKfRhqv9akmy3DuYwnCyWiyC"
 validator_list = "3wsE11pAjCE3sCwokhD5kgi5cjv6hi3DGAkxXB5MMHKL"
 
 [[sanctum_lst_list]]
+name = "DoubleZero Staked SOL"
+symbol = "dzSOL"
+mint = "Gekfj7SL2fVpTDxJZmeC46cTYxinjB6gkAnb6EGT6mnn"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://fn474du36qdxqh6szvejo72imufs4tcnskea73kg4jx53e5rarba.arweave.net/K3n-Dpv0B3gf0s1Il39IZQsuTE2SiA_tRuJv3ZOxBEI"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "3fV1sdGeXaNEZj6EPDTpub82pYxcRXwt2oie6jkSzeWi"
+validator_list = "8qKn25tR14VkgpeJAVypFKi21cBF5hLRVoxVQCzTGKb9"
+
+[[sanctum_lst_list]]
 name = "BlazeStake Staked SOL"
 symbol = "bSOL"
 mint = "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1"

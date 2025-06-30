@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "kaKARuGou4G8DZ589XUSQa7hLgCrsXCAdA6nRrpVMWS"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Kaka Staked SOL"
+symbol = "kakaSOL"
+logo_uri = "https://y7how63zu3elcwwfny63tulrv4wdyugzvfq2ms5av5cl4qmunqiq.arweave.net/x87re3mmyLFaxW49udFxryw8UNmpYaZLoK9EvkGUbBE"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Cwu5cNvEdJYTvUMFQavoBrGwTD7ibKEq3riMNA2ZjjMh"
+validator_list = "DpRWrHKvXKP2GVePyrheiaU9M6TXkG5femRXNxhozmPU"
+vote_account = "FACqsS19VScz8oo2YhdMg35EsAy6xsCZ9Y58eJXGv8QJ"
+
+[[sanctum_lst_list]]
 mint = "79bnSzQdKyqypcueaCErrMHosPgk7ZEVrLYrAXk8yk2c"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Rise Staked SOL"

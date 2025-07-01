@@ -1,5 +1,32 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "iNF7jHABB8ebDoshfwLSwJhsNH5NoKhBpdj6J8tztey"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "InfiniteSOL LST"
+symbol = "infSOL"
+logo_uri = "https://pmxiarj6bcw7zdznh4jmijg6ayzcfwisve23pmjn2zlsxcd5qerq.arweave.net/ey6ART4IrfyPLT8SxCTeBjIi2RKpNbexLdZXK4h9gSM"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FYRu8mL8N8ExdWScCt5371qPU6iGA1BTVCG1moUNMUSi"
+validator_list = "7AHdMEFBicVvw1S5KS1Ri9m4BntUStat66sYSuo4X7sb"
+vote_account = "26RGqX3mezgYDxJnGh94gnMM4L2k9grH1eWcTSCHnaxR"
+
+[[sanctum_lst_list]]
+mint = "MANAxX5zJMCDphchiDCossZa9MoUTFiUXFakQ2MdUvQ"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Manami Staked SOL"
+symbol = "manaSOL"
+logo_uri = "https://hjlq6lpztcnuyoy2z3sywsvvoncurmsk7mzrn2hbtksb2vikm3aq.arweave.net/OlcPLfmYm0w7Gs7li0q1c0VIskr7Mxbo4ZqkHVUKZsE"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8j9pKhwgEb1h36XWDpt38gLNGuLR3mngZhE2C8ohY9rt"
+validator_list = "54hXj2vLYhRcJHVtcimcmp6ogdGuhaQQajYh74CDojp5"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+
+[[sanctum_lst_list]]
 mint = "kaKARuGou4G8DZ589XUSQa7hLgCrsXCAdA6nRrpVMWS"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Kaka Staked SOL"

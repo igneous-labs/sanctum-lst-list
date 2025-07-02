@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "mutAXfBgm1GoT5gjecdXB5xnhHB39ZdfmtG6GN34hks"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Adrena Staked SOL"
+symbol = "mutatedSOL"
+logo_uri = "https://zq4so4bpsv2ac2k2addubepbjqm433jlfswufjf5savmjjlif2va.arweave.net/zDkncC-VdAFpWgDHQJHhTBnN7SssrUKkvZAqxKVoLqo"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9BZwNWrqPjqLL5dwro9v4cprpKNPx35xKeHsWSivLjA6"
+validator_list = "DazMx5dJGefips9qsYg1xsFBLceWLQXPKEhdNsx3nnas"
+vote_account = "adrePWHJJQNNuMfK3QrBKXDZZuRFPRjhovMMeSr3Drz"
+
+[[sanctum_lst_list]]
 mint = "iNF7jHABB8ebDoshfwLSwJhsNH5NoKhBpdj6J8tztey"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "InfiniteSOL LST"
@@ -24,7 +37,6 @@ program = "SanctumSpl"
 pool = "8j9pKhwgEb1h36XWDpt38gLNGuLR3mngZhE2C8ohY9rt"
 validator_list = "54hXj2vLYhRcJHVtcimcmp6ogdGuhaQQajYh74CDojp5"
 vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
-
 
 [[sanctum_lst_list]]
 mint = "kaKARuGou4G8DZ589XUSQa7hLgCrsXCAdA6nRrpVMWS"

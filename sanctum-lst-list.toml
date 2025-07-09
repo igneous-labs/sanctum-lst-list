@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "J36HYpkCmUwGGEsENSRoXmvb3VL2kAgJvCmJB7zm4G7i"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Neiro Staked SOL"
+symbol = "broSOL"
+logo_uri = "https://6pzy6viqb4abifpfjjvcdoqazcdnmlfoqzeotcrn2bxfoioec4pq.arweave.net/8_OPVRAPABQV5UpqIboAyIbWLK6GSOmKLdBuVyHEFx8"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "BNHZupMK9iFKYi6SUjkEnf2THh81xS4oVG5zdEjPiHTc"
+validator_list = "HiKXNd2f7XDb18sMxveKe2MmAHEvyVF3aKiwe6hpnw7V"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
 mint = "mutAXfBgm1GoT5gjecdXB5xnhHB39ZdfmtG6GN34hks"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Adrena Staked SOL"

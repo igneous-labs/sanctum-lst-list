@@ -17759,6 +17759,18 @@ program = "Spl"
 pool = "HQLwnQJFH7t9nBTP4vbdW4eHy62aecfDnj8te8VzqkFL"
 validator_list = "3wPT5sf2gRPzGDwsjcr5gJeLksXPHvv2vmyksC4WchEM"
 
+[[sanctum_lst_list]]
+name = "Cycle SOL"
+symbol = "cySOL"
+mint = "cyc1eP4hbC6wU2X4ypLoosYTx5z9PYwgRSKDUJcVn3J"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://fu4xd4zew5ererpmmtyphnjdvgqoyvgpmfbqq6sxcbbt35qbml5q.arweave.net/LTlx8yS3SRJF7GTw87UjqaDsVM9hQwh6VxBDPfYBYvs"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "cyc1ezCrHkBJ7BNSmE9fBFW2dzTYAbWG8ttgCGYhiHc"
+validator_list = "cyc1eex8fDQzCjhdaJAkF4rmgfQanayjC7JNEPh3U47"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

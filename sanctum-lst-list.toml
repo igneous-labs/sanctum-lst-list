@@ -16587,10 +16587,10 @@ validator_list = "6zmQjSACEXCQhar7HRhasfGUHMc6XYDrrmrTFQHuD2F4"
 [[sanctum_lst_list]]
 name = "Hylo Staked SOL"
 symbol = "hyloSOL"
-mint = ""
+mint = "hy1oXYgrBW6PVcJ4s6s2FKavRdwgWTXdfE69AxT7kPT"
 decimals = 9
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/stazzSOL/stazzSOL.png"
+logo_uri = "https://i.ibb.co/bgScQbGF/hyloSOL.png"
 [sanctum_lst_list.pool]
 program = "SanctumSplMulti"
 pool = "hy1oDeVCVRDGkxS26qLVDvRhDpZGfWJ6w9AMvwMegwL"

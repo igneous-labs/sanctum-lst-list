@@ -16584,6 +16584,18 @@ program = "SanctumSplMulti"
 pool = "32hsg4iXSPbbJxsr4oFkM2skBoauv9coqaUSAvXFU2JE"
 validator_list = "6zmQjSACEXCQhar7HRhasfGUHMc6XYDrrmrTFQHuD2F4"
 
+[[sanctum_lst_list]]
+name = "Portals SOL"
+symbol = "portalsSOL"
+mint = "prt1sxymaSoH5R6ZFyAnmMrqp9XbuyDXbBWnHg3XuLJ"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://i.ibb.co/tM2ZBq1X/portals-SOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "prt1stdbFCFXpEcx9rxwJK63zhYo43V5JCXzGWXkPGn"
+validator_list = "prt1sCNktgN1gxP7KNjME1orN5QHaPUBcDMqrgA8Xgw"
+
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"

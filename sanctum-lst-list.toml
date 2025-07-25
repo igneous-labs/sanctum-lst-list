@@ -16610,6 +16610,18 @@ program = "SanctumSplMulti"
 pool = "32hsg4iXSPbbJxsr4oFkM2skBoauv9coqaUSAvXFU2JE"
 validator_list = "6zmQjSACEXCQhar7HRhasfGUHMc6XYDrrmrTFQHuD2F4"
 
+[[sanctum_lst_list]]
+name = "Hylo SOL Plus"
+symbol = "hyloSOL+"
+mint = "hy1opf2bqRDwAxoktyWAj6f3UpeHcLydzEdKjMYGs2u"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://i.ibb.co/GfsbDVQK/hylo-SOLPlus.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "hy1o2kiYu9rUDFqHJSqwJH4j5ZkM23tBJsaEmqkP9sT"
+validator_list = "hy1o8U3TACSkhy1o8U3TACSky6oDfJDjDwH4rmTnFgHLP4ixQB3vfLK"
+
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"

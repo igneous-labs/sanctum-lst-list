@@ -16584,6 +16584,18 @@ program = "SanctumSplMulti"
 pool = "32hsg4iXSPbbJxsr4oFkM2skBoauv9coqaUSAvXFU2JE"
 validator_list = "6zmQjSACEXCQhar7HRhasfGUHMc6XYDrrmrTFQHuD2F4"
 
+[[sanctum_lst_list]]
+name = "Hylo Staked SOL"
+symbol = "hyloSOL"
+mint = ""
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/creator_coins/stazzSOL/stazzSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "hy1oDeVCVRDGkxS26qLVDvRhDpZGfWJ6w9AMvwMegwL"
+validator_list = "hy1o4w1mH4zKa8aT2CZiPUrgBMUhL7kDCYMd9b7rEJe"
+
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]
 name = "Power Staked SOL"

@@ -10,7 +10,7 @@ decimals = 9
 program = "SanctumSpl"
 pool = "723TJCeVhP4zFWAuNwM7AgspSZN5eoq3zv5KxRyGPmQm"
 validator_list = "CZ1EicgXcWwMQNTvHbYPt4W4SBEYRGbVPD3Crb3ScKsP"
-vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+vote_account = "FACqsS19VScz8oo2YhdMg35EsAy6xsCZ9Y58eJXGv8QJ"
 
 [[sanctum_lst_list]]
 mint = "griPkwCfWXMYfU8vBjLsPRaDWk9Bw8uYuT75E15iyy1"

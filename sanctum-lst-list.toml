@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "HoSipZoewmiP9cPq4Md2JNXPp6wckWUeVXZP7SFvgKi"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Hosico Staked SOL"
+symbol = "hosicoSOL"
+logo_uri = "https://ltmnyrgnqdzw6kfgf5ezedfwkjj663lkcgl57kwu3azm4ddaagtq.arweave.net/XNjcRM2A828opi9Jkgy2UlPvbWoRl9-q1NgyzgxgAac"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "723TJCeVhP4zFWAuNwM7AgspSZN5eoq3zv5KxRyGPmQm"
+validator_list = "CZ1EicgXcWwMQNTvHbYPt4W4SBEYRGbVPD3Crb3ScKsP"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
 mint = "griPkwCfWXMYfU8vBjLsPRaDWk9Bw8uYuT75E15iyy1"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "gripto Staked SOL"

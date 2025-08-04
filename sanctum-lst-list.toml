@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "9YxoymbyoYGZGMUbgPoSqSHEuq2b1mygqihFLHchNAE9"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Venus Staked SOL"
+symbol = "venusSOL"
+logo_uri = "https://i5kiy6vof2bcsjlf3np27v5nr5oghlx5oxa7bht6cxuuoukm3mqq.arweave.net/R1SMeq4ugiklZdtfr9etj1xjrv11wfCefhXpR1FM2yE"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "BTGVPzYBqniraCYpmV5ebJsH3jGzrzkhHsXvQa4PJ8kn"
+validator_list = "99t6ureVgYGwNE4JyKsyaGsvpHCzFqJRtDx8zrpyZHiv"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
 mint = "pSo1f9nQXWgXibFtKf7NWYxb5enAM4qfP6UJSiXRQfL"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Phantom Staked SOL"

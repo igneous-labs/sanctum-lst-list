@@ -1,5 +1,31 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "pSo1f9nQXWgXibFtKf7NWYxb5enAM4qfP6UJSiXRQfL"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Phantom Staked SOL"
+symbol = "PSOL"
+logo_uri = "https://assets.phantom.app/assets/metadata/PSOL.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "pSPcvR8GmG9aKDUbn9nbKYjkxt9hxMS7kF1qqKJaPqJ"
+validator_list = "pVL7vSfdos7UypiJqAybWdrx6K8i45Jo9trGi8zGggU"
+vote_account = "J2nUHEAgZFRyuJbFjdqPrAa9gyWDuc7hErtDQHPhsYRp"
+
+[[sanctum_lst_list]]
+mint = "kiLNQXQtoCDSVj6AcRXrSLK2kzBAbjrmdeeeghffrDD"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Kiln Staked SOL"
+symbol = "kilnSOL"
+logo_uri = "https://yx6jg2ya4qcrhbkkymtnkc5juhmyzvqrscvwor3t4ymfrs7s526a.arweave.net/xfyTawDkBROFSsMm1QupodmM1hGQq2dHc-YYWMvy7rw"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Bo9Z6Rkz6ooJgUfpdUUx7upq4ovReHQ88GJF4pNYdQyf"
+validator_list = "J1C64wbaPEwGeydhsay67o3ZoQJgHkp7KmWYEzwppQEw"
+vote_account = "HCvnhbT3Sn5RsueDisWzzn5FkW8tAqoQK1dr7cvAVzin"
+
+[[sanctum_lst_list]]
 mint = "HoSipZoewmiP9cPq4Md2JNXPp6wckWUeVXZP7SFvgKi"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Hosico Staked SOL"
@@ -16621,6 +16647,18 @@ logo_uri = "https://i.ibb.co/GfsbDVQK/hylo-SOLPlus.png"
 program = "SanctumSplMulti"
 pool = "hy1o2kiYu9rUDFqHJSqwJH4j5ZkM23tBJsaEmqkP9sT"
 validator_list = "hy1o8U3TACSky6oDfJDjDwH4rmTnFgHLP4ixQB3vfLK"
+
+[[sanctum_lst_list]]
+name = "Hylo Staked SOL"
+symbol = "hyloSOL"
+mint = "hy1oXYgrBW6PVcJ4s6s2FKavRdwgWTXdfE69AxT7kPT"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://i.ibb.co/bgScQbGF/hyloSOL.png"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "hy1oDeVCVRDGkxS26qLVDvRhDpZGfWJ6w9AMvwMegwL"
+validator_list = "hy1o4w1mH4zKa8aT2CZiPUrgBMUhL7kDCYMd9b7rEJe"
 
 # SanctumSpl Pool -- Single Pool upgrade path
 [[sanctum_lst_list]]

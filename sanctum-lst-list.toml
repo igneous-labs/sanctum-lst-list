@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "pSo1f9nQXWgXibFtKf7NWYxb5enAM4qfP6UJSiXRQfL"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Phantom Staked SOL"
+symbol = "PSOL"
+logo_uri = "https://assets.phantom.app/assets/metadata/PSOL.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "pSPcvR8GmG9aKDUbn9nbKYjkxt9hxMS7kF1qqKJaPqJ"
+validator_list = "pVL7vSfdos7UypiJqAybWdrx6K8i45Jo9trGi8zGggU"
+vote_account = "J2nUHEAgZFRyuJbFjdqPrAa9gyWDuc7hErtDQHPhsYRp"
+
+[[sanctum_lst_list]]
 mint = "kiLNQXQtoCDSVj6AcRXrSLK2kzBAbjrmdeeeghffrDD"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Kiln Staked SOL"

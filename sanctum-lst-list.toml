@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "tiNyNcKeDhsntPmvw4GUz1cvz74ovM2hHyi96bpVJYY"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Tinydancer Staked SOL"
+symbol = "tinySOL"
+logo_uri = "https://arweave.net/bhaoKAH0l-6KglmNEQtGWDYCWYx3Ywoix9KSDEQJTQA"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CjjXMAoFq6NufSePbURyyCxwRW9fkLSYUYo9SiwnBULD"
+validator_list = "HiPvwq6TZU8M9YmanpF7xkYAbCkDUisJsjmyLodyX1n2"
+vote_account = "2ZP7DPXW6gwMRSY9PSXQ75fZLrk4gKWKnT85pK5sVPa5"
+
+[[sanctum_lst_list]]
 mint = "aiA9Ex1xGej38BP1nycxzR6TqVokoYi2xE3kqoNw2PU"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "ai20x Staked SOL"

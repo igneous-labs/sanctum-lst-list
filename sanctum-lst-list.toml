@@ -1,5 +1,44 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "aiA9Ex1xGej38BP1nycxzR6TqVokoYi2xE3kqoNw2PU"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "ai20x Staked SOL"
+symbol = "ai20xSOL"
+logo_uri = "https://twvx2qjlg2dl5l77pk6ama6ryi4pnunegpgavqf2cxfn3b6zcpsq.arweave.net/nat9QSs2hr6v_3q8BgPRwjj20aQzzArAuhXK3YfZE-U"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "J8FzXAFAzPHAbjywWCEPR7uU45QaEeWkwE2B81G94MfE"
+validator_list = "5DXEpXyd93We2kdmaUY3QVhP2LL9TD7wCc81mi6MoMug"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
+mint = "met1dVtsJywXVRBkm9naz6K212TZ475aoThntPB6zKy"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Meteora Staked SOL"
+symbol = "metSOL"
+logo_uri = "https://dljt2cxadq5nhnzgbi44ncotwqaae4prmvfggbe76ier5sc3k6ta.arweave.net/GtM9CuAcOtO3Jgo5xonTtAACcfFlSmMEn_IJHshbV6Y"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DL7rdF6BBscKc4AWBnF6bpQc9snjK1TujhkVzHoAw7Vf"
+validator_list = "D8NYEZbwreZGMmvf9dQi1PcvhqbMw9MZQZ7LVw82kPkR"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
+mint = "aurUGKbigcGFTz8JUYtG3Lzu2MgidH5yoLvzvrePhXZ"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Aurum Staked SOL"
+symbol = "aurumSOL"
+logo_uri = "https://oqewntjtushdf3p227tedmuye3srdsxc3obrplcftw6moxtc2qqa.arweave.net/dAlmzTOkjjLt-tfmQbKYJuURyuLbgxesRZ28x15i1CA"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "H5sqtcFpQDukDsqS5TUo2ZfdxRrjxPDUXcB8Rbyz8RDS"
+validator_list = "BMrTZxzY2LfzstiyeGf3kTbrLMajv54PBxmaHgpKu2Co"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
 mint = "9YxoymbyoYGZGMUbgPoSqSHEuq2b1mygqihFLHchNAE9"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Venus Staked SOL"

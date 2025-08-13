@@ -28,8 +28,8 @@ vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
 [[sanctum_lst_list]]
 mint = "met1dVtsJywXVRBkm9naz6K212TZ475aoThntPB6zKy"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "Meteora Staked SOL"
-symbol = "metSOL"
+name = "Meteora dbcSOL"
+symbol = "dbcSOL"
 logo_uri = "https://pth7lzg3vbjr6vo4w2ppzpxjduqxzdol3ueuphd3wx6dct4zkswa.arweave.net/fM_15NuoUx9V3Lae_L7pHSF8jcvdCUece7X8MU-ZVKwY"
 decimals = 9
 [sanctum_lst_list.pool]

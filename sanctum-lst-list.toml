@@ -30,7 +30,7 @@ mint = "met1dVtsJywXVRBkm9naz6K212TZ475aoThntPB6zKy"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Meteora dbcSOL"
 symbol = "dbcSOL"
-logo_uri = "https://pth7lzg3vbjr6vo4w2ppzpxjduqxzdol3ueuphd3wx6dct4zkswa.arweave.net/fM_15NuoUx9V3Lae_L7pHSF8jcvdCUece7X8MU-ZVKwY"
+logo_uri = "https://arweave.net/z4TNbitc0l5VNhUoPPXxNS2vBaMxZ4Hax4jod-y4gOY"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
@@ -43,7 +43,7 @@ mint = "aurUGKbigcGFTz8JUYtG3Lzu2MgidH5yoLvzvrePhXZ"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Aurum Staked SOL"
 symbol = "aurumSOL"
-logo_uri = "https://7ra3hq376cgwyrsw4mc7fwufhmb4t4zvlolvpgemphlhbzf5tgiq.arweave.net/_EGzw3_wjWxGVuMF8tqFOwPJ8zVbl1eYjHnWcOS9mZE"
+logo_uri = "https://4eihdndvwltkdwkafhct7khndelf733x324ayrsrdcuu2q7v7n6a.arweave.net/4RBxtHWy5qHZQCnFP6jtGRZf73feuAxGURipTUP1-3w"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"

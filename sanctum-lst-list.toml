@@ -17923,6 +17923,7 @@ program = "Spl"
 pool = "sntn1Y9gX7MwcPD6Z4GLCkUAy7iKAZika6RUjDu1paS"
 validator_list = "sntn1HARA3aKJVRKK9H7ThEddhCoNdJn8Px68VusQsj"
 
+[[sanctum_lst_list]]
 name = "USD Yield SOL"
 symbol = "USDsol"
 mint = "usdso1MHxH9jgB2EfVsQf9WJzQr21AoWxizTFejmejR"
@@ -17934,6 +17935,7 @@ program = "Spl"
 pool = "usdso1sm1FsPtKSFsP9KyBHPsqCrxMkYk9dCZnX3WSx"
 validator_list = "1iST5kuxRp1aXXRVVj8ay2FukSeVsoiY1XF57SYxhqi"
 
+[[sanctum_lst_list]]
 name = "Magic Eden Staked SOL"
 symbol = "meSOL"
 mint = "meSo1XvNGYn1xyTYhnBPFK5EB8JS1mXotK3yfHzqcc6"

@@ -17924,6 +17924,18 @@ program = "Spl"
 pool = "cyc1ezCrHkBJ7BNSmE9fBFW2dzTYAbWG8ttgCGYhiHc"
 validator_list = "cyc1eex8fDQzCjhdaJAkF4rmgfQanayjC7JNEPh3U47"
 
+[[sanctum_lst_list]]
+name = "sentinelSOL"
+symbol = "senSOL"
+mint = "sntn1oVhhKuytG42jyjneMYnGAtzkpJsBxHNEskTfGp"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://i.ibb.co/jPS5dYhJ/sentinel-SOL.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "sntn1Y9gX7MwcPD6Z4GLCkUAy7iKAZika6RUjDu1paS"
+validator_list = "sntn1HARA3aKJVRKK9H7ThEddhCoNdJn8Px68VusQsj"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

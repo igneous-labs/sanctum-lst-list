@@ -17936,6 +17936,17 @@ program = "Spl"
 pool = "usdso1sm1FsPtKSFsP9KyBHPsqCrxMkYk9dCZnX3WSx"
 validator_list = "1iST5kuxRp1aXXRVVj8ay2FukSeVsoiY1XF57SYxhqi"
 
+name = "Magic Eden Staked SOL"
+symbol = "meSOL"
+mint = "meSo1XvNGYn1xyTYhnBPFK5EB8JS1mXotK3yfHzqcc6"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://i.ibb.co/MyNbPn90/meSOL.jpg"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "Meso1TUDxhLvKKupvAQpZKqkKrJtpUTiEG9YFXcWXat"
+validator_list = "mESoZPZsVtGQ3B4KW2NHEMqFpjhRxPjP3XSMxZPN1yj"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

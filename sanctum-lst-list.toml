@@ -3315,19 +3315,6 @@ validator_list = "EhJ5uNwBWvjieBiy2mPCTAU7b8VTk5WLYMSjZwvMHRuG"
 vote_account = "Ha1VoTEPWFQp1wZjbQhBNXJftuHvimu1ruzF3xKYRPDQ"
 
 [[sanctum_lst_list]]
-mint = "sctmC5mpdubNEqXGBkya5CoKTbuGvCkYYYppmbhE8RM"
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "(Sanctum Automated) HYLo1"
-symbol = "HYLo1SOL"
-logo_uri = ""
-decimals = 9
-[sanctum_lst_list.pool]
-program = "SanctumSpl"
-pool = "BjrE6XUEVVzk24x8b7gt5fGPrxTuZ42B1rcRjQCikYXm"
-validator_list = "85qza9pxVhYGCMJfGBTp9Xi8EavNPrDYkaXioJ4Drbfm"
-vote_account = "8nJRto45oS8fqqmdFMsm6rJ96rZewKanr1V9NetCF3on"
-
-[[sanctum_lst_list]]
 mint = "sctm4QdE5Hmzo85FWMvCDZZWZpNNTat8XndAngVGtno"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "(Sanctum Automated) HYLS8"

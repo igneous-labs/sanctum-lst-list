@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "KTjWwdHU3PpjxX5XsbdXGr7oNzz9uig1K5uqUXsBAGS"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "SOL on Bags"
+symbol = "SOLb"
+logo_uri = "https://s3.us-east-1.amazonaws.com/bags.brand/BAGS_LST_ICON.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9qBcbY6kXiFfcets3XS8tay36BZQLSLs3eteMZPSYABK"
+validator_list = "8tasAjeLzvex5yfnfrVj45evA7BtAS74txtU9C7SmVD2"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
 mint = "tiNyNcKeDhsntPmvw4GUz1cvz74ovM2hHyi96bpVJYY"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Tinydancer Staked SOL"

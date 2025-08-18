@@ -17612,6 +17612,18 @@ vote_account = "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL"
 
 # Spl
 [[sanctum_lst_list]]
+name = "1000X SOL"
+symbol = "1000XSOL"
+mint = "1ooXSoL7ZSRrhVzAgVLewACFCXaLNqmcHAuSWrWrnBm"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://1000x.sh/pool.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "1XPooL7vwQxZ1MaQEjAGwM4fHsoQxBYfXVx1zCGZMkP"
+validator_list = "1KvALWPNYeeZS5QmqaHvgEFfcdUspWRm4gRS58DpiG9"
+
+[[sanctum_lst_list]]
 name = "The Vault"
 symbol = "vSOL"
 mint = "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"

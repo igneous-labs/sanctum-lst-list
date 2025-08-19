@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "BESTwgY7ShSLbKkVkdzupS7DfYhw5uCSvg4MU6mnwKSo"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Bestcoin Staked SOL"
+symbol = "BestSOL"
+logo_uri = "https://arweave.net/fVVYRj-cCA5ri0_uQlMiA6T_rzv1SMyDnJgWy3Ux1wE"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "5Da5jCii3DLAWoSiVp65WAAUA91ZFrDVnqwZjrV31P6A"
+validator_list = "9ChXfi2s4hZFaZifVnUvWpaLYAcR8Sgqifv5rxZqoqvv"
+vote_account = "BoNKvwirX136zCjcnayEM4W82vn13RKkjm1Sy3UPBdim"
+
+[[sanctum_lst_list]]
 mint = "KTjWwdHU3PpjxX5XsbdXGr7oNzz9uig1K5uqUXsBAGS"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "SOL on Bags"
@@ -39,7 +52,7 @@ validator_list = "5DXEpXyd93We2kdmaUY3QVhP2LL9TD7wCc81mi6MoMug"
 vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
 
 [[sanctum_lst_list]]
-mint = "met1dVtsJywXVRBkm9naz6K212TZ475aoThntPB6zKy"
+mint = "dbc8pZE41SurDP8K7rv2zqPvr3L5LaJRPGFewqqTxhV"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Meteora dbcSOL"
 symbol = "dbcSOL"
@@ -47,8 +60,8 @@ logo_uri = "https://arweave.net/z4TNbitc0l5VNhUoPPXxNS2vBaMxZ4Hax4jod-y4gOY"
 decimals = 9
 [sanctum_lst_list.pool]
 program = "SanctumSpl"
-pool = "DL7rdF6BBscKc4AWBnF6bpQc9snjK1TujhkVzHoAw7Vf"
-validator_list = "D8NYEZbwreZGMmvf9dQi1PcvhqbMw9MZQZ7LVw82kPkR"
+pool = "DnMPmGawiwSNqpHG1Q8unN6sj8WwxeMxTMvUNzYnc4HG"
+validator_list = "9wuHPgEQzjtrLrrKmTw8xqDAS7CWqaP7unvrNEtna14S"
 vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
 
 [[sanctum_lst_list]]

@@ -52,16 +52,16 @@ validator_list = "5DXEpXyd93We2kdmaUY3QVhP2LL9TD7wCc81mi6MoMug"
 vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
 
 [[sanctum_lst_list]]
-mint = "dbc8pZE41SurDP8K7rv2zqPvr3L5LaJRPGFewqqTxhV"
+mint = "dbcUqbniosBxisa3nKTpKjwJ6fEn1yRF3GYMxA8HdBS"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Meteora dbcSOL"
 symbol = "dbcSOL"
 logo_uri = "https://arweave.net/z4TNbitc0l5VNhUoPPXxNS2vBaMxZ4Hax4jod-y4gOY"
 decimals = 9
 [sanctum_lst_list.pool]
-program = "SanctumSpl"
-pool = "DnMPmGawiwSNqpHG1Q8unN6sj8WwxeMxTMvUNzYnc4HG"
-validator_list = "9wuHPgEQzjtrLrrKmTw8xqDAS7CWqaP7unvrNEtna14S"
+program = "SanctumSplMulti"
+pool = "9CnUhSYoekTzGJ2aLzKm2YPSPCuZsurCLsFJuKDneEca"
+validator_list = "39CLEJPMLwDCHvPt5dWWDhnSAbQPygw4xYnAsYNSyeUw"
 vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
 
 [[sanctum_lst_list]]

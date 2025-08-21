@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "gateMurAxe4YFoUR6J63gXGKtkbTfdkMdLjZrCmThFP"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Gate Wrapped SOL"
+symbol = "GTSOL"
+logo_uri = "https://arweave.net/3h5EhmHcesVLbtqkAkGP3DzxNaW8Zde7RyKEvI4Atm0"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "31Mwyr8Qof3LjB7Nn8fuWk6HcGVJCTYFYU3bAmW9fcL1"
+validator_list = "GJm76N2zP317dNL5iw53PUndMSdaMnqJGZLUvSecpUFA"
+vote_account = "2HQ5YHuw8cR1erRYZmemDmQVpfEMCjAvwU7V4fgdemJB"
+
+[[sanctum_lst_list]]
 mint = "BESTwgY7ShSLbKkVkdzupS7DfYhw5uCSvg4MU6mnwKSo"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Bestcoin Staked SOL"

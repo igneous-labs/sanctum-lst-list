@@ -1,5 +1,44 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "gateMurAxe4YFoUR6J63gXGKtkbTfdkMdLjZrCmThFP"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Gate Wrapped SOL"
+symbol = "GTSOL"
+logo_uri = "https://arweave.net/3h5EhmHcesVLbtqkAkGP3DzxNaW8Zde7RyKEvI4Atm0"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "31Mwyr8Qof3LjB7Nn8fuWk6HcGVJCTYFYU3bAmW9fcL1"
+validator_list = "GJm76N2zP317dNL5iw53PUndMSdaMnqJGZLUvSecpUFA"
+vote_account = "2HQ5YHuw8cR1erRYZmemDmQVpfEMCjAvwU7V4fgdemJB"
+
+[[sanctum_lst_list]]
+mint = "BESTwgY7ShSLbKkVkdzupS7DfYhw5uCSvg4MU6mnwKSo"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Bestcoin Staked SOL"
+symbol = "BestSOL"
+logo_uri = "https://arweave.net/fVVYRj-cCA5ri0_uQlMiA6T_rzv1SMyDnJgWy3Ux1wE"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "5Da5jCii3DLAWoSiVp65WAAUA91ZFrDVnqwZjrV31P6A"
+validator_list = "9ChXfi2s4hZFaZifVnUvWpaLYAcR8Sgqifv5rxZqoqvv"
+vote_account = "BoNKvwirX136zCjcnayEM4W82vn13RKkjm1Sy3UPBdim"
+
+[[sanctum_lst_list]]
+mint = "KTjWwdHU3PpjxX5XsbdXGr7oNzz9uig1K5uqUXsBAGS"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "SOL on Bags"
+symbol = "SOLb"
+logo_uri = "https://s3.us-east-1.amazonaws.com/bags.brand/BAGS_LST_ICON.png"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "9qBcbY6kXiFfcets3XS8tay36BZQLSLs3eteMZPSYABK"
+validator_list = "8tasAjeLzvex5yfnfrVj45evA7BtAS74txtU9C7SmVD2"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
 mint = "tiNyNcKeDhsntPmvw4GUz1cvz74ovM2hHyi96bpVJYY"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Tinydancer Staked SOL"
@@ -26,16 +65,16 @@ validator_list = "5DXEpXyd93We2kdmaUY3QVhP2LL9TD7wCc81mi6MoMug"
 vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
 
 [[sanctum_lst_list]]
-mint = "met1dVtsJywXVRBkm9naz6K212TZ475aoThntPB6zKy"
+mint = "dbcMcw2pC8EDt5eiYMiMBwe35mCWK4hRpec98bKAjML"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Meteora dbcSOL"
 symbol = "dbcSOL"
 logo_uri = "https://arweave.net/z4TNbitc0l5VNhUoPPXxNS2vBaMxZ4Hax4jod-y4gOY"
 decimals = 9
 [sanctum_lst_list.pool]
-program = "SanctumSpl"
-pool = "DL7rdF6BBscKc4AWBnF6bpQc9snjK1TujhkVzHoAw7Vf"
-validator_list = "D8NYEZbwreZGMmvf9dQi1PcvhqbMw9MZQZ7LVw82kPkR"
+program = "SanctumSplMulti"
+pool = "2jwPxqMcYy7YRNteXr5yFmZVFopribgpR7mNHEm5sv5Q"
+validator_list = "7pRMEZBNSUxwRLBpAtngS1q2N7dRvgWJk3fyxG7u4A6G"
 vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
 
 [[sanctum_lst_list]]

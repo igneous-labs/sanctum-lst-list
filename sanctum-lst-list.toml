@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "PenguW6ZcFVuvbkm8wZhvCbv9KLExTJeH2Mff7p6TTY"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Pengu Staked SOL"
+symbol = "penguSOL"
+logo_uri = "https://arweave.net/DdiICHUQ4PekKRTtV01Y4HKAdwPZzP3I3MA_-rS0ZMo"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "6GomXTMtSyG4n9owjZyFpRhmSUg8KAwZPcjH24Ls6j1v"
+validator_list = "5wM2x4scNqNJ8nPRskxxAvDLqB56hRSyKrJ1QLYx9d1p"
+vote_account = "pENgUh4K9zNacyU3PXVE9KugW98XCqZsWpEvA8d8wzX"
+
+[[sanctum_lst_list]]
 mint = "gateMurAxe4YFoUR6J63gXGKtkbTfdkMdLjZrCmThFP"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Gate Wrapped SOL"

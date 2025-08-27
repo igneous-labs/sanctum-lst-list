@@ -1,5 +1,31 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "A1PHaeFxsDX6Un1g1UpWYR2MDV5vvsv2g4Mi6sNGC5cb"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Alpha SOL"
+symbol = "alphaSOL"
+logo_uri = "https://arweave.net/Xo48tHQ0oO8PYVz_AaCp6CCklf1hS-X9cp8FE8dHUCA"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8AqDsZzTQ8w6EfVaLP3hwYHEMcQ2xb6K8FaW5z876Wfm"
+validator_list = "5Wgz9GB7KNE8sD3BkR4mYZCnwBKub5LVYEL9fnC8RL6G"
+vote_account = "HxRrsnbc6K8CdEo3LCTrSUkFaDDxv9BdJsTDzBKnUVWH"
+
+[[sanctum_lst_list]]
+mint = "psciEd2oLT79Ebvz2w7jyXX3aaVDfGD4E4agidL8yDD"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Science Staked SOL"
+symbol = "psciSOL"
+logo_uri = "https://arweave.net/1ytHLO81A_4d6H31dylbNLeHPzi2oHuTF2_KzzeRdAk"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "71j67Yhkc5oMJhCWV3jMxDV7QYWYNvcFuiPfLmGBd8tR"
+validator_list = "3toagPXg3FqETbtynNBwQ4vVvo2pRCFNh4Za5tC4i5vn"
+vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
 mint = "PenguW6ZcFVuvbkm8wZhvCbv9KLExTJeH2Mff7p6TTY"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Pengu Staked SOL"

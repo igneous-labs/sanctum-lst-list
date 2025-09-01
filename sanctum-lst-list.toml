@@ -1,18 +1,5 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
-mint = "gotMd6mpiWE4RWTv3eH3SrYjAXpxkQiZYY1zFKCNRq9"
-token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-name = "GOTM Staked SOL"
-symbol = "gotmSOL"
-logo_uri = "https://arweave.net/vktdTiO4C8Kd7JXCioFuWxPaGzHTgCGfxAqp8_syHJQ"
-decimals = 9
-[sanctum_lst_list.pool]
-program = "SanctumSpl"
-pool = "DijcUEcf9ZuBQRKqj7a4QC6rU1HXnptxciPD5gzTwZcM"
-validator_list = "HwMPQQmxNtABgXmtb7KAEC1d3kFH1bfZ1Apak5Rg8PpN"
-vote_account = "Ac1beBKixfNdrTAac7GRaTsJTxLyvgGvJjvy4qQfvyfc"
-
-[[sanctum_lst_list]]
 mint = "goTAUoG8qHdNuBn9sz8gFhGYucvYifMaGFXNM4TuaT6"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Gotas Staked SOL"
@@ -140,7 +127,18 @@ decimals = 9
 program = "SanctumSplMulti"
 pool = "2jwPxqMcYy7YRNteXr5yFmZVFopribgpR7mNHEm5sv5Q"
 validator_list = "7pRMEZBNSUxwRLBpAtngS1q2N7dRvgWJk3fyxG7u4A6G"
-vote_account = "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys"
+
+[[sanctum_lst_list]]
+mint = "gotMd6mpiWE4RWTv3eH3SrYjAXpxkQiZYY1zFKCNRq9"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "GOTM Staked SOL"
+symbol = "gotmSOL"
+logo_uri = "https://arweave.net/vktdTiO4C8Kd7JXCioFuWxPaGzHTgCGfxAqp8_syHJQ"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "DijcUEcf9ZuBQRKqj7a4QC6rU1HXnptxciPD5gzTwZcM"
+validator_list = "HwMPQQmxNtABgXmtb7KAEC1d3kFH1bfZ1Apak5Rg8PpN"
 
 [[sanctum_lst_list]]
 mint = "aurUGKbigcGFTz8JUYtG3Lzu2MgidH5yoLvzvrePhXZ"

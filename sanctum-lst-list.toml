@@ -1,5 +1,31 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "gotMd6mpiWE4RWTv3eH3SrYjAXpxkQiZYY1zFKCNRq9"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "GOTM Staked SOL"
+symbol = "gotmSOL"
+logo_uri = "https://arweave.net/vktdTiO4C8Kd7JXCioFuWxPaGzHTgCGfxAqp8_syHJQ"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DijcUEcf9ZuBQRKqj7a4QC6rU1HXnptxciPD5gzTwZcM"
+validator_list = "HwMPQQmxNtABgXmtb7KAEC1d3kFH1bfZ1Apak5Rg8PpN"
+vote_account = "Ac1beBKixfNdrTAac7GRaTsJTxLyvgGvJjvy4qQfvyfc"
+
+[[sanctum_lst_list]]
+mint = "goTAUoG8qHdNuBn9sz8gFhGYucvYifMaGFXNM4TuaT6"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Gotas Staked SOL"
+symbol = "GotaSOL"
+logo_uri = "https://arweave.net/4S24o7SspaBhZcpJ7e8jp0UFuP3NY6lXDab6xr60mAE"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "6yX9oe29md33pYSNSit1Uq7rn4RTtbcrLjigQQMtYFVD"
+validator_list = "7RR36NDavjmmKgAq2qkK5crTdcZ5kX53WN377uY1LweF"
+vote_account = "Gotas1PRPrkqqSNm1ZKcn8Tpx9qL8krSQzTZ5DPKzkFX"
+
+[[sanctum_lst_list]]
 mint = "A1PHaeFxsDX6Un1g1UpWYR2MDV5vvsv2g4Mi6sNGC5cb"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Alpha SOL"

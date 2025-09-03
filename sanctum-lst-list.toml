@@ -1,5 +1,265 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "XAPdauNsFgUDLFMPxQJeEJ2JmZ758dXBrgzxShoshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Princeton Staked SOL"
+symbol = "PrinSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/princeton.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3Cj3z5DFXd884BpJ1mM2MfNd4fhi1XcKk9FYd6XCsdoD"
+validator_list = "Cw2StpNNcWHugnKf881q7Kn1nXtcGtqeVfLwYNHUaev6"
+vote_account = "ksQuu3JAStVXUeDCHeW6QtVRHNMcdtgPyepUd3Yshrk"
+
+[[sanctum_lst_list]]
+mint = "WUXrheaiBkLH9L5CwNMJFqJp6aZPuYja3BEYQRhshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Penn Staked SOL"
+symbol = "PennSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/pennsylvania.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "BZRfXsMCMFZwxSEPHaYGckbae32X7YHYEAYtZqifHcQv"
+validator_list = "GJsnq3Yg2Gyd7ELhtdGQChSrMErGXWs46eV9y1M8GFKb"
+vote_account = "xLEM6v9xaZ6Mb8SBQjf6ryHpRVxMngdWepbzMUashrk"
+
+[[sanctum_lst_list]]
+mint = "LpyLfNqM8rSXw5YdMVRoo6zmjAmo7E5Pg8iMUsWshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Fuqua Staked SOL"
+symbol = "DukeSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/duke.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CFs2PXHs4PEcYQGx5t3S8SQRmGC4c1G5idGXRfYGqryR"
+validator_list = "BNxAff1g3SQaWoWB5KGm3d1CTUqzuph6bxDsRdyT6Z12"
+vote_account = "PT7kgZzgqUzbkHnQ2asoBtA73iuE69JsPkcKsk9shrk"
+
+[[sanctum_lst_list]]
+mint = "7cpguiErdr8Twga5jJuKfxKCz6SY18xei75yrEAshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Columbia Staked SOL"
+symbol = "ColumbSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/columbia.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "JC3tz5PiRRhjarEw7yQYJZNeBdP5c4KwVPKav26HyDvC"
+validator_list = "GCUwM9V2CmntFrfBnRirEDNLVaSyMrwj4rKZCPwCSuX4"
+vote_account = "FRqYRkp3tUoBc62pnabeX8SVr6p3v6HM2tzT2NVshrk"
+
+[[sanctum_lst_list]]
+mint = "DMLjmzpGu8atEZVfri7VFmbFJMrHWC28rZWA8kUshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Dartmouth Staked SOL"
+symbol = "DartSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/dartmouth.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CVfnjXnh12HiJUdXm1A7UqoVQkkG5SVg2hCZExP8NZe3"
+validator_list = "WSdFBpPEbD9sqcyg51yLJoUF4yE7G4y2hFxNRU22hMB"
+vote_account = "g3YCFRjDBQDv44XtPT6dfGvhrB9DE75zLMybq9Mshrk"
+
+[[sanctum_lst_list]]
+mint = "iTkjbs4qxo2tZo8tyJ2YLADzkZQ9ZZ9PrPKTHh6shrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Vanderbilt Staked SOL"
+symbol = "VandySOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/vanderbilt.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "qfJMxDcb5CZEtDF2eoixZhAfp5yuuYMJQ4u5t2Kq32J"
+validator_list = "485md6mHtnwtwrF6AiEkCxBGb9y5bZRiz3sdRGvziB5C"
+vote_account = "1iD1fPWCyr7VmEwZ9ShtmiK98D4KTSSwXwbA3CDshrk"
+
+[[sanctum_lst_list]]
+mint = "12eAUXkFEsBdZkN6paYZPtHT8hPDQuh3SQ3SGwN2shrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Berkeley Staked SOL"
+symbol = "UCBerkSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/berkeley.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "5JRGqaqnFHPkwfbivQtay5NJu3YdMqcc1E7FJSS2p8G6"
+validator_list = "HvGMLEzpZsAXnq4V4yXMwx13JtmqmBL8EYfUifAHBLgj"
+vote_account = "xtA5ixQt5rvEHfqfGGJkdKqoV9TH14NPfkhsdXsshrk"
+
+[[sanctum_lst_list]]
+mint = "MdNRW7Hb6jHTbHYfS3vomLvjBLkPMfu37BNWstFshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Emory Staked SOL"
+symbol = "EmorySOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/emory.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CE9VJS8JaTyYH22Cc3Ei1LyHFuteS4RaGA6tTGkCYg8"
+validator_list = "DQ3unmGErQ7Y2DYVJNMQjBnBWyoFuPu2KFcrfucvFriF"
+vote_account = "ySxF6XaSFSwU46iJbgyh2rAW5jagLbYULPtWvZCshrk"
+
+[[sanctum_lst_list]]
+mint = "i54G32pu1nXwvE9Km3eWef35b7SHutPj3dNVkLtshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "USC Staked SOL"
+symbol = "USCSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/southcalifornia.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4pEHZHq9AtGWEwrH9nTp5HcMzgUEAm8rkni71kJzhre5"
+validator_list = "DWWHh1QRDmpqRPVrhm5TB7weTQkj9fnkMGhDfLgGsZxU"
+vote_account = "BUgQ241MWNkRGwEYww4VNtLxTZNb92YUzxwtNx7shrk"
+
+[[sanctum_lst_list]]
+mint = "TebMUKf1R8GTeFSsrptEQwnTicABVVKsQaLVjqushrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Illinois Staked SOL"
+symbol = "IlliniSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/illinois.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8DPLuLjknDWB6rYWgbwDzSatXQP1pQa7bDjLHGQJoTVH"
+validator_list = "GbGjxXeK4iTc9tZiuWcxhUyUcWuxukUuvBVtGTVgdeRx"
+vote_account = "Hcdhp5ovmEUEcyBZwv1DAZ5xz727fpZwujFaKCzshrk"
+
+[[sanctum_lst_list]]
+mint = "hbsXJNxYDycDsRkYK44gvMCC22thuewTJrL6b2Eshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Rutgers Staked SOL"
+symbol = "RutgersSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/rutgers.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Ec8aXUHugpXg1ZHKRch3w9svDDjV4mJnLz5jxHVkZbM2"
+validator_list = "74yerzxBay2YVkqKBCuyWf9aPhGKnJm8nz3khYdd4APu"
+vote_account = "FH5SX1WUubW9nD1rweZMofCHGhEp8qUMx3PksLfshrk"
+
+[[sanctum_lst_list]]
+mint = "eq5Qhzq1HHUzcmQ6QFmnB7AYmtryjHHXzB8thDYshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Purdue Staked SOL"
+symbol = "PurdueSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/purdue.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Foi4UBHwhKKstQyxzy8akJPJvWfjpVaTuyv49tewNnkX"
+validator_list = "8nAgX4L58YDMvYnrWZc2KPyDNowSM3Yc6GwCb6SWqzCg"
+vote_account = "VMqRkZTWE5pX8AEow5jqYYxn6QkzLBL94woT2etshrk"
+
+[[sanctum_lst_list]]
+mint = "VfNkNQW8F4eJBRAZsULpNHCMnu91rcMCkrg377gshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Minnesota Staked SOL"
+symbol = "UMinnSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/minnesota.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "2rBN1nkVs9CWkEy41Eb9WRgi6TLzgek4RpuzWbCmq4jH"
+validator_list = "FuR18dQNKaiicULmotRCt66A2K38JBS2bEfwLT26uBiA"
+vote_account = "Cw2b2ng2fa78ndCXHcJMT1pqvdGxUHu5EBEB8KBshrk"
+
+[[sanctum_lst_list]]
+mint = "jj3fmYqci6x8ujXADZPquw5KAkaTtZvkhyBjXc4shrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Villanova Staked SOL"
+symbol = "VillSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/villanova.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Cq61tjytNVDMQ4QjfL1jypsce4ZuzY1rnYVyrxZPZY3J"
+validator_list = "FqQuYjGiTj68twxGSjib8ueWzyyMdF4YkdTg4V15GqpM"
+vote_account = "c3wFuF1LCtsY5DGo7eBQCwLHhtZgAxNwNDrUCqashrk"
+
+[[sanctum_lst_list]]
+mint = "VqAg75rfuCmVp1Q7q4WQBixr84N5F7nG8xSfKpqshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Oregon Staked SOL"
+symbol = "OregonSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/oregon.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "C1cbnSdmgWkkToo4UjBcoGwSgZUQd4XwEwtHMU2i9Ewy"
+validator_list = "3pkHD9zoa2F13N4Hfdd3V32P9Gk1nhQZcnXFEiPLz2A9"
+vote_account = "MWogB4b5RamyKE4mur8a8iRy63gZqyDfDF7ebDdshrk"
+
+[[sanctum_lst_list]]
+mint = "NQwtjbEneRE9MtK6febzWiHkRBNUdwvq7L9m7khshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Fullerton Staked SOL"
+symbol = "CSUFullSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/california.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FKJrBoaj6jXGFQqVqXVvGakGYP7VXn7J1RPJb3Sh1zry"
+validator_list = "GCdcHbENqDFpig21ZE4NrUDTNHgS2z3GSs82Sip9yHPF"
+vote_account = "13WYH5onYubA1gnKbnv222oNZ61pNfSXN5EYyvgGshrk"
+
+[[sanctum_lst_list]]
+mint = "t6D5PpP2nseNQGiFiE7P96KTgFXeKpvUEBBB3jjshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Waterloo Staked SOL"
+symbol = "UWaterSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/waterloo.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Ej59UcPLrYHgPpE1Z8UHj3HNAoYSe2K7HXoxtnkCPn2X"
+validator_list = "AvSAr37wYv6MiqoXGcURUr9M1JeHsk28iBJgFCkddTxx"
+vote_account = "gGQb6ZcDG7fsVLWTvXZ1LLoY348tc1zcP2wkh8kshrk"
+
+[[sanctum_lst_list]]
+mint = "SuwyyGAgeWBJwbsns8RjxaVqsMWHEbubrGT89rsshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Georgia Tech Staked SOL"
+symbol = "GTechSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/georgia.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "ENqNg1heLDZjqz1yAYKLAZZ5R5mQUmJCDEngFDaWHnHm"
+validator_list = "EkEaUn71ej7sS5Pt7YiS69PcFdq4dg726EUfeGUaoVLd"
+vote_account = "GLB3jUr5zuu79zFuEH3KP7boxtWsjHVyYRBK2SPshrk"
+
+[[sanctum_lst_list]]
+mint = "AQJ1meJCjeGUtu28AbYkqDzCkB7wsvruUjpyacRshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Dalhousie Staked SOL"
+symbol = "DalSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/dalhousie.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "6hNCHATtnbHnkPYCYgH3hKS9NKSJp2KXSZxx4uYTeuPJ"
+validator_list = "Cxh6XTkYxfrC5iReWUY5fXRP5hysUZshww8EVzjKwBru"
+vote_account = "T6bpj6H6fr9GyKe73DcNjPbGeSk8twDsiNcU4srshrk"
+
+[[sanctum_lst_list]]
+mint = "V6umVPetiojhNMsMW6veRs13JiPQHWBtkr8reWEshrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Michigan Staked SOL"
+symbol = "UMichSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/michigan.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "ALscocybKZ1719y8czqabAdQN777gqmPvzqT4TrPnnmL"
+validator_list = "B6QESSEx965xXboWr9xHbEqTz9zra5SZUKotwHNbuYKA"
+vote_account = "MkyLHecSHN7TBdWgnh2J8KCsEHnsqqbVYSxtGmsshrk"
+
+[[sanctum_lst_list]]
 mint = "goTAUoG8qHdNuBn9sz8gFhGYucvYifMaGFXNM4TuaT6"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Gotas Staked SOL"

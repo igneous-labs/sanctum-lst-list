@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "LegQQkRCGrp4EqMy8NVrpMTbNi5jaQUDdhKhQSSBSE6"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Legends SOL"
+symbol = "legendsSOL"
+logo_uri = "https://arweave.net/CvvApX1rgai7mV6BgXfU8yXQQlhc0vKeRBhbHGD-WF0"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "4sSbXZ3UfP72BbqrCk6uxTo195QPgwS6ihpaCN6CFs7f"
+validator_list = "7hf2H36jy7i5bJCMUhcgsuPumrpuukLDPfrZ53igmtVH"
+vote_account = "P1TCHYwYPsNaNUK6fGkZzwXPjnYAMYRnUUv4c1TREee"
+
+[[sanctum_lst_list]]
 mint = "genMsDWwH9WuuosGJyfEi4yn9rDc1boG6TNafMfFc43"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Genesis Toby Staked SOL"

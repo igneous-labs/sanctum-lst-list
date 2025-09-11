@@ -2606,6 +2606,19 @@ pool = "Gyu7jVRXaBSWy5CPApsXa4Yat85F5AkcpC4JM5Z96shD"
 validator_list = "4N2CT3jq82quQiS7xy7G2fmX8sAcrq2mr8zAejd2RDNB"
 vote_account = "3ZUQekqiZoybB57y49eqtvSaoonqDwuNbeqEGwN88JkQ"
 
+[[sanctum_lst_list]]
+mint = "sctmTAsDn4tLUcemqoqYijfuRkiEfAMPi84PNq2EueR"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "Nansen Staked SOL"
+symbol = "nxSOL"
+logo_uri = "https://arweave.net/yIhHVanYDPbqPtBz2dx3Ew8kvY0GWUk9Et3u3ukjgms"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FyucURhqXtpSJzymEPmXLpr6tJKct5JuixVU5Tv9bCp7"
+validator_list = "EJj12WWy8RH3PgYmFY91SaFL5BtpbfdbQxSzzRg8sjzS"
+vote_account = "2NxEEbhqqj1Qptq5LXLbDTP5tLa9f7PqkU8zNgxbGU9P"
+
 # Spl Single Pool
 
 [[sanctum_lst_list]]

@@ -1,5 +1,18 @@
 # SanctumSpl Pool -- S upgrade path
 [[sanctum_lst_list]]
+mint = "qW1RdJQ5SPttcYNddjGY44JPaFxh8MxkE52BFKashrk"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "BTHS SOL"
+symbol = "BTHSSOL"
+logo_uri = "https://obj.sharklabs.sh/validators/validators/bths.jpg"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DkRxzkzBURrkVnv4S2z71B2tA8MuMjwjHFX3nGSaY88K"
+validator_list = "EgEn47GFdW3MnV61vJWdFuEPct6k3jSuW2wk2ebYt8gn"
+vote_account = "Ettghfhr2kQerqAyGUuifFtBX17QecRe2gwpUZTAbZuw"
+
+[[sanctum_lst_list]]
 mint = "LegQQkRCGrp4EqMy8NVrpMTbNi5jaQUDdhKhQSSBSE6"
 token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 name = "Legends SOL"

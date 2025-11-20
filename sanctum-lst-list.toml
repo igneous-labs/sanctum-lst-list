@@ -3120,3 +3120,15 @@ logo_uri = "https://raw.githubusercontent.com/solana-labs/token-list/main/assets
 decimals = 9
 [sanctum_lst_list.pool]
 program = "Marinade"
+
+[[sanctum_lst_list]]
+mint = "L33mHftsNpaj39z1omnGbGbuA5eKqSsbmr91rjTod48"
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+name = "IndieSOL"
+symbol = "IndieSOL"
+logo_uri = "https://4abzttm5ti36kt5hylv467hdf2pj4pgwdv5yimpxo4hjx6kkmx6q.arweave.net/4AOZzZ2aN-VPp8Lrz3zjLp6ePNYde4Qx93cOm_lKZf0"
+decimals = 9
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "L33mHftsNpaj39z1omnGbGbuA5eKqSsbmr91rjTod48"
+validator_list = "FRJc2j8hSZYpumHDcxPTx3X7A5JoA2AkrpxQcHCmLW1g"
